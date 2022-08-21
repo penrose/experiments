@@ -1,5 +1,5 @@
 diff --git a/packages/automator/index.tsx b/packages/automator/index.tsx
-index 689a0ec39..7583033c3 100755
+index 689a0ec39..37b715acd 100755
 --- a/packages/automator/index.tsx
 +++ b/packages/automator/index.tsx
 @@ -1,25 +1,18 @@
@@ -38,7 +38,7 @@ index 689a0ec39..7583033c3 100755
    --staged Generate staged SVGs of the final diagram
    --cross-energy Compute the cross-instance energy
    --variation The variation to use
-@@ -109,170 +102,40 @@ const singleProcess = async (
+@@ -109,170 +102,43 @@ const singleProcess = async (
  
    console.log(`Stepping for ${out} ...`);
  
@@ -83,7 +83,9 @@ index 689a0ec39..7583033c3 100755
 -  } else {
 -    // if not staged, we just need one canvas data (for the final diagram)
 -    canvas = (await RenderStatic(optimizedState, resolvePath)).outerHTML;
--  }
++  if (!fs.existsSync(out)) {
++    fs.mkdirSync(out, { recursive: true });
+   }
 -
 -  const reactRenderEnd = process.hrtime(reactRenderStart);
 -  const overallEnd = process.hrtime(overallStart);

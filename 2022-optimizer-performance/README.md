@@ -8,7 +8,11 @@ optimizer could possibly be, without fundamentally changing how it works.
 ## Usage
 
 All commands in this README assume your working directory is the directory
-containing this README.
+containing this README. You'll first need to clone the Penrose repo submodule:
+
+```sh
+git submodule update penrose
+```
 
 This experiment requires some changes to the Penrose repo, stored in
 `penrose.patch`. To apply those changes, run this command:

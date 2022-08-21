@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
-set -eo pipefail
+set -eox pipefail
 
 pushd penrose/packages
+yarn
 
 pushd examples
 yarn build
