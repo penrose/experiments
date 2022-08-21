@@ -1,0 +1,448 @@
+diff --git a/packages/automator/index.tsx b/packages/automator/index.tsx
+index 689a0ec39..7583033c3 100755
+--- a/packages/automator/index.tsx
++++ b/packages/automator/index.tsx
+@@ -1,25 +1,18 @@
+ require("global-jsdom/register");
+ import {
+   compileTrio,
+-  evalEnergy,
+-  getListOfStagedStates,
+   makeCanvas,
+   prepareState,
+-  RenderStatic,
+   shapedefs,
+   showError,
+   simpleContext,
+-  stepUntilConvergence,
+ } from "@penrose/core";
+ import { ShapeDef } from "@penrose/core/build/dist/shapes/Shapes";
+ import chalk from "chalk";
+-import convertHrtime from "convert-hrtime";
+ import { randomBytes } from "crypto";
+ import * as fs from "fs";
+ import neodoc from "neodoc";
+-import fetch from "node-fetch";
+-import { dirname, join, parse, resolve } from "path";
+-import * as prettier from "prettier";
++import { join } from "path";
+ import uniqid from "uniqid";
+ import { renderArtifacts } from "./artifacts";
+ 
+@@ -36,7 +29,7 @@ Options:
+   -o, --outFile PATH Path to either a file or a folder, depending on the value of --folders. [default: output.svg]
+   --folders Include metadata about each output diagram. If enabled, outFile has to be a path to a folder.
+   --src-prefix PREFIX the prefix to SUBSTANCE, STYLE, and DOMAIN, or the library equivalent in batch mode. No trailing "/" required. [default: .]
+-  --repeat TIMES the number of instances 
++  --repeat TIMES the number of instances
+   --staged Generate staged SVGs of the final diagram
+   --cross-energy Compute the cross-instance energy
+   --variation The variation to use
+@@ -109,170 +102,40 @@ const singleProcess = async (
+ 
+   console.log(`Stepping for ${out} ...`);
+ 
+-  const convergeStart = process.hrtime();
+-  let optimizedState;
+-  const optimizedOutput = stepUntilConvergence(initialState, 10000);
+-  if (optimizedOutput.isOk()) {
+-    optimizedState = optimizedOutput.value;
+-  } else {
+-    throw new Error(
+-      `Optimization failed:\n${showError(optimizedOutput.error)}`
+-    );
+-  }
+-  const convergeEnd = process.hrtime(convergeStart);
+-  const reactRenderStart = process.hrtime();
+-
+-  // make a list of canvas data if staged (prepare to generate multiple SVGs)
+-  const listOfCanvasData: string[] = [];
+-  let canvas;
+-  const resolvePath = async (filePath: string) => {
+-    // Handle absolute URLs
+-    if (/^(http|https):\/\/[^ "]+$/.test(filePath)) {
+-      const fileURL = new URL(filePath).href;
+-      try {
+-        const fileReq = await fetch(fileURL);
+-        return fileReq.text();
+-      } catch (e) {
+-        return undefined;
+-      }
+-    }
+-
+-    // Relative paths
+-    const parentDir = parse(join(prefix, sty)).dir;
+-    const joined = resolve(parentDir, filePath);
+-    return fs.readFileSync(joined, "utf8").toString();
+-  };
+-  if (staged) {
+-    const listOfStagedStates = getListOfStagedStates(optimizedState);
+-    for (const state of listOfStagedStates) {
+-      listOfCanvasData.push((await RenderStatic(state, resolvePath)).outerHTML);
+-    }
+-  } else {
+-    // if not staged, we just need one canvas data (for the final diagram)
+-    canvas = (await RenderStatic(optimizedState, resolvePath)).outerHTML;
+-  }
+-
+-  const reactRenderEnd = process.hrtime(reactRenderStart);
+-  const overallEnd = process.hrtime(overallStart);
+-
+-  // cross-instance energy evaluation
+-
+-  if (folders) {
+-    // TODO: check for non-zero constraints
+-    // const energies = JSON.parse(
+-    //   await runPenrose(Packets.EnergyValues(optimizedState))
+-    // );
+-    // const constrs = nonZeroConstraints(optimizedState, energies.contents[1], 1);
+-    // if (constrs.length > 0) {
+-    //   console.log("This instance has non-zero constraints: ");
+-    //   // return;
+-    // }
+-    let crossEnergy: number = Infinity;
+-    if (ciee) {
+-      console.log(chalk.yellow(`Computing cross energy...`));
+-      if (referenceState) {
+-        const crossState = {
+-          ...optimizedState,
+-          constrFns: referenceState.constrFns,
+-          objFns: referenceState.objFns,
+-        };
+-        try {
+-          crossEnergy = evalEnergy(await prepareState(crossState));
+-        } catch (e) {
+-          console.warn(
+-            chalk.yellow(
+-              `Cross-instance energy failed. Returning infinity instead. \n${e}`
+-            )
+-          );
+-        }
+-      }
+-    }
+-
+-    // fetch metadata if available
+-    let extraMetadata;
+-    if (extrameta) {
+-      extraMetadata = JSON.parse(
+-        fs.readFileSync(join(prefix, extrameta), "utf8").toString()
+-      );
+-    }
+-
+-    const metadata = {
+-      ...meta,
+-      renderedOn: Date.now(),
+-      timeTaken: {
+-        // includes overhead like JSON, recollecting labels
+-        overall: convertHrtime(overallEnd).milliseconds,
+-        compilation: convertHrtime(compileEnd).milliseconds,
+-        labelling: convertHrtime(labelEnd).milliseconds,
+-        optimization: convertHrtime(convergeEnd).milliseconds,
+-        rendering: convertHrtime(reactRenderEnd).milliseconds,
+-      },
+-      // violatingConstraints: constrs,
+-      // nonzeroConstraints: constrs.length > 0,
+-      // selectorMatches: optimizedState.selectorMatches,
+-      selectorMatches: [],
+-      optProblem: {
+-        constraintCount: optimizedState.constrFns.length,
+-        objectiveCount: optimizedState.objFns.length,
++  fs.writeFileSync(
++    "out/objgrad.c",
++    initialState.params.objectiveAndGradient["src"]
++  );
++  fs.writeFileSync(
++    "out/data.json",
++    JSON.stringify(
++      {
++        varyingValues: initialState.varyingValues,
++        inputs: initialState.inputs.map((meta) => Object.keys(meta)[0]),
++        canvas: initialState.canvas,
++        params: {
++          lastGradient: initialState.params.lastGradient,
++          lastGradientPreconditioned:
++            initialState.params.lastGradientPreconditioned,
++          weight: initialState.params.weight,
++          UOround: initialState.params.UOround,
++          EPround: initialState.params.EPround,
++          optStatus: initialState.params.optStatus,
++          lbfgsInfo: initialState.params.lbfgsInfo,
++        },
+       },
+-      reference,
+-      ciee: crossEnergy,
+-      extra: extraMetadata,
+-    };
+-    if (!fs.existsSync(out)) {
+-      fs.mkdirSync(out, { recursive: true });
+-    }
+-
+-    // if staged, write each canvas data out as an SVG
+-    if (staged) {
+-      const writeFileOut = (canvasData: any, index: number) => {
+-        // add an index num to the output filename so the user knows the order
+-        // and also to keep unique filenames
+-        let filename = join(out, `output${index.toString()}.svg`);
+-        fs.writeFileSync(filename, canvasData);
+-        console.log(chalk.green(`The diagram has been saved as ${filename}`));
+-      };
+-      listOfCanvasData.forEach(writeFileOut);
+-    } else {
+-      // not staged --> just need one diagram
+-      fs.writeFileSync(
+-        join(out, "output.svg"),
+-        prettier.format(canvas, { parser: "html" })
+-      );
+-    }
+-
+-    fs.writeFileSync(join(out, "substance.sub"), subIn);
+-    fs.writeFileSync(join(out, "style.sty"), styIn);
+-    fs.writeFileSync(join(out, "domain.dsl"), dslIn);
+-    fs.writeFileSync(join(out, "meta.json"), JSON.stringify(metadata, null, 2));
+-    console.log(
+-      chalk.green(`The diagram and metadata has been saved to ${out}`)
+-    );
+-    // returning metadata for aggregation
+-    return { metadata, state: optimizedState };
+-  } else {
+-    const parentFolder = dirname(out);
+-    if (!fs.existsSync(parentFolder)) {
+-      fs.mkdirSync(parentFolder, { recursive: true });
+-    }
+-    if (staged) {
+-      // write multiple svg files out
+-      const writeFileOut = (canvasData: any, index: number) => {
+-        let filename = out.slice(0, out.indexOf("svg") - 1);
+-        let newStr = `${filename}${index.toString()}.svg`;
+-        fs.writeFileSync(newStr, canvasData);
+-        console.log(chalk.green(`The diagram has been saved as ${newStr}`));
+-      };
+-      listOfCanvasData.forEach(writeFileOut);
+-    } else {
+-      // just the final diagram
+-      fs.writeFileSync(out, prettier.format(canvas, { parser: "html" }));
+-      console.log(chalk.green(`The diagram has been saved as ${out}`));
+-    }
+-
+-    // HACK: return empty metadata??
+-    return undefined;
+-  }
++      null,
++      2
++    )
++  );
++  // fs.writeFileSync(
++  //   "out/outputs.json",
++  //   JSON.stringify(
++  //     initialState.params.currObjectiveAndGradient(initialState.varyingValues),
++  //     null,
++  //     2
++  //   )
++  // );
+ };
+ 
+ // Takes a trio of registries/libraries and runs `singleProcess` on each substance program.
+diff --git a/packages/core/src/engine/Autodiff.ts b/packages/core/src/engine/Autodiff.ts
+index bd318aa16..7969f66d1 100644
+--- a/packages/core/src/engine/Autodiff.ts
++++ b/packages/core/src/engine/Autodiff.ts
+@@ -915,10 +915,8 @@ const compileUnary = ({ unop }: ad.UnaryNode, param: ad.Id): string => {
+     case "inverse": {
+       return `1 / (${param} + ${EPS_DENOM})`;
+     }
+-    case "sqrt": // NOTE: Watch out for negative numbers in sqrt
+-    case "abs":
+-    case "acosh":
+     case "acos":
++    case "acosh":
+     case "asin":
+     case "asinh":
+     case "atan":
+@@ -931,17 +929,23 @@ const compileUnary = ({ unop }: ad.UnaryNode, param: ad.Id): string => {
+     case "expm1":
+     case "floor":
+     case "log":
+-    case "log2":
+     case "log10":
+     case "log1p":
++    case "log2":
+     case "round":
+-    case "sign":
+     case "sin":
+     case "sinh":
++    case "sqrt":
+     case "tan":
+     case "tanh":
+     case "trunc": {
+-      return `Math.${unop}(${param})`;
++      return `${unop}(${param})`;
++    }
++    case "abs": {
++      return `fabs(${param})`;
++    }
++    case "sign": {
++      return `copysign(1.0, ${param})`; // https://stackoverflow.com/a/1905142
+     }
+   }
+ };
+@@ -960,16 +964,22 @@ const compileBinary = (
+     case "<":
+     case ">=":
+     case "<=":
+-    case "===":
+     case "&&":
+     case "||": {
+       return `${left} ${binop} ${right}`;
+     }
+-    case "max":
+-    case "min":
++    case "===": {
++      return `${left} == ${right}`;
++    }
++    case "max": {
++      return `fmax(${left}, ${right})`;
++    }
++    case "min": {
++      return `fmin(${left}, ${right})`;
++    }
+     case "atan2":
+     case "pow": {
+-      return `Math.${binop}(${left}, ${right})`;
++      return `${binop}(${left}, ${right})`;
+     }
+   }
+ };
+@@ -980,10 +990,28 @@ const compileNary = ({ op }: ad.NaryNode, params: ad.Id[]): string => {
+       return params.length > 0 ? params.join(" + ") : "0";
+     }
+     case "maxN": {
+-      return `Math.max(${params.join(", ")})`;
++      if (params.length === 0) {
++        return "-INFINITY";
++      } else if (params.length === 1) {
++        return params[0];
++      } else {
++        const str: string = params[0];
++        return params
++          .slice(1)
++          .reduce((soFar, param) => `fmax(${soFar}, ${param})`, str);
++      }
+     }
+     case "minN": {
+-      return `Math.min(${params.join(", ")})`;
++      if (params.length === 0) {
++        return "INFINITY";
++      } else if (params.length === 1) {
++        return params[0];
++      } else {
++        const str: string = params[0];
++        return params
++          .slice(1)
++          .reduce((soFar, param) => `fmin(${soFar}, ${param})`, str);
++      }
+     }
+   }
+ };
+@@ -1049,7 +1077,7 @@ const compileNode = (
+     case "Debug": {
+       const info = JSON.stringify(node.info);
+       const child = safe(preds.get(undefined), "missing node");
+-      return `console.log(${info}, " | value: ", ${child}), ${child}`;
++      return `printf("%s | value: %d\n", ${info}, ${child}), ${child}`;
+     }
+   }
+ };
+@@ -1083,27 +1111,65 @@ export const genCode = ({
+   primary,
+   secondary,
+ }: ad.Graph): ad.Compiled => {
+-  const stmts = getInputs(graph).map(
+-    ({ id, label: { key } }) => `const ${id} = inputs[${key}];`
+-  );
++  const bools = new Map<ad.Id, number>();
++  const floats = new Map<ad.Id, number>();
++  for (const id of graph.nodes()) {
++    const node = graph.node(id);
++    if (typeof node === "number") {
++      floats.set(id, floats.size);
++    } else {
++      switch (node.tag) {
++        case "Comp":
++        case "Logic":
++        case "Not": {
++          bools.set(id, bools.size);
++          break;
++        }
++        case "Input":
++        case "Unary":
++        case "Binary":
++        case "Ternary":
++        case "Nary":
++        case "Index":
++        case "Debug": {
++          floats.set(id, floats.size);
++          break;
++        }
++        case "PolyRoots": {
++          throw Error("Vec :(");
++        }
++      }
++    }
++  }
++  const getType = (id: ad.Id): string => (bools.has(id) ? "bool" : "double");
++  const stmts = [`#include <math.h>
++#include <stdbool.h>
++
++double objective_and_gradient(double *inputs, double *gradient, double *secondary)
++{`, ...getInputs(graph).map(
++    ({ id, label: { key } }) => `double ${id} = inputs[${key}];`
++  )];
+   for (const id of graph.topsort()) {
+     const node = graph.node(id);
+     // we already generated code for the inputs
+     if (typeof node === "number" || node.tag !== "Input") {
+       const preds = new Map(graph.inEdges(id).map(({ v, name }) => [name, v]));
+-      stmts.push(`const ${id} = ${compileNode(node, preds)};`);
++      stmts.push(`${getType(id)} ${id} = ${compileNode(node, preds)};`);
+     }
+   }
+-  const fields = [
+-    // somehow this actually works! if the gradient array is not contiguous, any
+-    // holes will just be filled in by commas when we call join, and that is
+-    // valid JavaScript syntax for array literals with holes, so everything
+-    // works out perfectly
+-    `gradient: [${gradient.join(", ")}]`,
+-    `primary: ${primary}`,
+-    `secondary: [${secondary.join(", ")}]`,
+-  ];
+-  stmts.push(`return { ${fields.join(", ")} };`);
+-  const f = new Function("polyRoots", "inputs", stmts.join("\n"));
+-  return (inputs) => f(polyRoots, inputs);
++  gradient.forEach((id, i) => {
++    stmts.push(`gradient[${i}] = ${id};`);
++  });
++  secondary.forEach((id, i) => {
++    stmts.push(`secondary[${i}] = ${id};`);
++  });
++  stmts.push(`return ${primary};\n}\n`);
++  const src = stmts.join("\n  ");
++  const wrapped = (inputs: number[]) => ({
++    gradient: [],
++    primary: 0,
++    secondary: [],
++  });
++  wrapped.src = src;
++  return wrapped;
+ };
+diff --git a/packages/core/src/engine/Optimizer.ts b/packages/core/src/engine/Optimizer.ts
+index cc0547554..1c2bde613 100644
+--- a/packages/core/src/engine/Optimizer.ts
++++ b/packages/core/src/engine/Optimizer.ts
+@@ -821,6 +821,7 @@ export const genOptProblem = (
+       constrEngs: secondary.slice(objEngs.length),
+     };
+   };
++  objectiveAndGradient.src = f["src"];
+ 
+   const params: Params = {
+     lastGradient: repeat(inputs.length, 0),
