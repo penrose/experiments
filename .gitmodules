@@ -1,3 +1,6 @@
 [submodule "2022-autodiff-rewrite-determinism/penrose"]
 	path = 2022-autodiff-rewrite-determinism/penrose
 	url = https://github.com/penrose/penrose
+[submodule "2022-optimizer-performance/penrose"]
+	path = 2022-optimizer-performance/penrose
+	url = https://github.com/penrose/penrose
