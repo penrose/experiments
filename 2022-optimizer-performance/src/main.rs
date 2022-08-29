@@ -2,8 +2,6 @@ mod gen_code;
 
 use std::time::Instant;
 
-use gen_code::Outputs;
-
 use crate::gen_code::{LEN_GRADIENT, LEN_SECONDARY};
 
 #[derive(Debug)]

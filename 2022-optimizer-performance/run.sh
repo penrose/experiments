@@ -18,6 +18,12 @@ popd
 
 popd
 
-cp penrose/packages/automator/out/hypergraph-hypergraph/objgrad.c src/
+diagram=hypergraph-hypergraph
+thedir=penrose/packages/automator/out/$diagram
+
+cp $thedir/objgrad.c src/
+./gen_code.js $thedir > src/gen_code.rs
+
 cargo build --release
+
 time target/release/penrose-experiment
