@@ -1,8 +1,16 @@
 diff --git a/packages/automator/index.tsx b/packages/automator/index.tsx
-index 689a0ec39..2729ae9e0 100755
+index 689a0ec39..c25d9ddef 100755
 --- a/packages/automator/index.tsx
 +++ b/packages/automator/index.tsx
-@@ -36,7 +36,7 @@ Options:
+@@ -12,6 +12,7 @@ import {
+   stepUntilConvergence,
+ } from "@penrose/core";
+ import { ShapeDef } from "@penrose/core/build/dist/shapes/Shapes";
++import { State } from "@penrose/core/build/dist/types/state";
+ import chalk from "chalk";
+ import convertHrtime from "convert-hrtime";
+ import { randomBytes } from "crypto";
+@@ -36,7 +37,7 @@ Options:
    -o, --outFile PATH Path to either a file or a folder, depending on the value of --folders. [default: output.svg]
    --folders Include metadata about each output diagram. If enabled, outFile has to be a path to a folder.
    --src-prefix PREFIX the prefix to SUBSTANCE, STYLE, and DOMAIN, or the library equivalent in batch mode. No trailing "/" required. [default: .]
@@ -11,10 +19,46 @@ index 689a0ec39..2729ae9e0 100755
    --staged Generate staged SVGs of the final diagram
    --cross-energy Compute the cross-instance energy
    --variation The variation to use
-@@ -120,6 +120,14 @@ const singleProcess = async (
+@@ -60,6 +61,26 @@ const nonZeroConstraints = (
+ 
+ const toMs = (hr: any) => hr[1] / 1000000;
+ 
++const gatherData = (state: State): string => JSON.stringify(
++  {
++    varyingValues: state.varyingValues,
++    inputs: state.inputs.map((meta) => Object.keys(meta)[0]),
++    canvas: state.canvas,
++    params: {
++      lastGradient: state.params.lastGradient,
++      lastGradientPreconditioned:
++        state.params.lastGradientPreconditioned,
++      weight: state.params.weight,
++      UOround: state.params.UOround,
++      EPround: state.params.EPround,
++      optStatus: state.params.optStatus,
++      lbfgsInfo: state.params.lbfgsInfo,
++    },
++  },
++  null,
++  2
++);
++
+ // In an async context, communicate with the backend to compile and optimize the diagram
+ const singleProcess = async (
+   variation: string,
+@@ -107,6 +128,7 @@ const singleProcess = async (
+   const initialState = await prepareState(compiledState);
+   const labelEnd = process.hrtime(labelStart);
+ 
++  const initialData = gatherData(initialState);
+   console.log(`Stepping for ${out} ...`);
+ 
+   const convergeStart = process.hrtime();
+@@ -120,6 +142,15 @@ const singleProcess = async (
      );
    }
    const convergeEnd = process.hrtime(convergeStart);
++  const finalData = gatherData(optimizedState);
 +  const objGradStart = process.hrtime();
 +
 +  const numObjGradCalls = optimizedState.params.objGradCounter.numCalls;
@@ -26,7 +70,7 @@ index 689a0ec39..2729ae9e0 100755
    const reactRenderStart = process.hrtime();
  
    // make a list of canvas data if staged (prepare to generate multiple SVGs)
-@@ -199,6 +207,7 @@ const singleProcess = async (
+@@ -199,6 +230,7 @@ const singleProcess = async (
      const metadata = {
        ...meta,
        renderedOn: Date.now(),
@@ -34,7 +78,7 @@ index 689a0ec39..2729ae9e0 100755
        timeTaken: {
          // includes overhead like JSON, recollecting labels
          overall: convertHrtime(overallEnd).milliseconds,
-@@ -206,6 +215,7 @@ const singleProcess = async (
+@@ -206,6 +238,7 @@ const singleProcess = async (
          labelling: convertHrtime(labelEnd).milliseconds,
          optimization: convertHrtime(convergeEnd).milliseconds,
          rendering: convertHrtime(reactRenderEnd).milliseconds,
@@ -42,10 +86,12 @@ index 689a0ec39..2729ae9e0 100755
        },
        // violatingConstraints: constrs,
        // nonzeroConstraints: constrs.length > 0,
-@@ -245,6 +255,7 @@ const singleProcess = async (
+@@ -245,6 +278,9 @@ const singleProcess = async (
      fs.writeFileSync(join(out, "style.sty"), styIn);
      fs.writeFileSync(join(out, "domain.dsl"), dslIn);
      fs.writeFileSync(join(out, "meta.json"), JSON.stringify(metadata, null, 2));
++    fs.writeFileSync(join(out, "initial.json"), initialData);
++    fs.writeFileSync(join(out, "final.json"), finalData);
 +    fs.writeFileSync(join(out, "objgrad.c"), optimizedState.params.objectiveAndGradient.src);
      console.log(
        chalk.green(`The diagram and metadata has been saved to ${out}`)
