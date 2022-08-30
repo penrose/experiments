@@ -37,6 +37,7 @@ const lines = [
   '    }',
   '}',
   '',
+  '#[derive(PartialEq)]',
   'pub enum InputMeta {',
   '    Sampler,',
   '    Pending,',

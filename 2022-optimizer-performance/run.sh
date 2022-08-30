@@ -18,11 +18,7 @@ popd
 
 popd
 
-diagram=hypergraph-hypergraph
-thedir=penrose/packages/automator/out/$diagram
-
-cp $thedir/objgrad.c src/
-./gen_code.js $thedir > src/gen_code.rs
+./grab.sh hypergraph-hypergraph
 
 cargo build --release
 
