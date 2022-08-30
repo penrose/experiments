@@ -22,6 +22,8 @@ const lines = [
   `pub const LEN_CONSTR_ENGS: usize = ${meta.numConstrs};`,
   'pub const LEN_SECONDARY: usize = LEN_OBJ_ENGS + LEN_CONSTR_ENGS;',
   '',
+  `pub const NUM_OBJ_GRAD_CALLS: usize = ${meta.numObjGradCalls};`,
+  '',
   'pub fn f(inputs: &[f64], gradient: &mut [f64], secondary: &mut [f64]) -> f64 {',
   '    assert_eq!(inputs.len(), LEN_GRADIENT);',
   '    assert_eq!(gradient.len(), LEN_GRADIENT);',
