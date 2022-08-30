@@ -4,5 +4,8 @@ name = "penrose-experiment"
 publish = false
 version = "0.1.0"
 
+[dependencies]
+ndarray = "0.15"
+
 [build-dependencies]
 cc = "1"

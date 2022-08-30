@@ -1,23 +1,22 @@
 mod gen_code;
 
-#[derive(Clone)]
-struct Matrix;
+type Vector = ndarray::Array1<f64>;
+type Matrix = ndarray::Array2<f64>;
 
 #[derive(Clone, Copy, PartialEq)]
 enum OptStatus {
-    NewIter,
     UnconstrainedRunning,
     UnconstrainedConverged,
     EPConverged,
     Error,
 }
 
-#[derive(Clone)]
+#[derive(Clone, Debug)]
 struct LbfgsParams {
-    last_state: Option<Matrix>,
-    last_grad: Option<Matrix>,
-    s_list: Vec<Matrix>,
-    y_list: Vec<Matrix>,
+    last_state: Option<Vector>,
+    last_grad: Option<Vector>,
+    s_list: Vec<Vector>,
+    y_list: Vec<Vector>,
     num_unconstr_steps: i32,
     mem_size: i32,
 }
@@ -171,21 +170,6 @@ fn step(state: State, steps: i32) -> State {
     );
 
     match opt_status {
-        OptStatus::NewIter => {
-            println!("step newIter, xs {:#?}", xs);
-
-            return State {
-                params: Params {
-                    weight: INIT_CONSTRAINT_WEIGHT,
-                    uo_round: 0,
-                    ep_round: 0,
-                    opt_status: OptStatus::UnconstrainedRunning,
-                    lbfgs_info: DEFAULT_LBFGS_PARAMS,
-                    ..state.params
-                },
-                ..state
-            };
-        }
         OptStatus::UnconstrainedRunning => {
             let res = minimize(&xs, state.params.weight, state.params.lbfgs_info, steps);
             xs = res.xs;
@@ -299,7 +283,7 @@ fn aw_line_search(xs0: &[f64], weight: f64, gradfxs0: &[f64], fxs0: f64) -> f64 
         cond1 <= cond2
     };
 
-    let weak_wolfe = |ti: f64, gradient: &[f64]| {
+    let weak_wolfe = |_ti: f64, gradient: &[f64]| {
         let cond1 = dot(&descent_dir, gradient);
         let cond2 = c2 * duf_at_x0;
         cond1 >= cond2
@@ -307,7 +291,7 @@ fn aw_line_search(xs0: &[f64], weight: f64, gradfxs0: &[f64], fxs0: f64) -> f64 
 
     let wolfe = weak_wolfe;
 
-    let should_stop = |num_updates: i32, ai: f64, bi: f64, t: f64| {
+    let should_stop = |num_updates: i32, ai: f64, bi: f64, _t: f64| {
         let interval_too_small = (ai - bi).abs() < min_interval;
         let too_many_steps = num_updates > max_steps;
 
@@ -350,12 +334,115 @@ fn aw_line_search(xs0: &[f64], weight: f64, gradfxs0: &[f64], fxs0: f64) -> f64 
     t
 }
 
-fn lbfgs_inner(grad_fx_k: Matrix, ss: &[Matrix], ys: &[Matrix]) -> Matrix {
-    todo!()
+fn lbfgs_inner(grad_fx_k: &Vector, ss: &[Vector], ys: &[Vector]) -> Vector {
+    fn estimate_hess(y_km1: &Vector, s_km1: &Vector) -> Matrix {
+        let gamma_k = s_km1.dot(y_km1) / (y_km1.dot(y_km1) + EPSD);
+        let n = y_km1.len();
+        Matrix::eye(n) * gamma_k
+    }
+
+    let rhos: Vec<f64> = ss
+        .iter()
+        .zip(ys)
+        .map(|(s, y)| 1.0 / (y.dot(s) + EPSD))
+        .collect();
+    let q_k = grad_fx_k;
+
+    let mut q_i = q_k.clone();
+    let mut alphas: Vec<f64> = vec![];
+    for ((rho_i, s_i), y_i) in rhos.iter().zip(ss).zip(ys) {
+        let q_i_plus_1 = q_i;
+
+        let alpha_i: f64 = rho_i * s_i.dot(&q_i_plus_1);
+        q_i = q_i_plus_1 - (y_i * alpha_i);
+        alphas.push(alpha_i);
+    }
+    let q_k_minus_m = q_i;
+
+    let h_0_k = estimate_hess(&ys[0], &ss[0]);
+
+    let r_k_minus_m = h_0_k.dot(&q_k_minus_m);
+
+    let mut r_i = r_k_minus_m;
+    for ((rho_i, alpha_i), (s_i, y_i)) in rhos.iter().zip(alphas).zip(ss.iter().zip(ys)).rev() {
+        let beta_i: f64 = rho_i * y_i.dot(&r_i);
+        let r_i_plus_1 = r_i + s_i * (alpha_i - beta_i);
+        r_i = r_i_plus_1;
+    }
+    let r_k = r_i;
+
+    r_k
 }
 
-fn lbfgs(xs: &[f64], grad_fxs: &[f64], lbfgs_info: LbfgsParams) -> LbfgsAnswer {
-    todo!()
+fn lbfgs(xs: &[f64], gradfxs: &[f64], lbfgs_info: LbfgsParams) -> LbfgsAnswer {
+    if lbfgs_info.num_unconstr_steps == 0 {
+        LbfgsAnswer {
+            gradfxs_preconditioned: gradfxs.to_vec(),
+            updated_lbfgs_info: LbfgsParams {
+                last_state: Some(ndarray::arr1(xs)),
+                last_grad: Some(ndarray::arr1(gradfxs)),
+                s_list: vec![],
+                y_list: vec![],
+                num_unconstr_steps: 1,
+                ..lbfgs_info
+            },
+        }
+    } else if lbfgs_info.last_state != None && lbfgs_info.last_grad != None {
+        let x_k = ndarray::arr1(xs);
+        let grad_fx_k = ndarray::arr1(gradfxs);
+
+        let km1 = lbfgs_info.num_unconstr_steps;
+        let x_km1 = lbfgs_info.last_state.clone().unwrap();
+        let grad_fx_km1 = lbfgs_info.last_grad.clone().unwrap();
+        let mut ss_km2 = lbfgs_info.s_list.clone();
+        let mut ys_km2 = lbfgs_info.y_list.clone();
+
+        let s_km1 = &x_k - x_km1;
+        let y_km1 = &grad_fx_k - grad_fx_km1;
+
+        let mut ss_km1 = vec![s_km1];
+        ss_km1.append(&mut ss_km2);
+        ss_km1.truncate(lbfgs_info.mem_size.try_into().unwrap());
+        let mut ys_km1 = vec![y_km1];
+        ys_km1.append(&mut ys_km2);
+        ys_km1.truncate(lbfgs_info.mem_size.try_into().unwrap());
+        let grad_preconditioned = lbfgs_inner(&grad_fx_k, &ss_km1, &ys_km1);
+
+        let descent_dir_check = -1.0 * grad_preconditioned.dot(&grad_fx_k);
+
+        if descent_dir_check > 0.0 {
+            println!(
+                "L-BFGS did not find a descent direction. Resetting correction vectors. {:?}",
+                lbfgs_info
+            );
+            return LbfgsAnswer {
+                gradfxs_preconditioned: gradfxs.to_vec(),
+                updated_lbfgs_info: LbfgsParams {
+                    last_state: Some(x_k),
+                    last_grad: Some(grad_fx_k),
+                    s_list: vec![],
+                    y_list: vec![],
+                    num_unconstr_steps: 1,
+                    ..lbfgs_info
+                },
+            };
+        }
+
+        LbfgsAnswer {
+            gradfxs_preconditioned: grad_preconditioned.into_iter().collect(),
+            updated_lbfgs_info: LbfgsParams {
+                last_state: Some(x_k),
+                last_grad: Some(grad_fx_k),
+                s_list: ss_km1,
+                y_list: ys_km1,
+                num_unconstr_steps: km1 + 1,
+                ..lbfgs_info
+            },
+        }
+    } else {
+        println!("State: {:?}", lbfgs_info);
+        panic!("Invalid L-BFGS state");
+    }
 }
 
 fn minimize(xs0: &[f64], weight: f64, lbfgs_info: LbfgsParams, num_steps: i32) -> OptInfo {
@@ -371,9 +458,9 @@ fn minimize(xs0: &[f64], weight: f64, lbfgs_info: LbfgsParams, num_steps: i32) -
     let mut fxs = 0.0;
     let mut gradfxs = vec![0.0; gen_code::LEN_INPUTS];
     let mut gradient_preconditioned = vec![0.0; gen_code::LEN_INPUTS];
-    let mut norm_grad_fxs = 0.0;
+    let mut norm_gradfxs = 0.0;
     let mut i = 0;
-    let mut t = 0.0001;
+    let mut t;
     let mut failed = false;
 
     let mut obj_engs = vec![];
@@ -382,13 +469,72 @@ fn minimize(xs0: &[f64], weight: f64, lbfgs_info: LbfgsParams, num_steps: i32) -
     let mut new_lbfgs_info = lbfgs_info.clone();
 
     while i < num_steps {
-        todo!();
+        if contains_nan(&xs) {
+            println!("xs {:?}", xs);
+            panic!("NaN in xs");
+        }
+        FnEvaled {
+            f: fxs,
+            gradf: gradfxs,
+            obj_engs,
+            constr_engs,
+        } = objective_and_gradient(weight, &xs);
+        if contains_nan(&gradfxs) {
+            println!("gradfxs {:?}", gradfxs);
+            panic!("NaN in gradfxs");
+        }
+
+        LbfgsAnswer {
+            gradfxs_preconditioned: gradient_preconditioned,
+            updated_lbfgs_info: new_lbfgs_info,
+        } = lbfgs(&xs, &gradfxs, new_lbfgs_info.clone());
+
+        norm_gradfxs = dot(&gradfxs, &gradient_preconditioned);
+
+        if unconstrained_converged(norm_gradfxs) {
+            println!(
+                "descent converged early, on step {} of {} (per display cycle); stopping early",
+                i, num_steps
+            );
+            break;
+        }
+
+        t = aw_line_search(&xs, weight, &gradient_preconditioned, fxs);
+
+        let norm_grad = norm_list(&gradfxs);
+
+        if fxs.is_nan() || norm_grad.is_nan() {
+            println!("-----");
+
+            let path_map = xs.iter().zip(&gradfxs);
+
+            println!("[current val, gradient of val] {:?}", path_map);
+
+            for (x, dx) in path_map {
+                if dx.is_nan() {
+                    println!("NaN in varying val's gradient (current val): {}", x);
+                }
+            }
+
+            println!("i {}", i);
+            println!("num steps per display cycle {}", num_steps);
+            println!("input (xs): {:?}", xs);
+            println!("energy (f(xs)): {:?}", fxs);
+            println!("grad (grad(f)(xs)): {:?}", gradfxs);
+            println!("|grad f(x)|: {}", norm_grad);
+            println!("t {}", t);
+            failed = true;
+            break;
+        }
+
+        xs = subv(&xs, &scalev(t, &gradient_preconditioned));
+        i += 1;
     }
 
     return OptInfo {
         xs,
         energy_val: fxs,
-        norm_grad: norm_grad_fxs,
+        norm_grad: norm_gradfxs,
         new_lbfgs_info,
         gradient: gradfxs,
         gradient_preconditioned,
