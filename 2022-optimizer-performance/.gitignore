@@ -1,3 +1,4 @@
+/out/
 /src/gen_code.rs
 /src/objgrad.c
 /target/

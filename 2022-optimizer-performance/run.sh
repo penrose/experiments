@@ -18,8 +18,9 @@ popd
 
 popd
 
-./grab.sh hypergraph-hypergraph
-
-cargo build --release
-
-time target/release/penrose-experiment
+mkdir -p out/
+for subdir in $(basename penrose/packages/automator/out/* | grep -v '\.'); do
+  ./grab.sh "$subdir"
+  cargo build --release
+  target/release/penrose-experiment > out/"$subdir".json
+done

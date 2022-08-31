@@ -150,9 +150,10 @@ fn objective_and_gradient(objgrad_count: &mut i32, weight: f64, xs: &[f64]) -> F
 fn ep_converged(xs0: &[f64], xs1: &[f64], fxs0: f64, fxs1: f64) -> bool {
     let state_change = norm_list(&subv(xs1, xs0));
     let energy_change = (fxs1 - fxs0).abs();
-    println!(
+    log::info!(
         "epConverged?: stateChange: {} | energyChange: {}",
-        state_change, energy_change,
+        state_change,
+        energy_change,
     );
 
     state_change < EP_STOP || energy_change < EP_STOP
@@ -165,10 +166,12 @@ fn step(objgrad_count: &mut i32, state: State, steps: i32) -> State {
     } = opt_params;
     let mut xs = state.varying_values.clone();
 
-    println!("===============");
-    println!(
+    log::info!("===============");
+    log::info!(
         "step | weight: {} | EP round: {} | UO round: {}",
-        weight, opt_params.ep_round, opt_params.uo_round,
+        weight,
+        opt_params.ep_round,
+        opt_params.uo_round,
     );
 
     match opt_status {
@@ -206,19 +209,22 @@ fn step(objgrad_count: &mut i32, state: State, steps: i32) -> State {
             if unconstrained_converged(norm_grad) {
                 opt_params.opt_status = OptStatus::UnconstrainedConverged;
                 opt_params.lbfgs_info = DEFAULT_LBFGS_PARAMS;
-                println!(
+                log::info!(
                     "Unconstrained converged with energy {} gradient norm {}",
-                    energy_val, norm_grad,
+                    energy_val,
+                    norm_grad,
                 );
             } else {
                 opt_params.opt_status = OptStatus::UnconstrainedRunning;
-                println!(
+                log::info!(
                     "Took {} steps. Current energy {} gradient norm {}",
-                    steps, energy_val, norm_grad,
+                    steps,
+                    energy_val,
+                    norm_grad,
                 );
             }
             if failed {
-                eprintln!("Error detected after stepping");
+                log::warn!("Error detected after stepping");
                 opt_params.opt_status = OptStatus::Error;
                 return State {
                     params: opt_params,
@@ -236,19 +242,19 @@ fn step(objgrad_count: &mut i32, state: State, steps: i32) -> State {
                 )
             {
                 opt_params.opt_status = OptStatus::EPConverged;
-                println!(
+                log::info!(
                     "EP converged with energy {}",
                     opt_params.last_uo_energy.unwrap(),
                 );
             } else {
-                println!("step: UO converged but EP did not converge; starting next round");
+                log::info!("step: UO converged but EP did not converge; starting next round");
                 opt_params.opt_status = OptStatus::UnconstrainedRunning;
 
                 opt_params.weight = WEIGHT_GROWTH_FACTOR * weight;
                 opt_params.ep_round = opt_params.ep_round + 1;
                 opt_params.uo_round = 0;
 
-                println!(
+                log::info!(
                     "increased EP weight to {} in compiled energy and gradient",
                     opt_params.weight,
                 );
@@ -258,11 +264,11 @@ fn step(objgrad_count: &mut i32, state: State, steps: i32) -> State {
             opt_params.last_ep_energy = opt_params.last_uo_energy;
         }
         OptStatus::EPConverged => {
-            println!("step: EP converged");
+            log::info!("step: EP converged");
             return state;
         }
         OptStatus::Error => {
-            eprintln!("step: Error");
+            log::warn!("step: Error");
             return state;
         }
     }
@@ -428,7 +434,7 @@ fn lbfgs(xs: &[f64], gradfxs: &[f64], lbfgs_info: LbfgsParams) -> LbfgsAnswer {
         let descent_dir_check = -1.0 * grad_preconditioned.dot(&grad_fx_k);
 
         if descent_dir_check > 0.0 {
-            println!(
+            log::info!(
                 "L-BFGS did not find a descent direction. Resetting correction vectors. {:?}",
                 lbfgs_info,
             );
@@ -457,7 +463,7 @@ fn lbfgs(xs: &[f64], gradfxs: &[f64], lbfgs_info: LbfgsParams) -> LbfgsAnswer {
             },
         }
     } else {
-        println!("State: {:?}", lbfgs_info);
+        log::info!("State: {:?}", lbfgs_info);
         panic!("Invalid L-BFGS state");
     }
 }
@@ -469,8 +475,8 @@ fn minimize(
     lbfgs_info: LbfgsParams,
     num_steps: i32,
 ) -> OptInfo {
-    println!("-------------------------------------");
-    println!("minimize, num steps, {}", num_steps);
+    log::info!("-------------------------------------");
+    log::info!("minimize, num steps, {}", num_steps);
 
     let min_steps = 1;
     if num_steps < min_steps {
@@ -493,7 +499,7 @@ fn minimize(
 
     while i < num_steps {
         if contains_nan(&xs) {
-            println!("xs {:?}", xs);
+            log::info!("xs {:?}", xs);
             panic!("NaN in xs");
         }
         FnEvaled {
@@ -503,7 +509,7 @@ fn minimize(
             constr_engs,
         } = objective_and_gradient(objgrad_count, weight, &xs);
         if contains_nan(&gradfxs) {
-            println!("gradfxs {:?}", gradfxs);
+            log::info!("gradfxs {:?}", gradfxs);
             panic!("NaN in gradfxs");
         }
 
@@ -515,9 +521,10 @@ fn minimize(
         norm_gradfxs = dot(&gradfxs, &gradient_preconditioned);
 
         if unconstrained_converged(norm_gradfxs) {
-            println!(
+            log::info!(
                 "descent converged early, on step {} of {} (per display cycle); stopping early",
-                i, num_steps,
+                i,
+                num_steps,
             );
             break;
         }
@@ -527,25 +534,25 @@ fn minimize(
         let norm_grad = norm_list(&gradfxs);
 
         if fxs.is_nan() || norm_grad.is_nan() {
-            println!("-----");
+            log::info!("-----");
 
             let path_map = xs.iter().zip(&gradfxs);
 
-            println!("[current val, gradient of val] {:?}", path_map);
+            log::info!("[current val, gradient of val] {:?}", path_map);
 
             for (x, dx) in path_map {
                 if dx.is_nan() {
-                    println!("NaN in varying val's gradient (current val): {}", x);
+                    log::info!("NaN in varying val's gradient (current val): {}", x);
                 }
             }
 
-            println!("i {}", i);
-            println!("num steps per display cycle {}", num_steps);
-            println!("input (xs): {:?}", xs);
-            println!("energy (f(xs)): {:?}", fxs);
-            println!("grad (grad(f)(xs)): {:?}", gradfxs);
-            println!("|grad f(x)|: {}", norm_grad);
-            println!("t {}", t);
+            log::info!("i {}", i);
+            log::info!("num steps per display cycle {}", num_steps);
+            log::info!("input (xs): {:?}", xs);
+            log::info!("energy (f(xs)): {:?}", fxs);
+            log::info!("grad (grad(f)(xs)): {:?}", gradfxs);
+            log::info!("|grad f(x)|: {}", norm_grad);
+            log::info!("t {}", t);
             failed = true;
             break;
         }
@@ -613,11 +620,27 @@ fn main() {
         varying_values: gen_code::VARYING_VALUES.to_vec(),
         params: gen_opt_problem(),
     };
+
+    let total_start = std::time::Instant::now();
     let (optimized_state, objgrad_count) = step_until_convergence(initial_state, 10000);
-    println!("{:#?}", optimized_state.varying_values);
-    println!(
-        "objgrad_count expected = {}, actual = {}",
-        gen_code::NUM_OBJ_GRAD_CALLS,
-        objgrad_count,
-    );
+    let total_elapsed = total_start.elapsed();
+
+    let objgrad_start = std::time::Instant::now();
+    let mut dummy = 0;
+    for _ in 0..objgrad_count {
+        objective_and_gradient(
+            &mut dummy,
+            optimized_state.params.weight,
+            &optimized_state.varying_values,
+        );
+    }
+    let objgrad_elapsed = objgrad_start.elapsed();
+
+    let data = serde_json::json!({
+        "objgrad_count": objgrad_count,
+        "total_ms": total_elapsed.as_secs_f64() * 1000.0,
+        "objgrad_ms": objgrad_elapsed.as_secs_f64() * 1000.0,
+        "varying_values": optimized_state.varying_values,
+    });
+    println!("{}", serde_json::to_string_pretty(&data).unwrap());
 }
