@@ -120,7 +120,9 @@ fn unconstrained_converged(norm_grad: f64) -> bool {
     norm_grad < UO_STOP
 }
 
-fn objective_and_gradient(weight: f64, xs: &[f64]) -> FnEvaled {
+fn objective_and_gradient(objgrad_count: &mut i32, weight: f64, xs: &[f64]) -> FnEvaled {
+    *objgrad_count += 1;
+
     let mut inputs = [0.0; gen_code::LEN_GRADIENT];
     inputs[..gen_code::LEN_INPUTS].copy_from_slice(xs);
     inputs[gen_code::LEN_INPUTS] = weight;
@@ -150,13 +152,13 @@ fn ep_converged(xs0: &[f64], xs1: &[f64], fxs0: f64, fxs1: f64) -> bool {
     let energy_change = (fxs1 - fxs0).abs();
     println!(
         "epConverged?: stateChange: {} | energyChange: {}",
-        state_change, energy_change
+        state_change, energy_change,
     );
 
     state_change < EP_STOP || energy_change < EP_STOP
 }
 
-fn step(state: State, steps: i32) -> State {
+fn step(objgrad_count: &mut i32, state: State, steps: i32) -> State {
     let mut opt_params = state.params.clone();
     let Params {
         opt_status, weight, ..
@@ -166,12 +168,18 @@ fn step(state: State, steps: i32) -> State {
     println!("===============");
     println!(
         "step | weight: {} | EP round: {} | UO round: {}",
-        weight, opt_params.ep_round, opt_params.uo_round
+        weight, opt_params.ep_round, opt_params.uo_round,
     );
 
     match opt_status {
         OptStatus::UnconstrainedRunning => {
-            let res = minimize(&xs, state.params.weight, state.params.lbfgs_info, steps);
+            let res = minimize(
+                objgrad_count,
+                &xs,
+                state.params.weight,
+                state.params.lbfgs_info,
+                steps,
+            );
             xs = res.xs;
 
             let OptInfo {
@@ -200,13 +208,13 @@ fn step(state: State, steps: i32) -> State {
                 opt_params.lbfgs_info = DEFAULT_LBFGS_PARAMS;
                 println!(
                     "Unconstrained converged with energy {} gradient norm {}",
-                    energy_val, norm_grad
+                    energy_val, norm_grad,
                 );
             } else {
                 opt_params.opt_status = OptStatus::UnconstrainedRunning;
                 println!(
                     "Took {} steps. Current energy {} gradient norm {}",
-                    steps, energy_val, norm_grad
+                    steps, energy_val, norm_grad,
                 );
             }
             if failed {
@@ -230,7 +238,7 @@ fn step(state: State, steps: i32) -> State {
                 opt_params.opt_status = OptStatus::EPConverged;
                 println!(
                     "EP converged with energy {}",
-                    opt_params.last_uo_energy.unwrap()
+                    opt_params.last_uo_energy.unwrap(),
                 );
             } else {
                 println!("step: UO converged but EP did not converge; starting next round");
@@ -242,7 +250,7 @@ fn step(state: State, steps: i32) -> State {
 
                 println!(
                     "increased EP weight to {} in compiled energy and gradient",
-                    opt_params.weight
+                    opt_params.weight,
                 );
             }
 
@@ -266,12 +274,21 @@ fn step(state: State, steps: i32) -> State {
     }
 }
 
-fn aw_line_search(xs0: &[f64], weight: f64, gradfxs0: &[f64], fxs0: f64) -> f64 {
+fn aw_line_search(
+    objgrad_count: &mut i32,
+    xs0: &[f64],
+    weight: f64,
+    gradfxs0: &[f64],
+    fxs0: f64,
+) -> f64 {
     let max_steps = 10;
 
     let descent_dir = negv(gradfxs0);
 
-    let duf_at_x0 = dot(&descent_dir, &objective_and_gradient(weight, xs0).gradf);
+    let duf_at_x0 = dot(
+        &descent_dir,
+        &objective_and_gradient(objgrad_count, weight, xs0).gradf,
+    );
     let min_interval = 10e-10;
 
     let c1 = 0.001;
@@ -310,7 +327,7 @@ fn aw_line_search(xs0: &[f64], weight: f64, gradfxs0: &[f64], fxs0: f64) -> f64 
             f: obj,
             gradf: grad,
             ..
-        } = objective_and_gradient(weight, &addv(xs0, &scalev(t, &descent_dir)));
+        } = objective_and_gradient(objgrad_count, weight, &addv(xs0, &scalev(t, &descent_dir)));
         let is_armijo = armijo(t, obj);
         let is_wolfe = wolfe(t, &grad);
 
@@ -413,7 +430,7 @@ fn lbfgs(xs: &[f64], gradfxs: &[f64], lbfgs_info: LbfgsParams) -> LbfgsAnswer {
         if descent_dir_check > 0.0 {
             println!(
                 "L-BFGS did not find a descent direction. Resetting correction vectors. {:?}",
-                lbfgs_info
+                lbfgs_info,
             );
             return LbfgsAnswer {
                 gradfxs_preconditioned: gradfxs.to_vec(),
@@ -445,7 +462,13 @@ fn lbfgs(xs: &[f64], gradfxs: &[f64], lbfgs_info: LbfgsParams) -> LbfgsAnswer {
     }
 }
 
-fn minimize(xs0: &[f64], weight: f64, lbfgs_info: LbfgsParams, num_steps: i32) -> OptInfo {
+fn minimize(
+    objgrad_count: &mut i32,
+    xs0: &[f64],
+    weight: f64,
+    lbfgs_info: LbfgsParams,
+    num_steps: i32,
+) -> OptInfo {
     println!("-------------------------------------");
     println!("minimize, num steps, {}", num_steps);
 
@@ -478,7 +501,7 @@ fn minimize(xs0: &[f64], weight: f64, lbfgs_info: LbfgsParams, num_steps: i32) -
             gradf: gradfxs,
             obj_engs,
             constr_engs,
-        } = objective_and_gradient(weight, &xs);
+        } = objective_and_gradient(objgrad_count, weight, &xs);
         if contains_nan(&gradfxs) {
             println!("gradfxs {:?}", gradfxs);
             panic!("NaN in gradfxs");
@@ -494,12 +517,12 @@ fn minimize(xs0: &[f64], weight: f64, lbfgs_info: LbfgsParams, num_steps: i32) -
         if unconstrained_converged(norm_gradfxs) {
             println!(
                 "descent converged early, on step {} of {} (per display cycle); stopping early",
-                i, num_steps
+                i, num_steps,
             );
             break;
         }
 
-        t = aw_line_search(&xs, weight, &gradient_preconditioned, fxs);
+        t = aw_line_search(objgrad_count, &xs, weight, &gradient_preconditioned, fxs);
 
         let norm_grad = norm_list(&gradfxs);
 
@@ -572,16 +595,13 @@ fn contains_nan(number_list: &[f64]) -> bool {
     number_list.iter().any(|n| n.is_nan())
 }
 
-fn step_until_convergence(state: State, num_steps: i32) -> Option<State> {
+fn step_until_convergence(state: State, num_steps: i32) -> (State, i32) {
     let mut current_state = state;
+    let mut objgrad_count = 0;
     while current_state.params.opt_status != OptStatus::Error && !state_converged(&current_state) {
-        current_state = step(current_state, num_steps);
+        current_state = step(&mut objgrad_count, current_state, num_steps);
     }
-    if current_state.params.opt_status == OptStatus::Error {
-        None
-    } else {
-        Some(current_state)
-    }
+    (current_state, objgrad_count)
 }
 
 fn state_converged(state: &State) -> bool {
@@ -593,6 +613,11 @@ fn main() {
         varying_values: gen_code::VARYING_VALUES.to_vec(),
         params: gen_opt_problem(),
     };
-    let optimized_state = step_until_convergence(initial_state, 10000).unwrap();
+    let (optimized_state, objgrad_count) = step_until_convergence(initial_state, 10000);
     println!("{:#?}", optimized_state.varying_values);
+    println!(
+        "objgrad_count expected = {}, actual = {}",
+        gen_code::NUM_OBJ_GRAD_CALLS,
+        objgrad_count,
+    );
 }
