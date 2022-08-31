@@ -42,3 +42,17 @@ re-apply `penrose.patch`):
 ```sh
 git -C penrose restore .
 ```
+
+After running the experiment, if you want to verify that the Rust version of the
+optimizer actually worked correctly, run this to regenerate `penrose/diagrams/`:
+
+```sh
+./render.sh
+```
+
+Once you're satisfied looking at the diagrams, you'll probably want to restore
+them in case you're planning to use the above command to update `penrose.patch`:
+
+```sh
+git -C penrose restore diagrams
+```

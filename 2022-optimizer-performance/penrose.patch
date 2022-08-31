@@ -1,8 +1,8 @@
 diff --git a/packages/automator/index.tsx b/packages/automator/index.tsx
-index 689a0ec39..5e7ce0223 100755
+index 689a0ec39..9d531627d 100755
 --- a/packages/automator/index.tsx
 +++ b/packages/automator/index.tsx
-@@ -12,6 +12,7 @@ import {
+@@ -12,13 +12,14 @@ import {
    stepUntilConvergence,
  } from "@penrose/core";
  import { ShapeDef } from "@penrose/core/build/dist/shapes/Shapes";
@@ -10,6 +10,14 @@ index 689a0ec39..5e7ce0223 100755
  import chalk from "chalk";
  import convertHrtime from "convert-hrtime";
  import { randomBytes } from "crypto";
+ import * as fs from "fs";
+ import neodoc from "neodoc";
+ import fetch from "node-fetch";
+-import { dirname, join, parse, resolve } from "path";
++import { basename, dirname, join, parse, resolve } from "path";
+ import * as prettier from "prettier";
+ import uniqid from "uniqid";
+ import { renderArtifacts } from "./artifacts";
 @@ -36,7 +37,7 @@ Options:
    -o, --outFile PATH Path to either a file or a folder, depending on the value of --folders. [default: output.svg]
    --folders Include metadata about each output diagram. If enabled, outFile has to be a path to a folder.
@@ -46,7 +54,7 @@ index 689a0ec39..5e7ce0223 100755
  // In an async context, communicate with the backend to compile and optimize the diagram
  const singleProcess = async (
    variation: string,
-@@ -107,6 +128,7 @@ const singleProcess = async (
+@@ -107,19 +128,36 @@ const singleProcess = async (
    const initialState = await prepareState(compiledState);
    const labelEnd = process.hrtime(labelStart);
  
@@ -54,8 +62,27 @@ index 689a0ec39..5e7ce0223 100755
    console.log(`Stepping for ${out} ...`);
  
    const convergeStart = process.hrtime();
-@@ -120,6 +142,15 @@ const singleProcess = async (
-     );
+   let optimizedState;
+-  const optimizedOutput = stepUntilConvergence(initialState, 10000);
+-  if (optimizedOutput.isOk()) {
+-    optimizedState = optimizedOutput.value;
++  if (folders) {
++    const optimizedOutput = stepUntilConvergence(initialState, 10000);
++    if (optimizedOutput.isOk()) {
++      optimizedState = optimizedOutput.value;
++    } else {
++      throw new Error(
++        `Optimization failed:\n${showError(optimizedOutput.error)}`
++      );
++    }
+   } else {
+-    throw new Error(
+-      `Optimization failed:\n${showError(optimizedOutput.error)}`
+-    );
++    optimizedState = initialState;
++    const p = `${join('../../../out', basename(out, '.svg'))}.json`;
++    const data = fs.readFileSync(p, 'utf8').toString();
++    optimizedState.varyingValues = JSON.parse(data).varying_values;
    }
    const convergeEnd = process.hrtime(convergeStart);
 +  const finalData = gatherData(optimizedState);
@@ -70,7 +97,7 @@ index 689a0ec39..5e7ce0223 100755
    const reactRenderStart = process.hrtime();
  
    // make a list of canvas data if staged (prepare to generate multiple SVGs)
-@@ -199,6 +230,9 @@ const singleProcess = async (
+@@ -199,6 +237,9 @@ const singleProcess = async (
      const metadata = {
        ...meta,
        renderedOn: Date.now(),
@@ -80,7 +107,7 @@ index 689a0ec39..5e7ce0223 100755
        timeTaken: {
          // includes overhead like JSON, recollecting labels
          overall: convertHrtime(overallEnd).milliseconds,
-@@ -206,6 +240,7 @@ const singleProcess = async (
+@@ -206,6 +247,7 @@ const singleProcess = async (
          labelling: convertHrtime(labelEnd).milliseconds,
          optimization: convertHrtime(convergeEnd).milliseconds,
          rendering: convertHrtime(reactRenderEnd).milliseconds,
@@ -88,7 +115,7 @@ index 689a0ec39..5e7ce0223 100755
        },
        // violatingConstraints: constrs,
        // nonzeroConstraints: constrs.length > 0,
-@@ -245,6 +280,9 @@ const singleProcess = async (
+@@ -245,6 +287,9 @@ const singleProcess = async (
      fs.writeFileSync(join(out, "style.sty"), styIn);
      fs.writeFileSync(join(out, "domain.dsl"), dslIn);
      fs.writeFileSync(join(out, "meta.json"), JSON.stringify(metadata, null, 2));
