@@ -20,7 +20,16 @@ optimizer is consistently 1-2 orders of magnitude faster. Compilation time often
 dominates (in which case it is not shown as an explicit bar in the chart), but
 not always.
 
-### MacBook Pro (13-inch, M1, 2020)
+Note that to measure the time for just calling the gradient, I just repeatedly
+pass the final state of the diagram (rather than separately passing each of the
+many states) in a loop. The assumption is that the performance of the gradient
+function should be similar regardless of what inputs it is passed. An example
+that indicates the flaws in this assumption is
+`one-water-molecule-atoms-and-bonds`, for which it takes more time to call the
+gradient function in a loop like that than it takes to just run the entire
+optimizer, so the chart shows the difference as a negative number.
+
+### 2020 MacBook Pro with M1 chip
 
 ![3d-projection-fake-3d-linear-algebra](mac-arm/3d-projection-fake-3d-linear-algebra.svg)
 

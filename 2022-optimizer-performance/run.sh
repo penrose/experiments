@@ -19,8 +19,11 @@ popd
 popd
 
 # first build, to normalize later timings
+cp dummy_objgrad.c src/objgrad.c
 cp dummy_gen_code.rs src/gen_code.rs
 cargo build --release
+
+yarn
 
 mkdir -p out/
 mkdir -p results/
