@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const fs = require('fs');
-const path = require('path');
+import * as fs from 'fs';
+import * as path from 'path';
 
 if (process.argv.length !== 3) {
   throw Error(`expected 3 args, got ${process.argv.length}`);

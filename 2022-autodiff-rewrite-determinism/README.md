@@ -1,6 +1,6 @@
 # 2022 Autodiff Rewrite Determinism
 
-author: @samestep
+author: [**@samestep**](http://github.com/samestep)
 
 This experiment is a set of debugging tools I wrote in early 2022 while
 [rewriting the symbolic differentiation engine][rewrite]. The goal was to

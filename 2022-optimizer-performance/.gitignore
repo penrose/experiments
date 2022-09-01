@@ -1,4 +1,6 @@
+/node_modules/
 /out/
+/results/
 /src/gen_code.rs
 /src/objgrad.c
 /target/

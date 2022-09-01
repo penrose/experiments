@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "vega": "^5",
+    "vega-lite": "^5"
+  }
+}
