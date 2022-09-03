@@ -30,7 +30,7 @@ gradient function in a loop like that than it takes to just run the entire
 optimizer, so the chart shows the difference as a negative number.
 
 - [2020 MacBook Pro with M1 chip](mac-arm/README.md)
-- [WSL on AMD Ryzen 5 3600X](linux-wsl/README.md)
+- [WSL 2 on AMD Ryzen 5 3600X](linux-wsl/README.md)
 
 ## Prerequisites
 
