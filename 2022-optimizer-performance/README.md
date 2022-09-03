@@ -29,67 +29,8 @@ that indicates the flaws in this assumption is
 gradient function in a loop like that than it takes to just run the entire
 optimizer, so the chart shows the difference as a negative number.
 
-### 2020 MacBook Pro with M1 chip
-
-![3d-projection-fake-3d-linear-algebra](mac-arm/3d-projection-fake-3d-linear-algebra.svg)
-
-![allShapes-dashedShapes](mac-arm/allShapes-dashedShapes.svg)
-
-![circle-example-euclidean](mac-arm/circle-example-euclidean.svg)
-
-![collinear-euclidean](mac-arm/collinear-euclidean.svg)
-
-![congruent-triangles-euclidean](mac-arm/congruent-triangles-euclidean.svg)
-
-![continuousmap-continuousmap](mac-arm/continuousmap-continuousmap.svg)
-
-![hypergraph-hypergraph](mac-arm/hypergraph-hypergraph.svg)
-
-![incenter-triangle-euclidean](mac-arm/incenter-triangle-euclidean.svg)
-
-![lagrange-bases-lagrange-bases](mac-arm/lagrange-bases-lagrange-bases.svg)
-
-![midsegment-triangles-euclidean](mac-arm/midsegment-triangles-euclidean.svg)
-
-![non-convex-non-convex](mac-arm/non-convex-non-convex.svg)
-
-![one-water-molecule-atoms-and-bonds](mac-arm/one-water-molecule-atoms-and-bonds.svg)
-
-![parallel-lines-euclidean](mac-arm/parallel-lines-euclidean.svg)
-
-![persistent-homology-persistent-homology](mac-arm/persistent-homology-persistent-homology.svg)
-
-![points-around-line-shape-distance](mac-arm/points-around-line-shape-distance.svg)
-
-![points-around-polyline-shape-distance](mac-arm/points-around-polyline-shape-distance.svg)
-
-![points-around-star-shape-distance](mac-arm/points-around-star-shape-distance.svg)
-
-![siggraph-teaser-euclidean-teaser](mac-arm/siggraph-teaser-euclidean-teaser.svg)
-
-![small-graph-disjoint-rect-line-horiz](mac-arm/small-graph-disjoint-rect-line-horiz.svg)
-
-![small-graph-disjoint-rects-large-canvas](mac-arm/small-graph-disjoint-rects-large-canvas.svg)
-
-![small-graph-disjoint-rects-small-canvas](mac-arm/small-graph-disjoint-rects-small-canvas.svg)
-
-![small-graph-disjoint-rects](mac-arm/small-graph-disjoint-rects.svg)
-
-![tree-venn-3d](mac-arm/tree-venn-3d.svg)
-
-![tree-venn](mac-arm/tree-venn.svg)
-
-![two-vectors-perp-vectors-dashed](mac-arm/two-vectors-perp-vectors-dashed.svg)
-
-![wet-floor-atoms-and-bonds](mac-arm/wet-floor-atoms-and-bonds.svg)
-
-![wos-laplace-estimator-walk-on-spheres](mac-arm/wos-laplace-estimator-walk-on-spheres.svg)
-
-![wos-nested-estimator-walk-on-spheres](mac-arm/wos-nested-estimator-walk-on-spheres.svg)
-
-![wos-offcenter-estimator-walk-on-spheres](mac-arm/wos-offcenter-estimator-walk-on-spheres.svg)
-
-![wos-poisson-estimator-walk-on-spheres](mac-arm/wos-poisson-estimator-walk-on-spheres.svg)
+- [2020 MacBook Pro with M1 chip](mac-arm/README.md)
+- [WSL on AMD Ryzen 5 3600X](linux-wsl/README.md)
 
 ## Prerequisites
 
