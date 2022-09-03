@@ -27,7 +27,7 @@ yarn
 
 mkdir -p out/
 mkdir -p results/
-for subdir in $(basename penrose/packages/automator/out/* | grep -v '\.'); do
+for subdir in $(basename -a penrose/packages/automator/out/* | grep -v '\.'); do
   ./grab.sh "$subdir"
   cargo build --release 2> out/"$subdir".txt
   target/release/penrose-experiment > out/"$subdir".json
