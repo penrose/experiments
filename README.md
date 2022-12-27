@@ -9,7 +9,7 @@ immediately, but at least initialize them:
 git submodule init
 ```
 
-The experiments are all self-contained and independent of each other. Most use a
+The experiments are all self-contained and independent of each other. Some use a
 Git submodule of the main Penrose repo at some particular point in history. To
 dive into any particular experiment, start with the `README.md` file at the root
 of its subdirectory.
