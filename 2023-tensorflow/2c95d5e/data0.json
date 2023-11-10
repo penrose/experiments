@@ -1,0 +1,242 @@
+{
+  "graph-domain/textbook/sec1/fig4": {
+    "totalSeconds": 105.495416625,
+    "seconds": {
+      "compiling": 0.214126916,
+      "optimizing": 105.20370225,
+      "rendering": 0.047112375
+    }
+  },
+  "spectral-graphs/examples/hexagonal-lattice": {
+    "totalSeconds": 954.220124208,
+    "seconds": {
+      "compiling": 0.978689166,
+      "optimizing": 953.083292,
+      "rendering": 0.120153042
+    }
+  },
+  "dinoshade/dinoshade": {
+    "totalSeconds": 0.808013167,
+    "seconds": {
+      "compiling": 0.437657375,
+      "optimizing": 0.205729583,
+      "rendering": 0.104392292
+    }
+  },
+  "spectral-graphs/examples/star-graph": {
+    "totalSeconds": 910.427822167,
+    "seconds": {
+      "compiling": 1.047526167,
+      "optimizing": 909.2904645,
+      "rendering": 0.083914292
+    }
+  },
+  "spectral-graphs/examples/box": {
+    "totalSeconds": 37.788241458,
+    "seconds": {
+      "compiling": 0.686515792,
+      "optimizing": 37.007036625,
+      "rendering": 0.078246416
+    }
+  },
+  "graph-domain/textbook/sec1/fig5": {
+    "totalSeconds": 373.41045725,
+    "seconds": {
+      "compiling": 0.099354833,
+      "optimizing": 373.263530459,
+      "rendering": 0.031254791
+    }
+  },
+  "graph-domain/textbook/sec1/fig6": {
+    "totalSeconds": 877.357881333,
+    "seconds": {
+      "compiling": 0.186997,
+      "optimizing": 877.146828625,
+      "rendering": 0.017459166
+    }
+  },
+  "graph-domain/textbook/sec1/fig7": {
+    "totalSeconds": 24.402135208,
+    "seconds": {
+      "compiling": 0.051820791,
+      "optimizing": 24.331734042,
+      "rendering": 0.015084833
+    }
+  },
+  "graph-domain/textbook/sec1/fig8a": {
+    "totalSeconds": 378.116031917,
+    "seconds": {
+      "compiling": 0.10830275,
+      "optimizing": 377.972078833,
+      "rendering": 0.031819292
+    }
+  },
+  "graph-domain/textbook/sec1/fig8b": {
+    "totalSeconds": 162.843894791,
+    "seconds": {
+      "compiling": 0.082604459,
+      "optimizing": 162.737791875,
+      "rendering": 0.017037333
+    }
+  },
+  "graph-domain/textbook/sec1/fig9": {
+    "totalSeconds": 50.009243708,
+    "seconds": {
+      "compiling": 0.067635333,
+      "optimizing": 49.920271542,
+      "rendering": 0.017754875
+    }
+  },
+  "graph-domain/textbook/sec1/fig10": {
+    "totalSeconds": 19.556090292,
+    "seconds": {
+      "compiling": 0.085561042,
+      "optimizing": 19.449184458,
+      "rendering": 0.017780417
+    }
+  },
+  "graph-domain/textbook/sec1/fig11": {
+    "totalSeconds": 262.874370458,
+    "seconds": {
+      "compiling": 0.073991125,
+      "optimizing": 262.7874035,
+      "rendering": 0.009560584
+    }
+  },
+  "graph-domain/textbook/sec1/fig12": {
+    "totalSeconds": 76.660497583,
+    "seconds": {
+      "compiling": 0.096654458,
+      "optimizing": 76.548845542,
+      "rendering": 0.01165025
+    }
+  },
+  "graph-domain/textbook/sec1/fig13": {
+    "totalSeconds": 69.163595584,
+    "seconds": {
+      "compiling": 0.08226675,
+      "optimizing": 69.054540667,
+      "rendering": 0.023546625
+    }
+  },
+  "graph-domain/textbook/sec2/fig3": {
+    "totalSeconds": 342.144689208,
+    "seconds": {
+      "compiling": 0.129444542,
+      "optimizing": 341.99060375,
+      "rendering": 0.021148042
+    }
+  },
+  "graph-domain/textbook/sec2/fig4": {
+    "totalSeconds": 177.835250792,
+    "seconds": {
+      "compiling": 0.095564959,
+      "optimizing": 177.719522125,
+      "rendering": 0.016524208
+    }
+  },
+  "graph-domain/textbook/sec2/fig5": {
+    "totalSeconds": 318.405139209,
+    "seconds": {
+      "compiling": 0.136997542,
+      "optimizing": 318.239938916,
+      "rendering": 0.024426625
+    }
+  },
+  "graph-domain/textbook/sec2/fig6": {
+    "totalSeconds": 146.902249416,
+    "seconds": {
+      "compiling": 0.139160583,
+      "optimizing": 146.743532542,
+      "rendering": 0.016139167
+    }
+  },
+  "graph-domain/textbook/sec2/fig9": {
+    "totalSeconds": 685.568299583,
+    "seconds": {
+      "compiling": 0.203938625,
+      "optimizing": 685.330315167,
+      "rendering": 0.029540708
+    }
+  },
+  "graph-domain/textbook/sec2/fig10a": {
+    "totalSeconds": 129.722150084,
+    "seconds": {
+      "compiling": 0.058029875,
+      "optimizing": 129.651020083,
+      "rendering": 0.009982792
+    }
+  },
+  "graph-domain/textbook/sec2/fig10b": {
+    "totalSeconds": 40.952946541,
+    "seconds": {
+      "compiling": 0.054701084,
+      "optimizing": 40.887380833,
+      "rendering": 0.007805958
+    }
+  },
+  "graph-domain/textbook/sec2/fig11a": {
+    "totalSeconds": 12.118037,
+    "seconds": {
+      "compiling": 0.039962542,
+      "optimizing": 12.065319916,
+      "rendering": 0.00973025
+    }
+  },
+  "graph-domain/textbook/sec2/fig11b": {
+    "totalSeconds": 7.971611833,
+    "seconds": {
+      "compiling": 0.034757958,
+      "optimizing": 7.92457125,
+      "rendering": 0.009135083
+    }
+  },
+  "graph-domain/textbook/sec2/fig11c": {
+    "totalSeconds": 15.156895292,
+    "seconds": {
+      "compiling": 0.041080083,
+      "optimizing": 15.101028709,
+      "rendering": 0.011435666
+    }
+  },
+  "graph-domain/textbook/sec2/fig12": {
+    "totalSeconds": 10.160862042,
+    "seconds": {
+      "compiling": 0.035469208,
+      "optimizing": 10.114133292,
+      "rendering": 0.007929458
+    }
+  },
+  "graph-domain/textbook/sec2/fig13": {
+    "totalSeconds": 1263.727311583,
+    "seconds": {
+      "compiling": 0.1880865,
+      "optimizing": 1263.5187545,
+      "rendering": 0.016821417
+    }
+  },
+  "graph-domain/textbook/sec2/fig14": {
+    "totalSeconds": 35.060394042,
+    "seconds": {
+      "compiling": 0.070028375,
+      "optimizing": 34.97648975,
+      "rendering": 0.010330125
+    }
+  },
+  "graph-domain/textbook/sec2/fig16b": {
+    "totalSeconds": 9.070235792,
+    "seconds": {
+      "compiling": 0.046423,
+      "optimizing": 9.013303042,
+      "rendering": 0.006967167
+    }
+  },
+  "geometry-domain/textbook_problems/c01p01": {
+    "totalSeconds": 30.114510583,
+    "seconds": {
+      "compiling": 0.086504458,
+      "optimizing": 30.013977209,
+      "rendering": 0.010509666
+    }
+  }
+}
