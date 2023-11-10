@@ -1,0 +1,194 @@
+{
+  "set-theory-domain/tree-venn": {
+    "totalSeconds": 8.837390541,
+    "seconds": {
+      "compiling": 0.054571292,
+      "optimizing": 8.738717958,
+      "rendering": 0.016775292
+    }
+  },
+  "set-theory-domain/tree-tree": {
+    "totalSeconds": 2.628553042,
+    "seconds": {
+      "compiling": 0.093296042,
+      "optimizing": 2.508286458,
+      "rendering": 0.012353375
+    }
+  },
+  "group-theory/quaternion-multiplication-table": {
+    "totalSeconds": 8.639369958,
+    "seconds": {
+      "compiling": 0.110052833,
+      "optimizing": 8.423542292,
+      "rendering": 0.089654458
+    }
+  },
+  "walk-on-spheres/SignedAngleOutside": {
+    "totalSeconds": 3.212128042,
+    "seconds": {
+      "compiling": 0.134785417,
+      "optimizing": 3.022792375,
+      "rendering": 0.031270833
+    }
+  },
+  "spectral-graphs/examples/hypercube": {
+    "totalSeconds": 164.010759708,
+    "seconds": {
+      "compiling": 0.080447292,
+      "optimizing": 163.89640375,
+      "rendering": 0.026995542
+    }
+  },
+  "group-theory/quaternion-cayley-graph": {
+    "totalSeconds": 19.113014333,
+    "seconds": {
+      "compiling": 0.047144958,
+      "optimizing": 19.007959292,
+      "rendering": 0.052680333
+    }
+  },
+  "set-theory-domain/tree-venn-3d": {
+    "totalSeconds": 17.062783334,
+    "seconds": {
+      "compiling": 0.024546584,
+      "optimizing": 16.982354958,
+      "rendering": 0.051849458
+    }
+  },
+  "atoms-and-bonds/one-water-molecule": {
+    "totalSeconds": 0.866046166,
+    "seconds": {
+      "compiling": 0.017631125,
+      "optimizing": 0.838213291,
+      "rendering": 0.004471917
+    }
+  },
+  "structural-formula/molecules/caffeine": {
+    "totalSeconds": 195.220292125,
+    "seconds": {
+      "compiling": 0.135904875,
+      "optimizing": 194.981422042,
+      "rendering": 0.093445333
+    }
+  },
+  "walk-on-spheres/walk-on-stars": {
+    "totalSeconds": 29.187570958,
+    "seconds": {
+      "compiling": 0.123081875,
+      "optimizing": 28.97427975,
+      "rendering": 0.053656458
+    }
+  },
+  "set-theory-domain/continuousmap": {
+    "totalSeconds": 4.381609625,
+    "seconds": {
+      "compiling": 0.02682575,
+      "optimizing": 4.328164584,
+      "rendering": 0.006637125
+    }
+  },
+  "mobius/mobius": {
+    "totalSeconds": 3.433447208,
+    "seconds": {
+      "compiling": 0.027039209,
+      "optimizing": 3.379018791,
+      "rendering": 0.020401375
+    }
+  },
+  "linear-algebra-domain/two-vectors-perp": {
+    "totalSeconds": 1.697233167,
+    "seconds": {
+      "compiling": 0.028525625,
+      "optimizing": 1.652139792,
+      "rendering": 0.005868167
+    }
+  },
+  "tutorials/tutorial1": {
+    "totalSeconds": 0.010008125,
+    "seconds": {
+      "compiling": 0.003758667,
+      "optimizing": 0.000494833,
+      "rendering": 0.00031875
+    }
+  },
+  "tutorials/tutorial2": {
+    "totalSeconds": 0.00939825,
+    "seconds": {
+      "compiling": 0.0027955,
+      "optimizing": 0.000427541,
+      "rendering": 0.000254334
+    }
+  },
+  "tutorials/tutorial3": {
+    "totalSeconds": 0.048252333,
+    "seconds": {
+      "compiling": 0.008682375,
+      "optimizing": 0.029097208,
+      "rendering": 0.004065625
+    }
+  },
+  "molecules/nitricacid-lewis": {
+    "totalSeconds": 51.847509083,
+    "seconds": {
+      "compiling": 0.121294833,
+      "optimizing": 51.696192834,
+      "rendering": 0.006872291
+    }
+  },
+  "exterior-algebra/vector-wedge": {
+    "totalSeconds": 1.819684458,
+    "seconds": {
+      "compiling": 0.024219292,
+      "optimizing": 1.78103275,
+      "rendering": 0.007334833
+    }
+  },
+  "shape-spec/all-shapes": {
+    "totalSeconds": 0.821168125,
+    "seconds": {
+      "compiling": 0.036036209,
+      "optimizing": 0.496402375,
+      "rendering": 0.282953708
+    }
+  },
+  "shape-spec/arrowheads": {
+    "totalSeconds": 0.599506208,
+    "seconds": {
+      "compiling": 0.014930541,
+      "optimizing": 0.569715709,
+      "rendering": 0.010652916
+    }
+  },
+  "graph-domain/textbook/sec1/fig1": {
+    "totalSeconds": 66.989943958,
+    "seconds": {
+      "compiling": 0.056286125,
+      "optimizing": 66.918583042,
+      "rendering": 0.007388167
+    }
+  },
+  "graph-domain/textbook/sec1/fig2": {
+    "totalSeconds": 166.974226583,
+    "seconds": {
+      "compiling": 0.073838875,
+      "optimizing": 166.879628041,
+      "rendering": 0.012763875
+    }
+  },
+  "graph-domain/textbook/sec1/fig3": {
+    "totalSeconds": 85.328328375,
+    "seconds": {
+      "compiling": 0.077814833,
+      "optimizing": 85.231606667,
+      "rendering": 0.014587208
+    }
+  },
+  "graph-domain/textbook/sec1/fig4": {
+    "totalSeconds": 108.930845458,
+    "seconds": {
+      "compiling": 0.083480167,
+      "optimizing": 108.821929791,
+      "rendering": 0.018922292
+    }
+  }
+}
