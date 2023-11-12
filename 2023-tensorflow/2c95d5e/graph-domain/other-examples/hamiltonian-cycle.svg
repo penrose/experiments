@@ -1,0 +1,978 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 400 400"
+  penrose="0"
+>
+  <penrose>
+    <croppedViewBox>
+      65.30259704589844 117.15191650390625 244.22460174560547 192.33394622802734
+    </croppedViewBox>
+  </penrose>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_c_g`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 295.73950958251953 228.80374717712402 L 287.6638946533203 238.5394744873047 L 288.28295135498047 225.9055233001709 Z "
+    />
+    <title>`Arc_c_g`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_c_g`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 304.5271987915039 195.15603971481323 Q 286.3967056274414 241.79717636108398 268.26964569091797 288.4396514892578"
+    />
+    <title>`Arc_c_g`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_a_c`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 270.59971618652344 148.02165985107422 L 275.1867980957031 159.80973052978516 L 264.4442901611328 153.13152313232422 Z "
+    />
+    <title>`Arc_a_c`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_a_c`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 249.46844482421875 128.8313446044922 Q 277.0001525878906 161.99175262451172 304.5271987915039 195.15603971481323"
+    />
+    <title>`Arc_a_c`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_b_c`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#fe4a49"
+      fill-opacity="1"
+      stroke="none"
+      d="M 210.18841743469238 168.3009796142578 L 220.9172019958496 175.0012149810791 L 208.31403350830078 176.07829666137695 Z "
+    />
+    <title>`Arc_b_c`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_b_c`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#fe4a49"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 152.02908325195312 158.40299606323242 Q 228.28008651733398 176.77144813537598 304.5271987915039 195.15603971481323"
+    />
+    <title>`Arc_b_c`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_c_d`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#fe4a49"
+      fill-opacity="1"
+      stroke="none"
+      d="M 271.0057373046875 209.22076606750488 L 258.3642234802246 208.7825050354004 L 268.7403869628906 201.5482051372528 Z "
+    />
+    <title>`Arc_c_d`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_c_d`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#fe4a49"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 304.5271987915039 195.15603971481323 Q 250.93428802490234 210.9729299545288 197.3449456691742 226.801908493042"
+    />
+    <title>`Arc_c_d`.arrow</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="304.5271987915039"
+    cy="195.15603971481323"
+    stroke="none"
+    r="5"
+  >
+    <title>`c`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 291.73406982421875, 185.6880397796631)"
+    style="font: 18px serif"
+    x="291.73406982421875"
+    y="189.7485866546631"
+    width="7.822265625"
+    height="8.455078125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="8.2880859375"
+    descent="0.1669921875"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`c`.text</title>
+    c
+  </text>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_g_a`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#fe4a49"
+      fill-opacity="1"
+      stroke="none"
+      d="M 257.4957275390625 231.19536590576172 L 260.06441497802734 218.80981826782227 L 265.4407958984375 230.25946807861328 Z "
+    />
+    <title>`Arc_g_a`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_g_a`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#fe4a49"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 268.26964569091797 288.4396514892578 Q 258.86288833618164 208.63622379302979 249.46844482421875 128.8313446044922"
+    />
+    <title>`Arc_g_a`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_f_g`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#fe4a49"
+      fill-opacity="1"
+      stroke="none"
+      d="M 191.91023635864258 294.5059509277344 L 204.33107233047485 296.89818572998047 L 192.95906162261963 302.43690490722656 Z "
+    />
+    <title>`Arc_f_g`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_f_g`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#fe4a49"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 146.9323272705078 304.4858627319336 Q 207.60176706314087 296.4686584472656 268.26964569091797 288.4396514892578"
+    />
+    <title>`Arc_f_g`.arrow</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="268.26964569091797"
+    cy="288.4396514892578"
+    stroke="none"
+    r="5"
+  >
+    <title>`g`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 255.43944931030273, 276.86112213134766)"
+    style="font: 18px serif"
+    x="255.43944931030273"
+    y="279.04520416259766"
+    width="8.9296875"
+    height="12.2080078125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="8.2880859375"
+    descent="3.919921875"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`g`.text</title>
+    g
+  </text>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_b_e`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 126.16097259521484 185.75387954711914 L 114.43755340576172 190.50375175476074 L 120.96636199951172 179.6697998046875 Z "
+    />
+    <title>`Arc_b_e`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_b_e`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 152.02908325195312 158.40299606323242 Q 111.1707534790039 193.29793119430542 70.30259704589844 228.18135452270508"
+    />
+    <title>`Arc_b_e`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_a_b`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#fe4a49"
+      fill-opacity="1"
+      stroke="none"
+      d="M 215.4707794189453 143.32976531982422 L 202.8263120651245 142.98705673217773 L 213.1475124359131 135.67454528808594 Z "
+    />
+    <title>`Arc_a_b`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_a_b`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#fe4a49"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 249.46844482421875 128.8313446044922 Q 200.7489829659462 143.61789321899414 152.02908325195312 158.40299606323242"
+    />
+    <title>`Arc_a_b`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_b_f`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 154.30062103271484 207.94478607177734 L 149.88463592529297 219.79801559448242 L 146.30548858642578 207.66584014892578 Z "
+    />
+    <title>`Arc_b_f`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_b_f`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 152.02908325195312 158.40299606323242 Q 149.47589874267578 231.44426155090332 146.9323272705078 304.4858627319336"
+    />
+    <title>`Arc_b_f`.arrow</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="152.02908325195312"
+    cy="158.40299606323242"
+    stroke="none"
+    r="5"
+  >
+    <title>`b`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 137.81322479248047, 151.67565155029297)"
+    style="font: 18px serif"
+    x="137.81322479248047"
+    y="157.72692108154297"
+    width="8.47265625"
+    height="12.4365234375"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.26953125"
+    descent="0.1669921875"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`b`.text</title>
+    b
+  </text>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_a_d`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 236.89878845214844 160.96571350097656 L 227.73114585876465 169.68088722229004 L 229.8361530303955 157.20816040039062 Z "
+    />
+    <title>`Arc_a_d`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_a_d`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 249.46844482421875 128.8313446044922 Q 223.40042114257812 177.81328964233398 197.3449456691742 226.801908493042"
+    />
+    <title>`Arc_a_d`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_d_f`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 183.93557929992676 254.8149757385254 L 174.04779434204102 262.7036819458008 L 177.22479820251465 250.4600486755371 Z "
+    />
+    <title>`Arc_d_f`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_d_f`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 197.3449456691742 226.801908493042 Q 172.1402244567871 265.64491271972656 146.9323272705078 304.4858627319336"
+    />
+    <title>`Arc_d_f`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_d_e`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#fe4a49"
+      fill-opacity="1"
+      stroke="none"
+      d="M 144.39592361450195 231.37993049621582 L 132.35320281982422 227.5104579925537 L 144.30906295776367 223.38040351867676 Z "
+    />
+    <title>`Arc_d_e`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_d_e`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#fe4a49"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 197.3449456691742 226.801908493042 Q 133.8238296508789 227.4973487854004 70.30259704589844 228.18135452270508"
+    />
+    <title>`Arc_d_e`.arrow</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="197.3449456691742"
+    cy="226.801908493042"
+    stroke="none"
+    r="5"
+  >
+    <title>`d`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 192.21925592422485, 210.58724212646484)"
+    style="font: 18px serif"
+    x="192.21925592422485"
+    y="216.64730072021484"
+    width="9.263671875"
+    height="12.4541015625"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.287109375"
+    descent="0.1669921875"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`d`.text</title>
+    d
+  </text>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_e_f`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#fe4a49"
+      fill-opacity="1"
+      stroke="none"
+      d="M 99.61849212646484 251.73509979248047 L 105.29940032958984 263.03675079345703 L 93.97368621826172 257.40396881103516 Z "
+    />
+    <title>`Arc_e_f`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="hamiltonian-cycle__`Arc_e_f`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#fe4a49"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 70.30259704589844 228.18135452270508 Q 108.61034393310547 266.34075927734375 146.9323272705078 304.4858627319336"
+    />
+    <title>`Arc_e_f`.arrow</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="146.9323272705078"
+    cy="304.4858627319336"
+    stroke="none"
+    r="5"
+  >
+    <title>`f`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 153.8076400756836, 288.60436248779297)"
+    style="font: 18px serif"
+    x="153.8076400756836"
+    y="294.74791717529297"
+    width="7.2421875"
+    height="12.287109375"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.287109375"
+    descent="0"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`f`.text</title>
+    f
+  </text>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="70.30259704589844"
+    cy="228.18135452270508"
+    stroke="none"
+    r="5"
+  >
+    <title>`e`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 83.95667266845703, 220.35304832458496)"
+    style="font: 18px serif"
+    x="83.95667266845703"
+    y="224.36964988708496"
+    width="7.927734375"
+    height="8.455078125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="8.244140625"
+    descent="0.2109375"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`e`.text</title>
+    e
+  </text>
+  <circle
+    fill="#fe4a49"
+    fill-opacity="1"
+    cx="249.46844482421875"
+    cy="128.8313446044922"
+    stroke="none"
+    r="5"
+  >
+    <title>`a`.dot</title>
+  </circle>
+  <text
+    fill="#fe4a49"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 235.69964981079102, 121.38385009765625)"
+    style="font: 18px serif"
+    x="235.69964981079102"
+    y="125.48394775390625"
+    width="8.61328125"
+    height="8.4638671875"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="8.33203125"
+    descent="0.1318359375"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`a`.text</title>
+    a
+  </text>
+</svg>

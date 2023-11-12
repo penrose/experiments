@@ -1,0 +1,391 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 480 360"
+  penrose="0"
+>
+  <penrose><croppedViewBox>-1 -1 482 362</croppedViewBox></penrose>
+  <rect
+    x="0"
+    y="0"
+    width="480"
+    height="360"
+    fill="none"
+    stroke="none"
+    rx="0"
+    transform="rotate(0, 240, 180)"
+  >
+    <title>Global.box</title>
+  </rect>
+  <circle
+    fill="none"
+    cx="51.280426025390625"
+    cy="249.41021728515625"
+    stroke="none"
+    r="8"
+  >
+    <title>`k`.bounds</title>
+  </circle>
+  <g>
+    <line
+      x1="302.64001083374023"
+      y1="147.67286682128906"
+      x2="263.4179286956787"
+      y2="328.9119415283203"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`li`.segment</title>
+  </g>
+  <circle
+    fill="none"
+    cx="311.46244049072266"
+    cy="146.26964569091797"
+    stroke="none"
+    r="8"
+  >
+    <title>`l`.bounds</title>
+  </circle>
+  <g>
+    <line
+      x1="263.4179286956787"
+      y1="328.9119415283203"
+      x2="161.1523208618164"
+      y2="135.05854415893555"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`ij`.segment</title>
+  </g>
+  <circle
+    fill="none"
+    cx="262.8963451385498"
+    cy="337.8467254638672"
+    stroke="none"
+    r="8"
+  >
+    <title>`i`.bounds</title>
+  </circle>
+  <g>
+    <line
+      x1="161.1523208618164"
+      y1="135.05854415893555"
+      x2="302.64001083374023"
+      y2="147.67286682128906"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`jl`.segment</title>
+  </g>
+  <circle
+    fill="none"
+    cx="155.24386596679688"
+    cy="128.33599853515625"
+    stroke="none"
+    r="8"
+  >
+    <title>`j`.bounds</title>
+  </circle>
+  <g>
+    <line
+      x1="161.1523208618164"
+      y1="135.05854415893555"
+      x2="59.41752624511719"
+      y2="245.72347259521484"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`jk`.segment</title>
+  </g>
+  <g>
+    <line
+      x1="59.41752624511719"
+      y1="245.72347259521484"
+      x2="263.4179286956787"
+      y2="328.9119415283203"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`ki`.segment</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="263.4179286956787"
+    cy="328.9119415283203"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`i`.icon</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 262.8963451385498, 337.8467254638672)"
+    style="font: italic 18px Palatino"
+    x="262.8963451385498"
+    y="344.0913543701172"
+    width="5.37890625"
+    height="12.9111328125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.7001953125"
+    descent="0.2109375"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`i`.text</title>
+    i
+  </text>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="161.1523208618164"
+    cy="135.05854415893555"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`j`.icon</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 155.24386596679688, 128.33599853515625)"
+    style="font: italic 18px Palatino"
+    x="155.24386596679688"
+    y="132.20318603515625"
+    width="6.01171875"
+    height="17.666015625"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.7001953125"
+    descent="4.9658203125"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`j`.text</title>
+    j
+  </text>
+  <g>
+    <marker
+      id="relative-orientation__`ijk`.orientationArc-endArrowId"
+      markerUnits="strokeWidth"
+      markerWidth="4.98"
+      markerHeight="4.06"
+      viewBox="0 0 9.95 8.12"
+      refX="2.36"
+      refY="4.06"
+      orient="auto-start-reverse"
+    >
+      <path
+        d="M9.95 4.06 0 8.12 2.36 4.06 0 0 9.95 4.06z"
+        fill="#000000"
+        fill-opacity="1"
+      />
+    </marker>
+    <filter
+      id="relative-orientation__`ijk`.orientationArc-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-linecap="butt"
+      d="M 162.56774139404297 248.37635803222656 A 26.3127498626709 26.3127498626709 0 1 0 136.25499725341797 248.37635803222656"
+      marker-end="url(#relative-orientation__`ijk`.orientationArc-endArrowId)"
+    />
+    <title>`ijk`.orientationArc</title>
+  </g>
+  <g>
+    <filter
+      id="relative-orientation__`ijk`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.20000000298023224"
+      stroke="none"
+      d="M 263.4179286956787 328.9119415283203 L 161.1523208618164 135.05854415893555 L 59.41752624511719 245.72347259521484 Z "
+    />
+    <title>`ijk`.icon</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="59.41752624511719"
+    cy="245.72347259521484"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`k`.icon</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 51.280426025390625, 249.41021728515625)"
+    style="font: italic 18px Palatino"
+    x="51.280426025390625"
+    y="255.82623291015625"
+    width="8.244140625"
+    height="13.236328125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="13.0341796875"
+    descent="0.2021484375"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`k`.text</title>
+    k
+  </text>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="302.64001083374023"
+    cy="147.67286682128906"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`l`.icon</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 311.46244049072266, 146.26964569091797)"
+    style="font: italic 18px Palatino"
+    x="311.46244049072266"
+    y="152.67247772216797"
+    width="5.1240234375"
+    height="13.1923828125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.9990234375"
+    descent="0.193359375"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`l`.text</title>
+    l
+  </text>
+  <g>
+    <marker
+      id="relative-orientation__`jil`.orientationArc-startArrowId"
+      markerUnits="strokeWidth"
+      markerWidth="4.98"
+      markerHeight="4.06"
+      viewBox="0 0 9.95 8.12"
+      refX="2.36"
+      refY="4.06"
+      orient="auto-start-reverse"
+    >
+      <path
+        d="M9.95 4.06 0 8.12 2.36 4.06 0 0 9.95 4.06z"
+        fill="#000000"
+        fill-opacity="1"
+      />
+    </marker>
+    <filter
+      id="relative-orientation__`jil`.orientationArc-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-linecap="butt"
+      d="M 256.40688705444336 211.19286918640137 A 23.906965255737305 23.906965255737305 0 1 0 232.499924659729 211.19286918640137"
+      marker-start="url(#relative-orientation__`jil`.orientationArc-startArrowId)"
+    />
+    <title>`jil`.orientationArc</title>
+  </g>
+  <g>
+    <filter
+      id="relative-orientation__`jil`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.20000000298023224"
+      stroke="none"
+      d="M 161.1523208618164 135.05854415893555 L 263.4179286956787 328.9119415283203 L 302.64001083374023 147.67286682128906 Z "
+    />
+    <title>`jil`.icon</title>
+  </g>
+</svg>

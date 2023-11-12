@@ -1,0 +1,131 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 800 800"
+  penrose="0"
+>
+  <penrose>
+    <croppedViewBox>
+      4.265533447265625 107.79730224609375 537.81591796875 537.81591796875
+    </croppedViewBox>
+  </penrose>
+  <circle
+    fill="#000000"
+    fill-opacity="0"
+    cx="273.1734924316406"
+    cy="376.70526123046875"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="1"
+    r="268.407958984375"
+  >
+    <title>3:0:osculatingCircle</title>
+  </circle>
+  <g>
+    <marker
+      id="osculating-circle__registry-RetroKouprey113-3:0:lineT-endArrowId"
+      markerUnits="strokeWidth"
+      markerWidth="4.98"
+      markerHeight="4.06"
+      viewBox="0 0 9.95 8.12"
+      refX="2.36"
+      refY="4.06"
+      orient="auto-start-reverse"
+    >
+      <path
+        d="M9.95 4.06 0 8.12 2.36 4.06 0 0 9.95 4.06z"
+        fill="#112b9e"
+        fill-opacity="1"
+      />
+    </marker>
+    <line
+      x1="414.08964347839355"
+      y1="148.26390075683594"
+      x2="372.71353521376057"
+      y2="122.74066769247196"
+      stroke="#112b9e"
+      stroke-opacity="1"
+      stroke-width="3"
+      marker-end="url(#osculating-circle__registry-RetroKouprey113-3:0:lineT-endArrowId)"
+    />
+    <title>3:0:lineT</title>
+  </g>
+  <g>
+    <marker
+      id="osculating-circle__registry-RetroKouprey113-3:0:lineN-endArrowId"
+      markerUnits="strokeWidth"
+      markerWidth="4.98"
+      markerHeight="4.06"
+      viewBox="0 0 9.95 8.12"
+      refX="2.36"
+      refY="4.06"
+      orient="auto-start-reverse"
+    >
+      <path
+        d="M9.95 4.06 0 8.12 2.36 4.06 0 0 9.95 4.06z"
+        fill="#a01111"
+        fill-opacity="1"
+      />
+    </marker>
+    <line
+      x1="414.08964347839355"
+      y1="148.26390075683594"
+      x2="388.56641025231215"
+      y2="189.64001082906069"
+      stroke="#a01111"
+      stroke-opacity="1"
+      stroke-width="3"
+      marker-end="url(#osculating-circle__registry-RetroKouprey113-3:0:lineN-endArrowId)"
+    />
+    <title>3:0:lineN</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="414.08964347839355"
+    cy="148.26390075683594"
+    stroke="none"
+    r="5"
+  >
+    <title>3:0:dot</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="273.1734924316406"
+    cy="376.70526123046875"
+    stroke="none"
+    r="5"
+  >
+    <title>3:0:osculatingCenter</title>
+  </circle>
+  <g stroke-linejoin="round">
+    <filter
+      id="osculating-circle__3:0:curve-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#0a600a"
+      stroke-opacity="0.48235294222831726"
+      stroke-width="2"
+      stroke-linecap="butt"
+      d="M 414.08964347839355 148.26390075683594 C 394.0103530883789 135.8778076171875 380.08899688720703 126.7047119140625 357.4547996520996 121.82174682617188 C 334.8206024169922 116.93878173828125 315.43836975097656 114.23904418945312 294.96228790283203 122.56402587890625 C 274.4862060546875 130.88900756835938 264.28321838378906 147.20086669921875 249.68592834472656 165.63739013671875 C 235.08863830566406 184.07391357421875 226.1416015625 197.639892578125 218.13446044921875 219.59835815429688 C 210.1273193359375 241.55682373046875 208.7136993408203 257.6546173095703 207.54307556152344 281.2082290649414 C 206.37245178222656 304.76184844970703 206.61880493164062 320.7317886352539 211.97328186035156 343.5647659301758 C 217.3277587890625 366.39774322509766 219.3922576904297 391.547625541687 235.72451782226562 401.3818006515503 C 252.05677795410156 411.2159757614136 275.12567138671875 391.97652435302734 297.9325408935547 395.32358026504517 C 320.7394104003906 398.67063570022583 333.7533264160156 418.92225456237793 355.7606620788574 418.9978828430176 C 377.76799964904785 419.0735111236572 412.7404537200928 406.54650592803955 413.7606325149536 395.72162437438965 C 414.78081130981445 384.89674282073975 359.7240447998047 371.71763038635254 361.1300239562988 362.0248222351074 C 362.53600311279297 352.33201599121094 400.180814743042 355.0169868469238 421.16052436828613 344.706844329834 C 442.1402359008789 334.3967056274414 459.8091735839844 326.4564743041992 471.54954528808594 307.7609176635742 C 483.2899169921875 289.0653610229492 484.5506591796875 269.25152587890625 482.9519500732422 246.30917358398438 C 481.3532409667969 223.3668212890625 476.2191162109375 205.64031982421875 463.1352767944336 187.01171875 C 450.0514373779297 168.38311767578125 434.1689338684082 160.64999389648438 414.08964347839355 148.26390075683594 Z "
+    />
+    <title>3:0:curve</title>
+  </g>
+</svg>

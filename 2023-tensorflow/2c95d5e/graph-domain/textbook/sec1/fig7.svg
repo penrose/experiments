@@ -1,0 +1,630 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 400 400"
+  penrose="0"
+>
+  <penrose>
+    <croppedViewBox>
+      91.34772491455078 54.27314758300781 216.25433349609375 228.30601501464844
+    </croppedViewBox>
+  </penrose>
+  <g>
+    <filter
+      id="fig7__`Arc_Deborah_Brian`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 168.5587501525879 116.45388793945312 L 164.97805786132812 128.58560180664062 L 160.56357955932617 116.7318115234375 Z "
+    />
+    <title>`Arc_Deborah_Brian`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Deborah_Brian`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 162.9215316772461 69.78224182128906 Q 164.69940948486328 120.21295928955078 166.42774963378906 170.64540100097656"
+    />
+    <title>`Arc_Deborah_Brian`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Deborah_Linda`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 210.40552520751953 63.92388916015625 L 222.55448722839355 67.44561767578125 L 210.72227096557617 71.9176025390625 Z "
+    />
+    <title>`Arc_Deborah_Linda`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Deborah_Linda`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 162.9215316772461 69.78224182128906 Q 213.42122173309326 67.83380126953125 263.91675186157227 65.78038024902344"
+    />
+    <title>`Arc_Deborah_Linda`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Deborah_Fred`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 221.83176231384277 119.42758178710938 L 227.86377716064453 130.5457992553711 L 216.36723518371582 125.27043151855469 Z "
+    />
+    <title>`Arc_Deborah_Fred`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Deborah_Fred`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 162.9215316772461 69.78224182128906 Q 215.15949058532715 118.6904296875 267.44996643066406 167.5424690246582"
+    />
+    <title>`Arc_Deborah_Fred`.arrow</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="162.9215316772461"
+    cy="69.78224182128906"
+    stroke="none"
+    r="5"
+  >
+    <title>`Deborah`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 122.35993194580078, 60.54414367675781)"
+    style="font: 18px serif"
+    x="122.35993194580078"
+    y="66.54267883300781"
+    width="62.0244140625"
+    height="12.5419921875"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.26953125"
+    descent="0.2724609375"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`Deborah`.text</title>
+    Deborah
+  </text>
+  <g>
+    <filter
+      id="fig7__`Arc_Yvonne_Fred`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 237.0243911743164 217.5423240661621 L 246.10205841064453 208.73347091674805 L 244.12523651123047 221.22715377807617 Z "
+    />
+    <title>`Arc_Yvonne_Fred`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Yvonne_Fred`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 214.56555080413818 269.45326232910156 Q 241.05073928833008 218.520170211792 267.44996643066406 167.5424690246582"
+    />
+    <title>`Arc_Yvonne_Fred`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Fred_Brian`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 221.488431930542 172.9693202972412 L 209.3712863922119 169.33961868286133 L 221.242826461792 164.97309112548828 Z "
+    />
+    <title>`Arc_Fred_Brian`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Fred_Brian`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 267.44996643066406 167.5424690246582 Q 216.93967056274414 169.12039184570312 166.42774963378906 170.64540100097656"
+    />
+    <title>`Arc_Fred_Brian`.arrow</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="267.44996643066406"
+    cy="167.5424690246582"
+    stroke="none"
+    r="5"
+  >
+    <title>`Fred`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 242.12059783935547, 179.51838302612305)"
+    style="font: 18px serif"
+    x="242.12059783935547"
+    y="185.55646896362305"
+    width="33.029296875"
+    height="12.498046875"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.287109375"
+    descent="0.2109375"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`Fred`.text</title>
+    Fred
+  </text>
+  <g>
+    <filter
+      id="fig7__`Arc_Yvonne_Brian`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 182.9271068572998 225.08094215393066 L 181.2673683166504 212.54119682312012 L 190.1190071105957 221.57715034484863 Z "
+    />
+    <title>`Arc_Yvonne_Brian`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Yvonne_Brian`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 214.56555080413818 269.45326232910156 Q 181.49123764038086 224.43664169311523 166.42774963378906 170.64540100097656"
+    />
+    <title>`Arc_Yvonne_Brian`.arrow</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Brian_Yvonne`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 198.05942630767822 215.04247856140137 L 199.71916556358337 227.5822238922119 L 190.86752605438232 218.5462703704834 Z "
+    />
+    <title>`Arc_Brian_Yvonne`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Brian_Yvonne`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 166.42774963378906 170.64540100097656 Q 199.47163009643555 215.67684745788574 214.56555080413818 269.45326232910156"
+    />
+    <title>`Arc_Brian_Yvonne`.arrow</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="214.56555080413818"
+    cy="269.45326232910156"
+    stroke="none"
+    r="5"
+  >
+    <title>`Yvonne`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 177.02238082885742, 276.48834228515625)"
+    style="font: 18px serif"
+    x="177.02238082885742"
+    y="282.30670166015625"
+    width="55.177734375"
+    height="12.181640625"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="11.9091796875"
+    descent="0.2724609375"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`Yvonne`.text</title>
+    Yvonne
+  </text>
+  <g>
+    <filter
+      id="fig7__`Arc_Brian_Linda`.pointer-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#000000"
+      fill-opacity="1"
+      stroke="none"
+      d="M 218.09119415283203 109.22242736816406 L 229.1913299560547 103.1572036743164 L 223.95035552978516 114.66946411132812 Z "
+    />
+    <title>`Arc_Brian_Linda`.pointer</title>
+  </g>
+  <g>
+    <filter
+      id="fig7__`Arc_Brian_Linda`.arrow-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 166.42774963378906 170.64540100097656 Q 215.1962661743164 118.23521423339844 263.91675186157227 65.78038024902344"
+    />
+    <title>`Arc_Brian_Linda`.arrow</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="263.91675186157227"
+    cy="65.78038024902344"
+    stroke="none"
+    r="5"
+  >
+    <title>`Linda`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 286.52588653564453, 81.88844299316406)"
+    style="font: 18px serif"
+    x="286.52588653564453"
+    y="87.94850158691406"
+    width="42.15234375"
+    height="12.4541015625"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.287109375"
+    descent="0.1669921875"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`Linda`.text</title>
+    Linda
+  </text>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="166.42774963378906"
+    cy="170.64540100097656"
+    stroke="none"
+    r="5"
+  >
+    <title>`Brian`.dot</title>
+  </circle>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="#ffffff"
+    stroke-opacity="1"
+    stroke-width="4"
+    transform="rotate(0, 143.36212158203125, 186.37072086334229)"
+    style="font: 18px serif"
+    x="143.36212158203125"
+    y="192.43956851959229"
+    width="40.04296875"
+    height="12.4013671875"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.26953125"
+    descent="0.1318359375"
+    text-anchor="middle"
+    visibility=""
+    paint-order="stroke"
+  >
+    <title>`Brian`.text</title>
+    Brian
+  </text>
+</svg>
