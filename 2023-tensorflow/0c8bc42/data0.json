@@ -1,0 +1,34 @@
+{
+  "graph-domain/textbook/sec2/fig6": {
+    "totalSeconds": 164.519557833,
+    "seconds": {
+      "compiling": 0.256666833,
+      "optimizing": 164.209918167,
+      "rendering": 0.026650666
+    }
+  },
+  "geometric-queries/ray-intersect/test-group": {
+    "totalSeconds": 18.867047375,
+    "seconds": {
+      "compiling": 0.188662333,
+      "optimizing": 18.529413667,
+      "rendering": 0.122530041
+    }
+  },
+  "geometric-queries/closest-point/test": {
+    "totalSeconds": 1.538355375,
+    "seconds": {
+      "compiling": 0.026551333,
+      "optimizing": 1.483267584,
+      "rendering": 0.020301708
+    }
+  },
+  "geometric-queries/closest-silhouette-point/test": {
+    "totalSeconds": 0.864354958,
+    "seconds": {
+      "compiling": 0.025074167,
+      "optimizing": 0.809087333,
+      "rendering": 0.022554584
+    }
+  }
+}
