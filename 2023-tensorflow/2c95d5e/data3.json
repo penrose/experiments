@@ -1,0 +1,58 @@
+{
+  "alloy-models/dining-philosophers": {
+    "totalSeconds": 0.713393417,
+    "seconds": {
+      "compiling": 0.131013167,
+      "optimizing": 0.535923333,
+      "rendering": 0.024361542
+    }
+  },
+  "alloy-models/river-crossing": {
+    "totalSeconds": 1.8387242910000001,
+    "seconds": {
+      "compiling": 0.028002875,
+      "optimizing": 1.5488621249999999,
+      "rendering": 0.25462025
+    }
+  },
+  "Dynamics/Lyapunov": {
+    "totalSeconds": 0.93080675,
+    "seconds": {
+      "compiling": 0.03835775,
+      "optimizing": 0.871468,
+      "rendering": 0.0125445
+    }
+  },
+  "fractals/chaos-game/sierpinski-triangle": {
+    "totalSeconds": 11.524085375,
+    "seconds": {
+      "compiling": 0.726990375,
+      "optimizing": 10.478583625,
+      "rendering": 0.312573541
+    }
+  },
+  "fractals/chaos-game/vicsek-fractal": {
+    "totalSeconds": 38.040834917,
+    "seconds": {
+      "compiling": 0.764423584,
+      "optimizing": 36.9982595,
+      "rendering": 0.261032583
+    }
+  },
+  "fractals/l-systems/tree": {
+    "totalSeconds": 0.461443583,
+    "seconds": {
+      "compiling": 0.161829625,
+      "optimizing": 0.199248167,
+      "rendering": 0.085945792
+    }
+  },
+  "fractals/ifs/ifs": {
+    "totalSeconds": 1.85571375,
+    "seconds": {
+      "compiling": 0.617575958,
+      "optimizing": 1.015941875,
+      "rendering": 0.216110667
+    }
+  }
+}
