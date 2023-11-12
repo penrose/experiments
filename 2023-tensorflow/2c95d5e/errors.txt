@@ -1,0 +1,39 @@
+ × src/registry.test.ts > registry > geometry-domain/textbook_problems/c05p13
+   → NaN in gradfxs
+ × src/registry.test.ts > registry > lagrange-bases/lagrange-bases
+   → NaN in gradfxs
+ × src/registry.test.ts > registry > hypergraph/hypergraph
+   → Test timed out in 3600000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ × src/registry.test.ts > registry > structural-formula/reactions/methane-combustion
+   → Test timed out in 3600000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ × src/registry.test.ts > registry > triangle-mesh-2d/diagrams/concyclic-pair
+   → NaN in gradfxs
+ × src/registry.test.ts > registry > triangle-mesh-2d/diagrams/angle-equivalence
+   → NaN in gradfxs
+ × src/registry.test.ts > registry > curve-examples/open-elastic-curve
+   → NaN in gradfxs
+ × src/registry.test.ts > registry > curve-examples/closed-elastic-curve
+   → NaN in gradfxs
+ × src/registry.test.ts > registry > graph-domain/other-examples/nyc-subway
+   → Test timed out in 3600000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ × src/registry.test.ts > registry > fancy-text/fancy-text
+   → Test timed out in 3600000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ × src/registry.test.ts > registry > curve-examples/blobs
+   → NaN in gradfxs
+ × src/registry.test.ts > registry > curve-examples/space-curves
+   → NaN in gradfxs
+ × src/registry.test.ts > registry > geometric-queries/ray-intersect/test-group
+   → polynomial roots not supported
+ × src/registry.test.ts > registry > geometric-queries/closest-point/test-group
+   → Test timed out in 3600000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ × src/registry.test.ts > registry > geometric-queries/closest-point/test
+   → polynomial roots not supported
+ × src/registry.test.ts > registry > geometric-queries/closest-silhouette-point/test
+   → polynomial roots not supported
+ × src/registry.test.ts > registry > box-arrow-diagram/computer-architecture
+   → NaN in gradfxs
