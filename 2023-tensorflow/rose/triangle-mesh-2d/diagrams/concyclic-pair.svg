@@ -1,0 +1,583 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 480 360"
+  penrose="0"
+>
+  <penrose><croppedViewBox>-1 -1 482 362</croppedViewBox></penrose>
+  <rect
+    x="0"
+    y="0"
+    width="480"
+    height="360"
+    fill="none"
+    stroke="none"
+    rx="0"
+    transform="rotate(0, 240, 180)"
+  >
+    <title>Global.box</title>
+  </rect>
+  <circle
+    fill="none"
+    cx="169.72092352907674"
+    cy="278.16316923393464"
+    stroke="none"
+    r="9.71630859375"
+  >
+    <title>`cI`.textBounds</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="172.82090801533863"
+    cy="317.7583223685683"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`i`.icon</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="172.82090801533863"
+    cy="317.7583223685683"
+    stroke="none"
+    r="30"
+  >
+    <title>`cI`.arcBall</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="147.41797207925384"
+    cy="220.3551815217338"
+    stroke="none"
+    r="5.757275390625001"
+  >
+    <title>`cK`.textBounds</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="277.37591160414934"
+    cy="200.4369394754443"
+    stroke="none"
+    r="9.527783203125"
+  >
+    <title>`cL`.textBounds</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="234.2368512138943"
+    cy="163.6716724881929"
+    stroke="none"
+    r="8.89453125"
+  >
+    <title>`cJ`.textBounds</title>
+  </circle>
+  <circle
+    fill="#1b1f8a"
+    fill-opacity="0.2"
+    cx="213.8533953426104"
+    cy="226.564392059564"
+    stroke="none"
+    r="100"
+  >
+    <title>35:0:disk</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="313.37238048452605"
+    cy="216.7678800983225"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`l`.icon</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="313.37238048452605"
+    cy="216.7678800983225"
+    stroke="none"
+    r="30"
+  >
+    <title>`cL`.arcBall</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="117.05223556728538"
+    cy="201.47384610101446"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`k`.icon</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="117.05223556728538"
+    cy="201.47384610101446"
+    stroke="none"
+    r="30"
+  >
+    <title>`cK`.arcBall</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="221.65306003023366"
+    cy="126.86903960719991"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`j`.icon</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="221.65306003023366"
+    cy="126.86903960719991"
+    stroke="none"
+    r="30"
+  >
+    <title>`cJ`.arcBall</title>
+  </circle>
+  <g>
+    <line
+      x1="172.82090801533863"
+      y1="317.7583223685683"
+      x2="221.65306003023366"
+      y2="126.86903960719991"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`ij`.segment</title>
+  </g>
+  <g>
+    <line
+      x1="221.65306003023366"
+      y1="126.86903960719991"
+      x2="117.05223556728538"
+      y2="201.47384610101446"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1.5"
+      stroke-linecap="round"
+    />
+    <title>`jk`.segment</title>
+  </g>
+  <g>
+    <line
+      x1="117.05223556728538"
+      y1="201.47384610101446"
+      x2="313.37238048452605"
+      y2="216.7678800983225"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-dasharray="5,5"
+      stroke-linecap="butt"
+    />
+    <title>`kl`.segment</title>
+  </g>
+  <g>
+    <line
+      x1="172.82090801533863"
+      y1="317.7583223685683"
+      x2="313.37238048452605"
+      y2="216.7678800983225"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1.5"
+      stroke-linecap="round"
+    />
+    <title>`il`.segment</title>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 169.72092352907674, 278.16316923393464)"
+    style="font: italic 18px Palatino"
+    x="169.72092352907674"
+    y="281.90730985893464"
+    width="14.34375"
+    height="17.666015625"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.5771484375"
+    descent="5.0888671875"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`cI`.text</title>
+    β’
+  </text>
+  <g>
+    <filter
+      id="concyclic-pair__`cI`.arc-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="0.75"
+      stroke-linecap="butt"
+      d="M 197.18390964690093 300.2527760617405 A 30 30 0 0 0 159.84802818405458 290.7082874539317"
+    />
+    <title>`cI`.arc</title>
+  </g>
+  <g>
+    <filter
+      id="concyclic-pair__`cI`.arcFill-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.2"
+      stroke="none"
+      d="M 197.18390964690093 300.2527760617405 A 30 30 0 0 0 159.84802818405458 290.7082874539317 L 172.82090801533863 317.7583223685683 Z "
+    />
+    <title>`cI`.arcFill</title>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 234.2368512138943, 163.6716724881929)"
+    style="font: italic 18px Palatino"
+    x="234.2368512138943"
+    y="169.8196217069429"
+    width="16.171875"
+    height="12.8583984375"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.5771484375"
+    descent="0.28125"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`cJ`.text</title>
+    α’
+  </text>
+  <g>
+    <filter
+      id="concyclic-pair__`cJ`.arc-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="0.75"
+      stroke-linecap="butt"
+      d="M 197.2289060605814 144.2891631103993 A 30 30 0 0 0 243.07782126506405 147.86855403088384"
+    />
+    <title>`cJ`.arc</title>
+  </g>
+  <g>
+    <filter
+      id="concyclic-pair__`cJ`.arcFill-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.2"
+      stroke="none"
+      d="M 197.2289060605814 144.2891631103993 A 30 30 0 0 0 243.07782126506405 147.86855403088384 L 221.65306003023366 126.86903960719991 Z "
+    />
+    <title>`cJ`.arcFill</title>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 147.41797207925384, 220.3551815217338)"
+    style="font: italic 18px Palatino"
+    x="147.41797207925384"
+    y="224.4728573029838"
+    width="10.4677734375"
+    height="8.7978515625"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="8.5166015625"
+    descent="0.28125"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`cK`.text</title>
+    α
+  </text>
+  <g>
+    <filter
+      id="concyclic-pair__`cK`.arc-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="0.75"
+      stroke-linecap="butt"
+      d="M 130.02511539856943 228.52388101565114 A 30 30 0 0 0 141.47638953693763 184.05372259781507"
+    />
+    <title>`cK`.arc</title>
+  </g>
+  <g>
+    <filter
+      id="concyclic-pair__`cK`.arcFill-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.2"
+      stroke="none"
+      d="M 130.02511539856943 228.52388101565114 A 30 30 0 0 0 141.47638953693763 184.05372259781507 L 117.05223556728538 201.47384610101446 Z "
+    />
+    <title>`cK`.arcFill</title>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 277.37591160414934, 200.4369394754443)"
+    style="font: italic 18px Palatino"
+    x="277.37591160414934"
+    y="204.0096933816943"
+    width="8.595703125"
+    height="17.3232421875"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="12.234375"
+    descent="5.0888671875"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`cL`.text</title>
+    β
+  </text>
+  <g>
+    <filter
+      id="concyclic-pair__`cL`.arc-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="0.75"
+      stroke-linecap="butt"
+      d="M 291.9476192496957 195.76836567463857 A 30 30 0 0 0 289.0093788529638 234.27342640515033"
+    />
+    <title>`cL`.arc</title>
+  </g>
+  <g>
+    <filter
+      id="concyclic-pair__`cL`.arcFill-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.2"
+      stroke="none"
+      d="M 291.9476192496957 195.76836567463857 A 30 30 0 0 0 289.0093788529638 234.27342640515033 L 313.37238048452605 216.7678800983225 Z "
+    />
+    <title>`cL`.arcFill</title>
+  </g>
+  <g>
+    <filter
+      id="concyclic-pair__`ijk`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.2"
+      stroke="none"
+      d="M 172.82090801533863 317.7583223685683 L 221.65306003023366 126.86903960719991 L 117.05223556728538 201.47384610101446 Z "
+    />
+    <title>`ijk`.icon</title>
+  </g>
+  <g>
+    <filter
+      id="concyclic-pair__`jil`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.2"
+      stroke="none"
+      d="M 221.65306003023366 126.86903960719991 L 172.82090801533863 317.7583223685683 L 313.37238048452605 216.7678800983225 Z "
+    />
+    <title>`jil`.icon</title>
+  </g>
+  <g>
+    <line
+      x1="117.05223556728538"
+      y1="201.47384610101446"
+      x2="172.82090801533863"
+      y2="317.7583223685683"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1.5"
+      stroke-linecap="round"
+    />
+    <title>`ki`.segment</title>
+  </g>
+  <g>
+    <line
+      x1="313.37238048452605"
+      y1="216.7678800983225"
+      x2="221.65306003023366"
+      y2="126.86903960719991"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1.5"
+      stroke-linecap="round"
+    />
+    <title>`lj`.segment</title>
+  </g>
+</svg>

@@ -18,5 +18,9 @@ Four diagrams could not be run; they hung forever even with Vitest's `timeout`:
 - `alloy-models/workstations`
 - `alloy-models/generic`
 
+For contrast, results from an experimental [Rose][] backend can be found in the
+`rose` folder. These were gathered on commit `4f177d5`.
+
 [Penrose]: https://github.com/penrose/penrose
+[Rose]: https://github.com/rose-lang/rose
 [TensorFlow.js]: https://www.tensorflow.org/js

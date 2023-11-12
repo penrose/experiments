@@ -1,0 +1,3184 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 800 800"
+  penrose="0"
+>
+  <penrose><croppedViewBox>0 0 800 800</croppedViewBox></penrose>
+  <g transform="rotate(0, 400, 400)translate(0, 0)">
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-ce5cac0c-dd6f-4329-b1fb-fd64856f8b6c--inject-15"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="800"
+      height="800"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 100 100"
+      preserveAspectRatio="none"
+    >
+      <defs>
+        <linearGradient
+          id="caffeine__uuid-e0f6b897-4010-4fc1-bd22-60ee8a3f792c--inject-15"
+          x1="-1360.714294433595569"
+          y1="-476.142898559568494"
+          x2="-1260.714294433594659"
+          y2="-476.142898559568494"
+          gradientTransform="translate(-426.142898559570312 -1260.714294433594659) rotate(-90) scale(1 -1)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset=".001240078955889" stop-color="#fac7d1" />
+          <stop offset="1" stop-color="#9494f0" />
+        </linearGradient>
+      </defs>
+      <polygon
+        points="100 0 100 100 0 100 0 0 100 0"
+        style="
+          fill: url(#caffeine__uuid-e0f6b897-4010-4fc1-bd22-60ee8a3f792c--inject-15);
+        "
+      />
+    </svg>
+    <title>global.background</title>
+  </g>
+  <g style="filter: blur(5px)" opacity="0.1">
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="546.6120576466324"
+      cy="399.55690862341675"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`C8`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="304.5631115017825"
+      cy="590.5617038665295"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="37.5"
+      ry="18.75"
+    >
+      <title>`H10`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="597.7513461181783"
+      cy="377.5033402100951"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="37.5"
+      ry="18.75"
+    >
+      <title>`H1`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="394.11464771416706"
+      cy="634.2569618603858"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="37.5"
+      ry="18.75"
+    >
+      <title>`H6`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="448.9851745136786"
+      cy="623.3350925758671"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`C1`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="241.67428462547593"
+      cy="498.10897669779365"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="37.5"
+      ry="18.75"
+    >
+      <title>`H8`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="222.33222930115144"
+      cy="578.705692971373"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="37.5"
+      ry="18.75"
+    >
+      <title>`H9`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="362.33809150853983"
+      cy="501.81819121699965"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`N1`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="450.0482454801869"
+      cy="355.51063264753583"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`N4`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="499.4644430538091"
+      cy="599.7355768748807"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="37.5"
+      ry="18.75"
+    >
+      <title>`H7`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="472.34849842135634"
+      cy="433.96056645856174"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`C2`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="377.04569263626973"
+      cy="388.037250448548"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`C6`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="432.2256967809899"
+      cy="524.8080428411577"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`N2`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="269.6491771599425"
+      cy="546.8831993037736"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`C3`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="676.7542979292227"
+      cy="449.7466615312217"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="37.5"
+      ry="18.75"
+    >
+      <title>`H2`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="673.4475283714451"
+      cy="539.1949623435878"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="37.5"
+      ry="18.75"
+    >
+      <title>`H4`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="329.9228506914812"
+      cy="444.6046919866889"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`C4`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="595.1929822134451"
+      cy="568.0926095148989"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="37.5"
+      ry="18.75"
+    >
+      <title>`H3`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="529.4094379282493"
+      cy="483.94742106468163"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`N3`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="267.87657492446976"
+      cy="384.94318348768263"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`O1`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="466.1812903309035"
+      cy="677.589924756629"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="37.5"
+      ry="18.75"
+    >
+      <title>`H5`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="413.14172950182194"
+      cy="452.6576634899249"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`C5`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="620.9676847293651"
+      cy="518.5346069750619"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`C7`.shadow</title>
+    </ellipse>
+    <ellipse
+      fill="#000000"
+      fill-opacity="1"
+      cx="516.4711192657267"
+      cy="326.7382101354703"
+      stroke="#000000"
+      stroke-opacity="0"
+      stroke-width="3"
+      rx="50"
+      ry="25"
+    >
+      <title>`O2`.shadow</title>
+    </ellipse>
+    <title>5:0:nodeShadows</title>
+  </g>
+  <circle
+    fill="#cccccc"
+    fill-opacity="1"
+    cx="222.33222930115144"
+    cy="528.705692971373"
+    stroke="#808080"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="18.75"
+  >
+    <title>`H9`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 222.33222930115144, 528.705692971373)translate(204.33222930115144, 510.70569297137297)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-16"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="36"
+      height="36"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-16"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-16);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`H9`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="259.27674835256516"
+      y1="503.8590623925224"
+      x2="232.70465810852878"
+      y2="521.7298298826242"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:19:line</title>
+  </g>
+  <g>
+    <line
+      x1="259.27674835256516"
+      y1="503.8590623925224"
+      x2="232.70465810852878"
+      y2="521.7298298826242"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:19:innerLine</title>
+  </g>
+  <circle
+    fill="#cccccc"
+    fill-opacity="1"
+    cx="304.5631115017825"
+    cy="540.5617038665295"
+    stroke="#808080"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="18.75"
+  >
+    <title>`H10`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 304.5631115017825, 540.5617038665295)translate(286.5631115017825, 522.5617038665295)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-17"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="36"
+      height="36"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-17"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-17);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`H10`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="277.45392815035893"
+      y1="506.6472049414182"
+      x2="296.75836051136605"
+      y2="530.7976982288849"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:17:line</title>
+  </g>
+  <g>
+    <line
+      x1="277.45392815035893"
+      y1="506.6472049414182"
+      x2="296.75836051136605"
+      y2="530.7976982288849"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:17:innerLine</title>
+  </g>
+  <circle
+    fill="#cccccc"
+    fill-opacity="1"
+    cx="241.67428462547593"
+    cy="448.1089766977936"
+    stroke="#808080"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="18.75"
+  >
+    <title>`H8`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 241.67428462547593, 448.1089766977936)translate(223.67428462547593, 430.1089766977936)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-18"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="36"
+      height="36"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-18"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-18);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`H8`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="263.43003567829714"
+      y1="486.04012669249795"
+      x2="247.89342610712131"
+      y2="458.9520493090693"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:18:line</title>
+  </g>
+  <g>
+    <line
+      x1="263.43003567829714"
+      y1="486.04012669249795"
+      x2="247.89342610712131"
+      y2="458.9520493090693"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:18:innerLine</title>
+  </g>
+  <circle
+    fill="#666666"
+    fill-opacity="1"
+    cx="269.6491771599425"
+    cy="496.88319930377367"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`C3`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 269.6491771599425, 496.88319930377367)translate(245.3991771599425, 472.63319930377367)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-19"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-19"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-19);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`C3`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="351.0963710441457"
+      y1="457.28387421908826"
+      x2="280.8908976243367"
+      y2="491.41751630168505"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:20:line</title>
+  </g>
+  <g>
+    <line
+      x1="351.0963710441457"
+      y1="457.28387421908826"
+      x2="280.8908976243367"
+      y2="491.41751630168505"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:20:innerLine</title>
+  </g>
+  <circle
+    fill="#ff6666"
+    fill-opacity="1"
+    cx="516.4711192657267"
+    cy="276.7382101354703"
+    stroke="#ff0000"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`O2`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 516.4711192657267, 276.7382101354703)translate(492.22111926572666, 252.4882101354703)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-20"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-20"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-20);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`O2`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="471.32554710730085"
+      y1="370.0226312844128"
+      x2="505.9345419148407"
+      y2="285.91933229120406"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>16:1:line1</title>
+  </g>
+  <g>
+    <line
+      x1="471.32554710730085"
+      y1="370.0226312844128"
+      x2="505.9345419148407"
+      y2="285.91933229120406"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>16:1:innerLine1</title>
+  </g>
+  <g>
+    <line
+      x1="482.8850757722422"
+      y1="374.779444302828"
+      x2="517.4940705797821"
+      y2="290.6761453096193"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>16:1:line2</title>
+  </g>
+  <g>
+    <line
+      x1="482.8850757722422"
+      y1="374.779444302828"
+      x2="517.4940705797821"
+      y2="290.6761453096193"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>16:1:innerLine2</title>
+  </g>
+  <circle
+    fill="#666666"
+    fill-opacity="1"
+    cx="472.34849842135634"
+    cy="383.96056645856174"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`C2`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 472.34849842135634, 383.96056645856174)translate(448.09849842135634, 359.71056645856174)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-21"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-21"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-21);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`C2`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="372.9769542241903"
+      y1="445.2558306706263"
+      x2="461.70963570570586"
+      y2="390.5229270049351"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:3:line</title>
+  </g>
+  <g>
+    <line
+      x1="372.9769542241903"
+      y1="445.2558306706263"
+      x2="461.70963570570586"
+      y2="390.5229270049351"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:3:innerLine</title>
+  </g>
+  <circle
+    fill="#6666ff"
+    fill-opacity="1"
+    cx="362.33809150853983"
+    cy="451.81819121699965"
+    stroke="#0000ff"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`N1`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 362.33809150853983, 451.81819121699965)translate(349.8460915085398, 445.67119121699966)"
+  >
+    <title>`N1`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.294"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 683"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D441"
+              d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="31"
+              d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g>
+    <line
+      x1="437.27573229051507"
+      y1="463.37357259167015"
+      x2="467.2984629118311"
+      y2="395.39503670804936"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:4:line</title>
+  </g>
+  <g>
+    <line
+      x1="437.27573229051507"
+      y1="463.37357259167015"
+      x2="467.2984629118311"
+      y2="395.39503670804936"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:4:innerLine</title>
+  </g>
+  <circle
+    fill="#ff6666"
+    fill-opacity="1"
+    cx="267.87657492446976"
+    cy="334.94318348768263"
+    stroke="#ff0000"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`O1`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 267.87657492446976, 334.94318348768263)translate(243.62657492446976, 310.69318348768263)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-22"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-22"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-22);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`O1`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="316.58056614964414"
+      y1="390.44585827713263"
+      x2="272.554878681927"
+      y2="348.11231134688603"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>16:2:line1</title>
+  </g>
+  <g>
+    <line
+      x1="316.58056614964414"
+      y1="390.44585827713263"
+      x2="272.554878681927"
+      y2="348.11231134688603"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>16:2:innerLine1</title>
+  </g>
+  <g>
+    <line
+      x1="325.24454693402396"
+      y1="381.4355641274855"
+      x2="281.2188594663068"
+      y2="339.1020171972389"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>16:2:line2</title>
+  </g>
+  <g>
+    <line
+      x1="325.24454693402396"
+      y1="381.4355641274855"
+      x2="281.2188594663068"
+      y2="339.1020171972389"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>16:2:innerLine2</title>
+  </g>
+  <g
+    transform="rotate(0, 362.33809150853983, 451.81819121699965)translate(338.08809150853983, 427.56819121699965)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-23"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-23"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-23);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`N1`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="375.4432443911043"
+      y1="350.4341102276667"
+      x2="363.94053975370525"
+      y2="439.42133143788095"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:2:line</title>
+  </g>
+  <g>
+    <line
+      x1="375.4432443911043"
+      y1="350.4341102276667"
+      x2="363.94053975370525"
+      y2="439.42133143788095"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:2:innerLine</title>
+  </g>
+  <circle
+    fill="#666666"
+    fill-opacity="1"
+    cx="377.04569263626973"
+    cy="338.037250448548"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`C6`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 377.04569263626973, 338.037250448548)translate(352.79569263626973, 313.787250448548)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-24"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-24"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-24);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`C6`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="401.5894928488202"
+      y1="394.79266027702"
+      x2="377.6850320577468"
+      y2="351.9980416986923"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>16:0:line1</title>
+  </g>
+  <g>
+    <line
+      x1="401.5894928488202"
+      y1="394.79266027702"
+      x2="377.6850320577468"
+      y2="351.9980416986923"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>16:0:innerLine1</title>
+  </g>
+  <g>
+    <line
+      x1="412.50239008034487"
+      y1="388.69687223978053"
+      x2="388.59792928927146"
+      y2="345.90225366145285"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>16:0:line2</title>
+  </g>
+  <g>
+    <line
+      x1="412.50239008034487"
+      y1="388.69687223978053"
+      x2="388.59792928927146"
+      y2="345.90225366145285"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>16:0:innerLine2</title>
+  </g>
+  <circle
+    fill="#666666"
+    fill-opacity="1"
+    cx="413.14172950182194"
+    cy="402.6576634899249"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`C5`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 413.14172950182194, 402.6576634899249)translate(388.89172950182194, 378.4076634899249)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-25"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-25"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-25);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`C5`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="342.36473108650773"
+      y1="395.8086749013851"
+      x2="400.69984910679545"
+      y2="401.45368057522876"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:1:line</title>
+  </g>
+  <g>
+    <line
+      x1="342.36473108650773"
+      y1="395.8086749013851"
+      x2="400.69984910679545"
+      y2="401.45368057522876"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:1:innerLine</title>
+  </g>
+  <circle
+    fill="#666666"
+    fill-opacity="1"
+    cx="329.9228506914812"
+    cy="394.6046919866889"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`C4`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 329.9228506914812, 394.6046919866889)translate(305.6728506914812, 370.3546919866889)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-26"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-26"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-26);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`C4`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="422.3884342299193"
+      y1="467.09582905640406"
+      x2="339.7601132425517"
+      y2="402.3169057714425"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:0:line</title>
+  </g>
+  <g>
+    <line
+      x1="422.3884342299193"
+      y1="467.09582905640406"
+      x2="339.7601132425517"
+      y2="402.3169057714425"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:0:innerLine</title>
+  </g>
+  <circle
+    fill="#cccccc"
+    fill-opacity="1"
+    cx="466.1812903309035"
+    cy="627.589924756629"
+    stroke="#808080"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="18.75"
+  >
+    <title>`H5`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 466.1812903309035, 627.589924756629)translate(448.1812903309035, 609.589924756629)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-27"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="36"
+      height="36"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-27"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-27);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`H5`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="452.76189781326974"
+      y1="585.2508932712335"
+      x2="462.40456703131235"
+      y2="615.6741240612624"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:8:line</title>
+  </g>
+  <g>
+    <line
+      x1="452.76189781326974"
+      y1="585.2508932712335"
+      x2="462.40456703131235"
+      y2="615.6741240612624"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:8:innerLine</title>
+  </g>
+  <circle
+    fill="#cccccc"
+    fill-opacity="1"
+    cx="394.11464771416706"
+    cy="584.2569618603858"
+    stroke="#808080"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="18.75"
+  >
+    <title>`H6`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 394.11464771416706, 584.2569618603858)translate(376.11464771416706, 566.2569618603858)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-28"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="36"
+      height="36"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-28"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-28);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`H6`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="436.7256789934178"
+      y1="575.7753207890145"
+      x2="406.3741432344279"
+      y2="581.8167336472384"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:7:line</title>
+  </g>
+  <g>
+    <line
+      x1="436.7256789934178"
+      y1="575.7753207890145"
+      x2="406.3741432344279"
+      y2="581.8167336472384"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:7:innerLine</title>
+  </g>
+  <circle
+    fill="#cccccc"
+    fill-opacity="1"
+    cx="499.4644430538091"
+    cy="549.7355768748807"
+    stroke="#808080"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="18.75"
+  >
+    <title>`H7`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 499.4644430538091, 549.7355768748807)translate(481.4644430538091, 531.7355768748807)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-29"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="36"
+      height="36"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-29"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-29);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`H7`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="460.30880355834324"
+      y1="568.0411933344535"
+      x2="488.1408140091444"
+      y2="555.0294761162943"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:6:line</title>
+  </g>
+  <g>
+    <line
+      x1="460.30880355834324"
+      y1="568.0411933344535"
+      x2="488.1408140091444"
+      y2="555.0294761162943"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:6:innerLine</title>
+  </g>
+  <circle
+    fill="#666666"
+    fill-opacity="1"
+    cx="448.9851745136786"
+    cy="573.3350925758671"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`C1`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 448.9851745136786, 573.3350925758671)translate(424.7351745136786, 549.0850925758671)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-30"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-30"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-30);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`C1`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="434.3218411519025"
+      y1="487.131035477212"
+      x2="446.88903014276593"
+      y2="561.0120999398127"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:5:line</title>
+  </g>
+  <g>
+    <line
+      x1="434.3218411519025"
+      y1="487.131035477212"
+      x2="446.88903014276593"
+      y2="561.0120999398127"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:5:innerLine</title>
+  </g>
+  <circle
+    fill="#6666ff"
+    fill-opacity="1"
+    cx="432.2256967809899"
+    cy="474.8080428411577"
+    stroke="#0000ff"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`N2`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 432.2256967809899, 474.8080428411577)translate(419.7336967809899, 468.6610428411577)"
+  >
+    <title>`N2`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.294"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 683"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D441"
+              d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="32"
+              d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 156.8936209629167, 599.1517449426641)"
+    style="
+      font:
+        bold 40px HelveticaNeue-CondensedBold,
+        Helvetica Neue,
+        Helvetica,
+        Arial,
+        sans-serif;
+    "
+    x="156.8936209629167"
+    y="613.1717644739141"
+    width="151.7998046875"
+    height="29.0791015625"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="28.5595703125"
+    descent="0.51953125"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`title`.labelText</title>
+    caffeine
+  </text>
+  <g
+    transform="rotate(0, 241.67428462547593, 448.1089766977936)translate(229.18228462547594, 441.76397669779357)"
+  >
+    <title>`H8`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.69"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 705"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D43B"
+              d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="38"
+              d="M70 417T70 494T124 618T248 666Q319 666 374 624T429 515Q429 485 418 459T392 417T361 389T335 371T324 363L338 354Q352 344 366 334T382 323Q457 264 457 174Q457 95 399 37T249 -22Q159 -22 101 29T43 155Q43 263 172 335L154 348Q133 361 127 368Q70 417 70 494ZM286 386L292 390Q298 394 301 396T311 403T323 413T334 425T345 438T355 454T364 471T369 491T371 513Q371 556 342 586T275 624Q268 625 242 625Q201 625 165 599T128 534Q128 511 141 492T167 463T217 431Q224 426 228 424L286 386ZM250 21Q308 21 350 55T392 137Q392 154 387 169T375 194T353 216T330 234T301 253T274 270Q260 279 244 289T218 306L210 311Q204 311 181 294T133 239T107 157Q107 98 150 60T250 21Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 499.4644430538091, 549.7355768748807)translate(486.97244305380906, 543.3905768748807)"
+  >
+    <title>`H7`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.69"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 705"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D43B"
+              d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="37"
+              d="M55 458Q56 460 72 567L88 674Q88 676 108 676H128V672Q128 662 143 655T195 646T364 644H485V605L417 512Q408 500 387 472T360 435T339 403T319 367T305 330T292 284T284 230T278 162T275 80Q275 66 275 52T274 28V19Q270 2 255 -10T221 -22Q210 -22 200 -19T179 0T168 40Q168 198 265 368Q285 400 349 489L395 552H302Q128 552 119 546Q113 543 108 522T98 479L95 458V455H55V458Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <circle
+    fill="#cccccc"
+    fill-opacity="1"
+    cx="673.4475283714451"
+    cy="489.1949623435878"
+    stroke="#808080"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="18.75"
+  >
+    <title>`H4`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 673.4475283714451, 489.1949623435878)translate(655.4475283714451, 471.1949623435878)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-31"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="36"
+      height="36"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-31"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-31);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`H4`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="632.5988093108964"
+      y1="473.1135681630742"
+      x2="661.8164037899137"
+      y2="484.6160011555756"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:9:line</title>
+  </g>
+  <g>
+    <line
+      x1="632.5988093108964"
+      y1="473.1135681630742"
+      x2="661.8164037899137"
+      y2="484.6160011555756"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:9:innerLine</title>
+  </g>
+  <circle
+    fill="#cccccc"
+    fill-opacity="1"
+    cx="595.1929822134451"
+    cy="518.0926095148988"
+    stroke="#808080"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="18.75"
+  >
+    <title>`H3`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 595.1929822134451, 518.0926095148988)translate(577.1929822134451, 500.09260951489875)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-32"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="36"
+      height="36"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-32"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-32);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`H3`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="615.199976662102"
+      y1="479.6243990248407"
+      x2="600.9606902807081"
+      y2="507.0028174651201"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:10:line</title>
+  </g>
+  <g>
+    <line
+      x1="615.199976662102"
+      y1="479.6243990248407"
+      x2="600.9606902807081"
+      y2="507.0028174651201"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:10:innerLine</title>
+  </g>
+  <circle
+    fill="#666666"
+    fill-opacity="1"
+    cx="620.9676847293651"
+    cy="468.534606975062"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`C7`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 620.9676847293651, 468.534606975062)translate(596.7176847293651, 444.284606975062)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-33"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-33"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-33);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`C7`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="541.1029006079066"
+      y1="438.3647617387112"
+      x2="609.2742220497078"
+      y2="464.1172663010325"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:12:line</title>
+  </g>
+  <g>
+    <line
+      x1="541.1029006079066"
+      y1="438.3647617387112"
+      x2="609.2742220497078"
+      y2="464.1172663010325"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:12:innerLine</title>
+  </g>
+  <g>
+    <line
+      x1="517.33890094766"
+      y1="430.69901975849467"
+      x2="425.2122664824112"
+      y2="405.9060647961119"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:13:line</title>
+  </g>
+  <g>
+    <line
+      x1="517.33890094766"
+      y1="430.69901975849467"
+      x2="425.2122664824112"
+      y2="405.9060647961119"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:13:innerLine</title>
+  </g>
+  <circle
+    fill="#6666ff"
+    fill-opacity="1"
+    cx="529.4094379282493"
+    cy="433.94742106468163"
+    stroke="#0000ff"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`N3`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 529.4094379282493, 433.94742106468163)translate(505.1594379282493, 409.69742106468163)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-34"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-34"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-34);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`N3`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="544.1153352939441"
+      y1="361.80502444625034"
+      x2="531.9061602809375"
+      y2="421.6993052418481"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:14:line</title>
+  </g>
+  <g>
+    <line
+      x1="544.1153352939441"
+      y1="361.80502444625034"
+      x2="531.9061602809375"
+      y2="421.6993052418481"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:14:innerLine</title>
+  </g>
+  <circle
+    fill="#cccccc"
+    fill-opacity="1"
+    cx="597.7513461181783"
+    cy="327.5033402100951"
+    stroke="#808080"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="18.75"
+  >
+    <title>`H1`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 597.7513461181783, 327.5033402100951)translate(579.7513461181783, 309.5033402100951)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-35"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="36"
+      height="36"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-35"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-35);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`H1`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="558.0902276547126"
+      y1="344.607003861371"
+      x2="586.273176110098"
+      y2="332.4532449721408"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:16:line</title>
+  </g>
+  <g>
+    <line
+      x1="558.0902276547126"
+      y1="344.607003861371"
+      x2="586.273176110098"
+      y2="332.4532449721408"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:16:innerLine</title>
+  </g>
+  <g>
+    <line
+      x1="438.63031151718644"
+      y1="310.5979447979171"
+      x2="388.4636265992702"
+      y2="332.94993829816667"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:15:line</title>
+  </g>
+  <g>
+    <line
+      x1="438.63031151718644"
+      y1="310.5979447979171"
+      x2="388.4636265992702"
+      y2="332.94993829816667"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:15:innerLine</title>
+  </g>
+  <circle
+    fill="#6666ff"
+    fill-opacity="1"
+    cx="450.0482454801869"
+    cy="305.51063264753583"
+    stroke="#0000ff"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`N4`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 450.0482454801869, 305.51063264753583)translate(425.7982454801869, 281.26063264753583)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-36"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-36"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-36);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`N4`.shading</title>
+  </g>
+  <g>
+    <line
+      x1="532.6455400887023"
+      y1="350.0557577985247"
+      x2="458.8272353550313"
+      y2="316.38453718881505"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>16:3:line1</title>
+  </g>
+  <g>
+    <line
+      x1="532.6455400887023"
+      y1="350.0557577985247"
+      x2="458.8272353550313"
+      y2="316.38453718881505"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>16:3:innerLine1</title>
+  </g>
+  <g>
+    <line
+      x1="537.8330677717879"
+      y1="338.6830040821375"
+      x2="464.01476303811694"
+      y2="305.01178347242785"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>16:3:line2</title>
+  </g>
+  <g>
+    <line
+      x1="537.8330677717879"
+      y1="338.6830040821375"
+      x2="464.01476303811694"
+      y2="305.01178347242785"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>16:3:innerLine2</title>
+  </g>
+  <circle
+    fill="#666666"
+    fill-opacity="1"
+    cx="546.6120576466324"
+    cy="349.55690862341675"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="25"
+  >
+    <title>`C8`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 546.6120576466324, 349.55690862341675)translate(522.3620576466324, 325.30690862341675)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-37"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-37"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-37);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`C8`.shading</title>
+  </g>
+  <g
+    transform="rotate(0, 432.2256967809899, 474.8080428411577)translate(407.9756967809899, 450.5580428411577)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-38"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="48.5"
+      height="48.5"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-38"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-38);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`N2`.shading</title>
+  </g>
+  <g
+    transform="rotate(0, 516.4711192657267, 276.7382101354703)translate(505.10411926572664, 270.2042101354703)"
+  >
+    <title>`O2`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="22.733999999999998"
+      height="13.068"
+      role="img"
+      focusable="false"
+      viewBox="0 -704 1263 726"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D442"
+              d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(763,0)">
+            <path
+              data-c="32"
+              d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 597.7513461181783, 327.5033402100951)translate(585.2593461181783, 321.3563402100951)"
+  >
+    <title>`H1`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.294"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 683"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D43B"
+              d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="31"
+              d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 304.5631115017825, 540.5617038665295)translate(287.57111150178247, 534.2167038665294)"
+  >
+    <title>`H10`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="33.983999999999995"
+      height="12.69"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1888 705"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D43B"
+              d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="31"
+              d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"
+            />
+            <path
+              data-c="30"
+              d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"
+              transform="translate(500,0)"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 267.87657492446976, 334.94318348768263)translate(256.50957492446975, 328.40918348768264)"
+  >
+    <title>`O1`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="22.733999999999998"
+      height="13.068"
+      role="img"
+      focusable="false"
+      viewBox="0 -704 1263 726"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D442"
+              d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(763,0)">
+            <path
+              data-c="31"
+              d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 448.9851745136786, 573.3350925758671)translate(437.6451745136786, 566.7920925758671)"
+  >
+    <title>`C1`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="22.68"
+      height="13.086"
+      role="img"
+      focusable="false"
+      viewBox="0 -705 1260 727"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D436"
+              d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(760,0)">
+            <path
+              data-c="31"
+              d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g>
+    <line
+      x1="668.8807011401948"
+      y1="409.4552370353507"
+      x2="628.8412815183931"
+      y2="458.826031470933"
+      stroke="#808080"
+      stroke-opacity="1"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <title>15:11:line</title>
+  </g>
+  <g>
+    <line
+      x1="668.8807011401948"
+      y1="409.4552370353507"
+      x2="628.8412815183931"
+      y2="458.826031470933"
+      stroke="#e6e6e6"
+      stroke-opacity="1"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <title>15:11:innerLine</title>
+  </g>
+  <circle
+    fill="#cccccc"
+    fill-opacity="1"
+    cx="676.7542979292227"
+    cy="399.7466615312217"
+    stroke="#808080"
+    stroke-opacity="1"
+    stroke-width="3"
+    r="18.75"
+  >
+    <title>`H2`.icon</title>
+  </circle>
+  <g
+    transform="rotate(0, 676.7542979292227, 399.7466615312217)translate(664.2622979292228, 393.5996615312217)"
+  >
+    <title>`H2`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.294"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 683"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D43B"
+              d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="32"
+              d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 450.0482454801869, 305.51063264753583)translate(437.5562454801869, 299.36363264753584)"
+  >
+    <title>`N4`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.294"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 683"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D441"
+              d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="34"
+              d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 329.9228506914812, 394.6046919866889)translate(318.5828506914812, 388.0616919866889)"
+  >
+    <title>`C4`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="22.68"
+      height="13.086"
+      role="img"
+      focusable="false"
+      viewBox="0 -705 1260 727"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D436"
+              d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(760,0)">
+            <path
+              data-c="34"
+              d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 595.1929822134451, 518.0926095148988)translate(582.7009822134452, 511.7476095148987)"
+  >
+    <title>`H3`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.69"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 705"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D43B"
+              d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="33"
+              d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 620.9676847293651, 468.534606975062)translate(609.6276847293651, 461.991606975062)"
+  >
+    <title>`C7`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="22.68"
+      height="13.086"
+      role="img"
+      focusable="false"
+      viewBox="0 -705 1260 727"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D436"
+              d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(760,0)">
+            <path
+              data-c="37"
+              d="M55 458Q56 460 72 567L88 674Q88 676 108 676H128V672Q128 662 143 655T195 646T364 644H485V605L417 512Q408 500 387 472T360 435T339 403T319 367T305 330T292 284T284 230T278 162T275 80Q275 66 275 52T274 28V19Q270 2 255 -10T221 -22Q210 -22 200 -19T179 0T168 40Q168 198 265 368Q285 400 349 489L395 552H302Q128 552 119 546Q113 543 108 522T98 479L95 458V455H55V458Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 466.1812903309035, 627.589924756629)translate(453.6892903309035, 621.244924756629)"
+  >
+    <title>`H5`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.69"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 705"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D43B"
+              d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="35"
+              d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 394.11464771416706, 584.2569618603858)translate(381.62264771416704, 577.9119618603858)"
+  >
+    <title>`H6`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.69"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 705"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D43B"
+              d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="36"
+              d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 546.6120576466324, 349.55690862341675)translate(535.2720576466323, 343.01390862341674)"
+  >
+    <title>`C8`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="22.68"
+      height="13.086"
+      role="img"
+      focusable="false"
+      viewBox="0 -705 1260 727"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D436"
+              d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(760,0)">
+            <path
+              data-c="38"
+              d="M70 417T70 494T124 618T248 666Q319 666 374 624T429 515Q429 485 418 459T392 417T361 389T335 371T324 363L338 354Q352 344 366 334T382 323Q457 264 457 174Q457 95 399 37T249 -22Q159 -22 101 29T43 155Q43 263 172 335L154 348Q133 361 127 368Q70 417 70 494ZM286 386L292 390Q298 394 301 396T311 403T323 413T334 425T345 438T355 454T364 471T369 491T371 513Q371 556 342 586T275 624Q268 625 242 625Q201 625 165 599T128 534Q128 511 141 492T167 463T217 431Q224 426 228 424L286 386ZM250 21Q308 21 350 55T392 137Q392 154 387 169T375 194T353 216T330 234T301 253T274 270Q260 279 244 289T218 306L210 311Q204 311 181 294T133 239T107 157Q107 98 150 60T250 21Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 377.04569263626973, 338.037250448548)translate(365.70569263626976, 331.494250448548)"
+  >
+    <title>`C6`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="22.68"
+      height="13.086"
+      role="img"
+      focusable="false"
+      viewBox="0 -705 1260 727"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D436"
+              d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(760,0)">
+            <path
+              data-c="36"
+              d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 673.4475283714451, 489.1949623435878)translate(660.9555283714451, 483.0479623435878)"
+  >
+    <title>`H4`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.294"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 683"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D43B"
+              d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="34"
+              d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 472.34849842135634, 383.96056645856174)translate(461.00849842135636, 377.41756645856174)"
+  >
+    <title>`C2`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="22.68"
+      height="13.086"
+      role="img"
+      focusable="false"
+      viewBox="0 -705 1260 727"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D436"
+              d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(760,0)">
+            <path
+              data-c="32"
+              d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 529.4094379282493, 433.94742106468163)translate(516.9174379282493, 427.6024210646816)"
+  >
+    <title>`N3`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.69"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 705"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D441"
+              d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="33"
+              d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 222.33222930115144, 528.705692971373)translate(209.84022930115145, 522.3606929713729)"
+  >
+    <title>`H9`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="24.983999999999998"
+      height="12.69"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 1388 705"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D43B"
+              d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(888,0)">
+            <path
+              data-c="39"
+              d="M352 287Q304 211 232 211Q154 211 104 270T44 396Q42 412 42 436V444Q42 537 111 606Q171 666 243 666Q245 666 249 666T257 665H261Q273 665 286 663T323 651T370 619T413 560Q456 472 456 334Q456 194 396 97Q361 41 312 10T208 -22Q147 -22 108 7T68 93T121 149Q143 149 158 135T173 96Q173 78 164 65T148 49T135 44L131 43Q131 41 138 37T164 27T206 22H212Q272 22 313 86Q352 142 352 280V287ZM244 248Q292 248 321 297T351 430Q351 508 343 542Q341 552 337 562T323 588T293 615T246 625Q208 625 181 598Q160 576 154 546T147 441Q147 358 152 329T172 282Q197 248 244 248Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 676.7542979292227, 399.7466615312217)translate(658.7542979292227, 381.7466615312217)"
+  >
+    <!--?xml version="1.0" encoding="UTF-8"?--><svg
+      id="caffeine__uuid-61c4681b-4632-4ad3-a199-4a7aac9b6e61--inject-39"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="36"
+      height="36"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 221.800003051757812 221.800003051757812"
+      preserveAspectRatio=""
+    >
+      <defs>
+        <radialGradient
+          id="caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-39"
+          cx="75.43280029296875"
+          cy="928.985107421875"
+          fx="75.43280029296875"
+          fy="928.985107421875"
+          r="157.934097290039062"
+          gradientTransform="translate(0 -858)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0" stop-color="#fff" />
+          <stop offset=".784400024414063" stop-color="#5f5f5f" />
+          <stop offset="1" stop-color="#7f7f7f" />
+        </radialGradient>
+      </defs>
+      <circle
+        cx="110.900001525878906"
+        cy="110.900001525878906"
+        r="110.900001525878906"
+        style="
+          fill: url(#caffeine__uuid-edffd131-03eb-43e5-abfb-64430e9c2b27--inject-39);
+          isolation: isolate;
+          opacity: 0.600000023841858;
+        "
+      />
+    </svg>
+    <title>`H2`.shading</title>
+  </g>
+  <g
+    transform="rotate(0, 269.6491771599425, 496.88319930377367)translate(258.3091771599425, 490.34019930377366)"
+  >
+    <title>`C3`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="22.68"
+      height="13.086"
+      role="img"
+      focusable="false"
+      viewBox="0 -705 1260 727"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D436"
+              d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(760,0)">
+            <path
+              data-c="33"
+              d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 413.14172950182194, 402.6576634899249)translate(401.80172950182197, 396.1146634899249)"
+  >
+    <title>`C5`.labelText</title>
+    <svg
+      style="font-size: 18px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="22.68"
+      height="13.086"
+      role="img"
+      focusable="false"
+      viewBox="0 -705 1260 727"
+    >
+      <g stroke="none" fill="none" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D436"
+              d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"
+            />
+          </g>
+          <g data-mml-node="mn" transform="translate(760,0)">
+            <path
+              data-c="35"
+              d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+</svg>
