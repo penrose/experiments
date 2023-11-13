@@ -1,0 +1,10 @@
+{
+  "alloy-models/generic": {
+    "totalSeconds": 3828.867653208,
+    "seconds": {
+      "compiling": 0.251661958,
+      "optimizing": 3828.524157125,
+      "rendering": 0.068153542
+    }
+  }
+}
