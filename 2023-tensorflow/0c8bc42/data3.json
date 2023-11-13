@@ -1,0 +1,10 @@
+{
+  "alloy-models/workstations": {
+    "totalSeconds": 5141.405785875,
+    "seconds": {
+      "compiling": 0.154593541,
+      "optimizing": 5141.190989875,
+      "rendering": 0.038543167
+    }
+  }
+}
