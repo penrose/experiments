@@ -1,0 +1,10 @@
+{
+  "alloy-models/message-passing": {
+    "totalSeconds": 12389.940469291,
+    "seconds": {
+      "compiling": 0.185401834,
+      "optimizing": 12389.697647333,
+      "rendering": 0.035720958
+    }
+  }
+}
