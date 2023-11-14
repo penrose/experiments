@@ -18,7 +18,7 @@ for (const [commit, excludes] of Object.entries(exclusions)) {
 const all = await fs.readFile("rose/data.json", "utf8");
 const rose = new Map(Object.entries(JSON.parse(all)));
 
-const getTime = (data) => data?.seconds?.optimizing ?? data?.totalSeconds;
+const getTime = (data) => data?.seconds?.optimizing ?? data?.totalSeconds ?? "";
 
 const lines = ["name,tfjs,rose"];
 for (const name of rose.keys())
