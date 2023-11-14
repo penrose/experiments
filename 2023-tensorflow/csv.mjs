@@ -23,4 +23,5 @@ const getTime = (data) => data?.seconds?.optimizing ?? data?.totalSeconds ?? "";
 const lines = ["name,tfjs,rose"];
 for (const name of rose.keys())
   lines.push(`${name},${getTime(tfjs.get(name))},${getTime(rose.get(name))}`);
+lines.push("");
 await fs.writeFile("data.csv", lines.join("\n"), "utf8");
