@@ -14,10 +14,9 @@ was run.
 For contrast, results from an experimental [Rose][] backend can be found in the
 `rose` folder. These were gathered on commit `4f177d5`.
 
-If you have [Node][] installed, run `csv.mjs` to generate `data.csv` comparing
-TensorFlow.js and Rose.
+If you have Python installed, run `./analyze.py` to generate `data.csv`
+comparing TensorFlow.js and Rose.
 
-[Node]: https://nodejs.org/en/download/
 [Penrose]: https://github.com/penrose/penrose
 [Rose]: https://github.com/rose-lang/rose
 [TensorFlow.js]: https://www.tensorflow.org/js
