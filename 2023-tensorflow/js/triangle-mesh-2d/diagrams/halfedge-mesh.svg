@@ -1,0 +1,542 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 480 360"
+  penrose="0"
+>
+  <penrose><croppedViewBox>-1 -1 482 362</croppedViewBox></penrose>
+  <rect
+    x="0"
+    y="0"
+    width="480"
+    height="360"
+    fill="none"
+    stroke="none"
+    rx="0"
+    transform="rotate(0, 240, 180)"
+  >
+    <title>Global.box</title>
+  </rect>
+  <g>
+    <line
+      x1="320.0434753004361"
+      y1="324.72125690523654"
+      x2="258.692682812998"
+      y2="131.94226434251692"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`eki`.segment</title>
+  </g>
+  <g>
+    <line
+      x1="103.98924426475384"
+      y1="140.3914539519585"
+      x2="120.5038096532606"
+      y2="275.90666817546094"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`elj`.segment</title>
+  </g>
+  <g>
+    <line
+      x1="118.04091412178465"
+      y1="5.6197044427110825"
+      x2="103.98924426475384"
+      y2="140.3914539519585"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`eml`.segment</title>
+  </g>
+  <g>
+    <filter
+      id="halfedge-mesh__`hli`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-linecap="butt"
+      d="M 206.20944120313254 118.78486156005519 L 214.6338089076947 126.33668334391412 L 137.28209462613185 130.56127787596432"
+    />
+    <title>`hli`.icon</title>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(-3.1261259284153398, 175.52167880656165, 120.46088586572867)"
+    style="font: 6.75px Courier"
+    x="175.52167880656165"
+    y="122.81879602197867"
+    width="48.78125"
+    height="4.9677734375"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="4.841796875"
+    descent="0.1259765625"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`hli`.labelText</title>
+    twin-&gt;next-&gt;twin
+  </text>
+  <g>
+    <line
+      x1="258.692682812998"
+      y1="131.94226434251692"
+      x2="120.5038096532606"
+      y2="275.90666817546094"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`eij`.segment</title>
+  </g>
+  <g>
+    <line
+      x1="120.5038096532606"
+      y1="275.90666817546094"
+      x2="320.0434753004361"
+      y2="324.72125690523654"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`ejk`.segment</title>
+  </g>
+  <g>
+    <filter
+      id="halfedge-mesh__`hki`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-linecap="butt"
+      d="M 261.08805743586794 192.22937651973527 L 266.2852650948357 182.18004719408071 L 296.9606598222668 278.56953871089775"
+    />
+    <title>`hki`.icon</title>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(-107.65336877051143, 273.9996939662401, 232.8008537858326)"
+    style="font: 6.75px Courier"
+    x="273.9996939662401"
+    y="234.9956780045826"
+    width="31.984375"
+    height="4.6416015625"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="4.515625"
+    descent="0.1259765625"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`hki`.labelText</title>
+    next-&gt;next
+  </text>
+  <g>
+    <filter
+      id="halfedge-mesh__`hji`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-linecap="butt"
+      d="M 205.87588969182224 163.86146609945447 L 217.1872281489786 163.6299288906344 L 148.09279503154778 235.61212719995774"
+    />
+    <title>`hji`.icon</title>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(-46.17265101302777, 176.86857375727496, 194.08112742112795)"
+    style="font: 6.75px Courier"
+    x="176.86857375727496"
+    y="196.47907663987795"
+    width="21.9423828125"
+    height="4.9208984375"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="4.8583984375"
+    descent="0.0625"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`hji`.labelText</title>
+    h-&gt;twin
+  </text>
+  <g>
+    <line
+      x1="258.692682812998"
+      y1="131.94226434251692"
+      x2="103.98924426475384"
+      y2="140.3914539519585"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`eil`.segment</title>
+  </g>
+  <g>
+    <filter
+      id="halfedge-mesh__`iml`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.2"
+      stroke="none"
+      d="M 258.692682812998 131.94226434251692 L 118.04091412178465 5.6197044427110825 L 103.98924426475384 140.3914539519585 Z "
+    />
+    <title>`iml`.icon</title>
+  </g>
+  <g>
+    <line
+      x1="258.692682812998"
+      y1="131.94226434251692"
+      x2="118.04091412178465"
+      y2="5.6197044427110825"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1"
+      stroke-linecap="round"
+    />
+    <title>`eim`.segment</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="258.692682812998"
+    cy="131.94226434251692"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`i`.icon</title>
+  </circle>
+  <g>
+    <filter
+      id="halfedge-mesh__`hij`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-linecap="butt"
+      d="M 172.2816299120108 245.0698597548717 L 160.97029145485448 245.30139696369176 L 230.0647245722853 173.3191986543684"
+    />
+    <title>`hij`.icon</title>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(133.82734898697225, 201.28894584655808, 214.8501984331982)"
+    style="font: 6.75px Courier"
+    x="201.28894584655808"
+    y="217.2793976519482"
+    width="3.748046875"
+    height="4.8583984375"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="4.8583984375"
+    descent="0"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`hij`.labelText</title>
+    h
+  </text>
+  <g>
+    <filter
+      id="halfedge-mesh__`hjk`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-linecap="butt"
+      d="M 266.00672702704094 295.0301527049788 L 271.876545862292 304.7020302052003 L 172.10671789548437 280.2947370284558"
+    />
+    <title>`hjk`.icon</title>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(13.746625176092508, 223.89266121137342, 284.72753544909176)"
+    style="font: 6.75px Courier"
+    x="223.89266121137342"
+    y="286.92235966784176"
+    width="13.0361328125"
+    height="4.6416015625"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="4.515625"
+    descent="0.1259765625"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`hjk`.labelText</title>
+    next
+  </text>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="120.5038096532606"
+    cy="275.90666817546094"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`j`.icon</title>
+  </circle>
+  <g>
+    <filter
+      id="halfedge-mesh__`ijk`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.2"
+      stroke="none"
+      d="M 258.692682812998 131.94226434251692 L 120.5038096532606 275.90666817546094 L 320.0434753004361 324.72125690523654 Z "
+    />
+    <title>`ijk`.icon</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="320.0434753004361"
+    cy="324.72125690523654"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`k`.icon</title>
+  </circle>
+  <g>
+    <filter
+      id="halfedge-mesh__`hil`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-linecap="butt"
+      d="M 145.66812320754576 154.1389403166353 L 137.24375550298362 146.5871185327764 L 214.59546978454648 142.3625240007262"
+    />
+    <title>`hil`.icon</title>
+  </g>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(176.87387407158465, 176.35588560411668, 152.46291601096186)"
+    style="font: 6.75px Courier"
+    x="176.35588560411668"
+    y="154.82082616721186"
+    width="30.87109375"
+    height="4.9677734375"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="4.841796875"
+    descent="0.1259765625"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`hil`.labelText</title>
+    twin-&gt;next
+  </text>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="103.98924426475384"
+    cy="140.3914539519585"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`l`.icon</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="118.04091412178465"
+    cy="5.6197044427110825"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`m`.icon</title>
+  </circle>
+  <g>
+    <filter
+      id="halfedge-mesh__`jil`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#1b1f8a"
+      fill-opacity="0.2"
+      stroke="none"
+      d="M 120.5038096532606 275.90666817546094 L 258.692682812998 131.94226434251692 L 103.98924426475384 140.3914539519585 Z "
+    />
+    <title>`jil`.icon</title>
+  </g>
+</svg>

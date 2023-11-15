@@ -1,0 +1,418 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 240 180"
+  penrose="0"
+>
+  <penrose><croppedViewBox>-0.5 -0.5 241 181</croppedViewBox></penrose>
+  <rect
+    x="0"
+    y="0"
+    width="240"
+    height="180"
+    fill="none"
+    stroke="#000000"
+    stroke-opacity="0"
+    stroke-width="1"
+    rx="0"
+    transform="rotate(0, 120, 90)"
+  >
+    <title>Global.box</title>
+  </rect>
+  <rect
+    x="160.53234918236922"
+    y="55.15475369282824"
+    width="62.0126953125"
+    height="17.0439453125"
+    fill="#1b8a1f"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 191.53869683861922, 63.67672634907824)"
+  >
+    <title>`Survey`.box</title>
+  </rect>
+  <rect
+    x="96.31953990064895"
+    y="16.547594040087006"
+    width="104.8564453125"
+    height="15.1328125"
+    fill="#1b8a1f"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 148.74776255689895, 24.114000290087006)"
+  >
+    <title>`Courses`.box</title>
+  </rect>
+  <rect
+    x="87.95227382714374"
+    y="54.72434514922381"
+    width="69.580078125"
+    height="17.474609375"
+    fill="#1b1f8a"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 122.74231288964374, 63.46164983672381)"
+  >
+    <title>`Shells`.box</title>
+  </rect>
+  <rect
+    x="134.17525916942589"
+    y="95.67355571399207"
+    width="93.3544921875"
+    height="17.0263671875"
+    fill="#1b8a1f"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 180.85250526317589, 104.18673930774207)"
+  >
+    <title>`Software`.box</title>
+  </rect>
+  <rect
+    x="121.1907148892657"
+    y="115.6999216564638"
+    width="54.9580078125"
+    height="14.658203125"
+    fill="#1b8a1f"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 148.6697187955157, 123.0290232189638)"
+  >
+    <title>`Videos`.box</title>
+  </rect>
+  <rect
+    x="109.45439062930032"
+    y="75.19894864986252"
+    width="105.73828125"
+    height="17.474609375"
+    fill="#1b1f8a"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 162.32353125430032, 83.93625333736252)"
+  >
+    <title>`Riemannian`.box</title>
+  </rect>
+  <rect
+    x="41.92021441526596"
+    y="75.4594477781367"
+    width="64.5341796875"
+    height="14.6845703125"
+    fill="#1b8a1f"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 74.18730425901596, 82.8017329343867)"
+  >
+    <title>`Tools`.box</title>
+  </rect>
+  <rect
+    x="7.628956256719107"
+    y="34.680403834298076"
+    width="90.958984375"
+    height="17.0439453125"
+    fill="#1b1f8a"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 53.10844844421911, 43.202376490548076)"
+  >
+    <title>`BCs`.box</title>
+  </rect>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 53.10844844421911, 43.202376490548076)"
+    style="font: 9px Palatino"
+    x="53.10844844421911"
+    y="45.228255396798076"
+    width="82.958984375"
+    height="9.0439453125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.5478515625"
+    descent="2.49609375"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`BCs`.text</title>
+    boundary conditions
+  </text>
+  <rect
+    x="0.2501302400932701"
+    y="57.801244786099346"
+    width="84.7021484375"
+    height="14.658203125"
+    fill="#1b1f8a"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 42.60120445884327, 65.13034634859935)"
+  >
+    <title>`Exact`.box</title>
+  </rect>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 42.60120445884327, 65.13034634859935)"
+    style="font: 9px Palatino"
+    x="42.60120445884327"
+    y="68.32272916109935"
+    width="76.7021484375"
+    height="6.658203125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.521484375"
+    descent="0.13671875"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`Exact`.text</title>
+    exact discretization
+  </text>
+  <rect
+    x="15.45260441740821"
+    y="95.67355516204044"
+    width="115.72265625"
+    height="17.0263671875"
+    fill="#1b1f8a"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 73.31393254240821, 104.18673875579044)"
+  >
+    <title>`CurveSurface`.box</title>
+  </rect>
+  <rect
+    x="101.58793800370927"
+    y="34.69797899611776"
+    width="91.12109375"
+    height="17.0263671875"
+    fill="#1b1f8a"
+    fill-opacity="0.2"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="0.5"
+    rx="5"
+    transform="rotate(0, 147.14848487870927, 43.21116258986776)"
+  >
+    <title>`Minkowski`.box</title>
+  </rect>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 147.14848487870927, 43.21116258986776)"
+    style="font: 9px Palatino"
+    x="147.14848487870927"
+    y="45.24583055861776"
+    width="83.12109375"
+    height="9.0263671875"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.5478515625"
+    descent="2.478515625"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`Minkowski`.text</title>
+    Minkowski penalties
+  </text>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 122.74231288964374, 63.46164983672381)"
+    style="font: 9px Palatino"
+    x="122.74231288964374"
+    y="65.72043889922381"
+    width="61.580078125"
+    height="9.474609375"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.99609375"
+    descent="2.478515625"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`Shells`.text</title>
+    repulsive shells
+  </text>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 162.32353125430032, 83.93625333736252)"
+    style="font: 9px Palatino"
+    x="162.32353125430032"
+    y="86.19504239986252"
+    width="97.73828125"
+    height="9.474609375"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.99609375"
+    descent="2.478515625"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`Riemannian`.text</title>
+    shape space formulation
+  </text>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 73.31393254240821, 104.18673875579044)"
+    style="font: 9px Palatino"
+    x="73.31393254240821"
+    y="106.22140672454044"
+    width="107.72265625"
+    height="9.0263671875"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.5478515625"
+    descent="2.478515625"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`CurveSurface`.text</title>
+    repulsive curves + surfaces
+  </text>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 180.85250526317589, 104.18673930774207)"
+    style="font: 9px Palatino"
+    x="180.85250526317589"
+    y="106.22140727649207"
+    width="85.3544921875"
+    height="9.0263671875"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.5478515625"
+    descent="2.478515625"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`Software`.text</title>
+    open-source software
+  </text>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 148.6697187955157, 123.0290232189638)"
+    style="font: 9px Palatino"
+    x="148.6697187955157"
+    y="126.2214060314638"
+    width="46.9580078125"
+    height="6.658203125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.521484375"
+    descent="0.13671875"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`Videos`.text</title>
+    K-12 videos
+  </text>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 74.18730425901596, 82.8017329343867)"
+    style="font: 9px Palatino"
+    x="74.18730425901596"
+    y="86.0072993406367"
+    width="56.5341796875"
+    height="6.6845703125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.5478515625"
+    descent="0.13671875"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`Tools`.text</title>
+    end-user tools
+  </text>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 148.74776255689895, 24.114000290087006)"
+    style="font: 9px Palatino"
+    x="148.74776255689895"
+    y="27.543687790087006"
+    width="96.8564453125"
+    height="7.1328125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.99609375"
+    descent="0.13671875"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`Courses`.text</title>
+    local &amp; outreach courses
+  </text>
+  <text
+    fill="#000000"
+    fill-opacity="1"
+    stroke="none"
+    transform="rotate(0, 191.53869683861922, 63.67672634907824)"
+    style="font: 9px Palatino"
+    x="191.53869683861922"
+    y="65.70260525532824"
+    width="54.0126953125"
+    height="9.0439453125"
+    font-size-adjust=""
+    alignment-baseline="alphabetic"
+    dominant-baseline="alphabetic"
+    ascent="6.5478515625"
+    descent="2.49609375"
+    text-anchor="middle"
+    visibility=""
+  >
+    <title>`Survey`.text</title>
+    survey article
+  </text>
+</svg>

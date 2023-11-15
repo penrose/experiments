@@ -1,0 +1,2699 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 800 700"
+  penrose="0"
+>
+  <penrose>
+    <croppedViewBox>
+      48.32602923091372 139.1992252742485 751.5248195006544 435.2009396417675
+    </croppedViewBox>
+  </penrose>
+  <circle
+    fill="#339933"
+    fill-opacity="0.3"
+    cx="211.91880400291967"
+    cy="452.84711944841166"
+    stroke="none"
+    r="8.001129349665858"
+  >
+    <title>`P3`.circle1</title>
+  </circle>
+  <circle
+    fill="#339933"
+    fill-opacity="0.3"
+    cx="188.83514353486322"
+    cy="465.4436594857759"
+    stroke="none"
+    r="8.001135268081326"
+  >
+    <title>`P2`.circle1</title>
+  </circle>
+  <circle
+    fill="#339933"
+    fill-opacity="0.3"
+    cx="176.63047814880215"
+    cy="304.1173237649891"
+    stroke="none"
+    r="8.001147866630035"
+  >
+    <title>`P9`.circle1</title>
+  </circle>
+  <circle
+    fill="#339933"
+    fill-opacity="0.3"
+    cx="267.4231570099731"
+    cy="395.9332937615731"
+    stroke="none"
+    r="8.001147709024062"
+  >
+    <title>`P4`.circle1</title>
+  </circle>
+  <circle
+    fill="#339933"
+    fill-opacity="0.3"
+    cx="151.3102394240656"
+    cy="365.04386240798044"
+    stroke="none"
+    r="8.001147625630269"
+  >
+    <title>`P10`.circle1</title>
+  </circle>
+  <circle
+    fill="#339933"
+    fill-opacity="0.3"
+    cx="228.5862106411682"
+    cy="233.55112931242536"
+    stroke="none"
+    r="8.001146948199173"
+  >
+    <title>`P8`.circle1</title>
+  </circle>
+  <circle
+    fill="#339933"
+    fill-opacity="0.3"
+    cx="170.35112309730587"
+    cy="436.1436660406913"
+    stroke="none"
+    r="8.001144794572548"
+  >
+    <title>`P1`.circle1</title>
+  </circle>
+  <circle
+    fill="#339933"
+    fill-opacity="0.3"
+    cx="167.45679607377636"
+    cy="242.9319778324704"
+    stroke="none"
+    r="8.00114712671474"
+  >
+    <title>`P7`.circle1</title>
+  </circle>
+  <circle
+    fill="#339933"
+    fill-opacity="0.3"
+    cx="266.548717090841"
+    cy="358.37767318517126"
+    stroke="none"
+    r="8.001146920394113"
+  >
+    <title>`P5`.circle1</title>
+  </circle>
+  <circle
+    fill="#339933"
+    fill-opacity="0.3"
+    cx="237.78174524864917"
+    cy="294.7423503599903"
+    stroke="none"
+    r="8.001147562163318"
+  >
+    <title>`P6`.circle1</title>
+  </circle>
+  <g
+    transform="rotate(0, 211.91880400291967, 452.84711944841166)translate(203.9176746532538, 444.8459900987458)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-52"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="16.002258699331716"
+      height="16.002258699331716"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-52);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-52"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P3`.shade1</title>
+  </g>
+  <circle
+    fill="#ff3333"
+    fill-opacity="0.3"
+    cx="432.5097053930351"
+    cy="452.84711944841166"
+    stroke="none"
+    r="25.921688494511216"
+  >
+    <title>`P3`.circle2</title>
+  </circle>
+  <circle
+    fill="#ff3333"
+    fill-opacity="0.3"
+    cx="409.4260668890815"
+    cy="465.4436594857759"
+    stroke="none"
+    r="25.92167149164585"
+  >
+    <title>`P2`.circle2</title>
+  </circle>
+  <circle
+    fill="#ff3333"
+    fill-opacity="0.3"
+    cx="397.22139325211833"
+    cy="304.1173237649891"
+    stroke="none"
+    r="25.921699387721617"
+  >
+    <title>`P9`.circle2</title>
+  </circle>
+  <circle
+    fill="#ff3333"
+    fill-opacity="0.3"
+    cx="488.01405424474655"
+    cy="395.9332937615731"
+    stroke="none"
+    r="25.92168024035207"
+  >
+    <title>`P4`.circle2</title>
+  </circle>
+  <circle
+    fill="#ff3333"
+    fill-opacity="0.3"
+    cx="371.9011535676933"
+    cy="365.04386240798044"
+    stroke="none"
+    r="25.921694065248918"
+  >
+    <title>`P10`.circle2</title>
+  </circle>
+  <circle
+    fill="#ff3333"
+    fill-opacity="0.3"
+    cx="449.1771258363452"
+    cy="233.55112931242536"
+    stroke="none"
+    r="25.92167234361624"
+  >
+    <title>`P8`.circle2</title>
+  </circle>
+  <circle
+    fill="#ff3333"
+    fill-opacity="0.3"
+    cx="390.9420415632515"
+    cy="436.1436660406913"
+    stroke="none"
+    r="25.921694972662607"
+  >
+    <title>`P1`.circle2</title>
+  </circle>
+  <circle
+    fill="#ff3333"
+    fill-opacity="0.3"
+    cx="388.04771115792147"
+    cy="242.9319778324704"
+    stroke="none"
+    r="25.921686656165758"
+  >
+    <title>`P7`.circle2</title>
+  </circle>
+  <circle
+    fill="#ff3333"
+    fill-opacity="0.3"
+    cx="487.13966743930825"
+    cy="358.37767318517126"
+    stroke="none"
+    r="25.921678450004585"
+  >
+    <title>`P5`.circle2</title>
+  </circle>
+  <circle
+    fill="#ff3333"
+    fill-opacity="0.3"
+    cx="458.37266100653505"
+    cy="294.7423503599903"
+    stroke="none"
+    r="25.921660434434163"
+  >
+    <title>`P6`.circle2</title>
+  </circle>
+  <g
+    transform="rotate(0, 432.5097053930351, 452.84711944841166)translate(406.5880168985239, 426.92543095390045)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-53"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="51.84337698902243"
+      height="51.84337698902243"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-53);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-53"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P3`.shade2</title>
+  </g>
+  <circle
+    fill="#3333ff"
+    fill-opacity="0.3"
+    cx="696.942701943496"
+    cy="452.84711944841166"
+    stroke="none"
+    r="47.40389792283448"
+  >
+    <title>`P3`.circle3</title>
+  </circle>
+  <circle
+    fill="#3333ff"
+    fill-opacity="0.3"
+    cx="673.8590560880427"
+    cy="465.4436594857759"
+    stroke="none"
+    r="47.4038950206666"
+  >
+    <title>`P2`.circle3</title>
+  </circle>
+  <circle
+    fill="#3333ff"
+    fill-opacity="0.3"
+    cx="661.6543962000845"
+    cy="304.1173237649891"
+    stroke="none"
+    r="47.40389193003561"
+  >
+    <title>`P9`.circle3</title>
+  </circle>
+  <circle
+    fill="#3333ff"
+    fill-opacity="0.3"
+    cx="752.446982332873"
+    cy="395.9332937615731"
+    stroke="none"
+    r="47.403866398695136"
+  >
+    <title>`P4`.circle3</title>
+  </circle>
+  <circle
+    fill="#3333ff"
+    fill-opacity="0.3"
+    cx="636.3341480807491"
+    cy="365.04386240798044"
+    stroke="none"
+    r="47.403879338566824"
+  >
+    <title>`P10`.circle3</title>
+  </circle>
+  <circle
+    fill="#3333ff"
+    fill-opacity="0.3"
+    cx="713.6101088868529"
+    cy="233.55112931242536"
+    stroke="none"
+    r="47.403913465289044"
+  >
+    <title>`P8`.circle3</title>
+  </circle>
+  <circle
+    fill="#3333ff"
+    fill-opacity="0.3"
+    cx="655.3750576614232"
+    cy="436.1436660406913"
+    stroke="none"
+    r="47.40390525389025"
+  >
+    <title>`P1`.circle3</title>
+  </circle>
+  <circle
+    fill="#3333ff"
+    fill-opacity="0.3"
+    cx="652.4807354292047"
+    cy="242.9319778324704"
+    stroke="none"
+    r="47.403920369484325"
+  >
+    <title>`P7`.circle3</title>
+  </circle>
+  <circle
+    fill="#3333ff"
+    fill-opacity="0.3"
+    cx="751.5726480984918"
+    cy="358.37767318517126"
+    stroke="none"
+    r="47.40390231124746"
+  >
+    <title>`P5`.circle3</title>
+  </circle>
+  <circle
+    fill="#3333ff"
+    fill-opacity="0.3"
+    cx="722.8056234047931"
+    cy="294.7423503599903"
+    stroke="none"
+    r="47.403944668274505"
+  >
+    <title>`P6`.circle3</title>
+  </circle>
+  <g
+    transform="rotate(0, 696.942701943496, 452.84711944841166)translate(649.5388040206615, 405.4432215255772)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-54"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="94.80779584566896"
+      height="94.80779584566896"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-54);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-54"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P3`.shade3</title>
+  </g>
+  <g
+    transform="rotate(0, 170.35112309730587, 436.1436660406913)translate(162.34997830273332, 428.14252124611875)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-55"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="16.002289589145096"
+      height="16.002289589145096"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-55);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-55"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P1`.shade1</title>
+  </g>
+  <g
+    transform="rotate(0, 390.9420415632515, 436.1436660406913)translate(365.02034659058893, 410.22197106802867)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-56"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="51.843389945325214"
+      height="51.843389945325214"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-56);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-56"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P1`.shade2</title>
+  </g>
+  <g
+    transform="rotate(0, 655.3750576614232, 436.1436660406913)translate(607.9711524075329, 388.73976078680107)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-57"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="94.8078105077805"
+      height="94.8078105077805"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-57);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-57"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P1`.shade3</title>
+  </g>
+  <g>
+    <line
+      x1="696.942701943496"
+      y1="452.84711944841166"
+      x2="655.3750576614232"
+      y2="436.1436660406913"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P3P1`.line</title>
+  </g>
+  <g
+    transform="rotate(0, 228.5862106411682, 233.55112931242536)translate(220.58506369296904, 225.5499823642262)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-58"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="16.002293896398346"
+      height="16.002293896398346"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-58);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-58"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P8`.shade1</title>
+  </g>
+  <g
+    transform="rotate(0, 449.1771258363452, 233.55112931242536)translate(423.255453492729, 207.6294569688091)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-59"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="51.84334468723248"
+      height="51.84334468723248"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-59);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-59"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P8`.shade2</title>
+  </g>
+  <g
+    transform="rotate(0, 713.6101088868529, 233.55112931242536)translate(666.2061954215638, 186.14721584713632)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-60"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="94.80782693057809"
+      height="94.80782693057809"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-60);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-60"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P8`.shade3</title>
+  </g>
+  <g
+    transform="rotate(0, 176.63047814880215, 304.1173237649891)translate(168.62933028217213, 296.1161758983591)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-61"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="16.00229573326007"
+      height="16.00229573326007"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-61);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-61"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P9`.shade1</title>
+  </g>
+  <g
+    transform="rotate(0, 397.22139325211833, 304.1173237649891)translate(371.2996938643967, 278.1956243772675)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-62"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="51.843398775443234"
+      height="51.843398775443234"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-62);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-62"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P9`.shade2</title>
+  </g>
+  <g
+    transform="rotate(0, 661.6543962000845, 304.1173237649891)translate(614.250504270049, 256.7134318349535)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-63"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="94.80778386007123"
+      height="94.80778386007123"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-63);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-63"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P9`.shade3</title>
+  </g>
+  <g>
+    <line
+      x1="713.6101088868529"
+      y1="233.55112931242536"
+      x2="661.6543962000845"
+      y2="304.1173237649891"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P8P9`.line</title>
+  </g>
+  <g
+    transform="rotate(0, 151.3102394240656, 365.04386240798044)translate(143.30909179843533, 357.0427147823502)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-64"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="16.002295251260538"
+      height="16.002295251260538"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-64);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-64"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P10`.shade1</title>
+  </g>
+  <g
+    transform="rotate(0, 371.9011535676933, 365.04386240798044)translate(345.9794595024444, 339.1221683427315)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-65"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="51.843388130497836"
+      height="51.843388130497836"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-65);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-65"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P10`.shade2</title>
+  </g>
+  <g
+    transform="rotate(0, 636.3341480807491, 365.04386240798044)translate(588.9302687421822, 317.63998306941363)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-66"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="94.80775867713365"
+      height="94.80775867713365"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-66);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-66"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P10`.shade3</title>
+  </g>
+  <g>
+    <line
+      x1="636.3341480807491"
+      y1="365.04386240798044"
+      x2="655.3750576614232"
+      y2="436.1436660406913"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P10P1`.line</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="211.91880400291967"
+    cy="452.84711944841166"
+    stroke="none"
+    r="3"
+  >
+    <title>`P3`.dot1</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="432.5097053930351"
+    cy="452.84711944841166"
+    stroke="none"
+    r="3"
+  >
+    <title>`P3`.dot2</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="696.942701943496"
+    cy="452.84711944841166"
+    stroke="none"
+    r="3"
+  >
+    <title>`P3`.dot3</title>
+  </circle>
+  <g
+    transform="rotate(0, 167.45679607377636, 242.9319778324704)translate(159.45564894706163, 234.93083070575568)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-67"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="16.00229425342948"
+      height="16.00229425342948"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-67);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-67"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P7`.shade1</title>
+  </g>
+  <g
+    transform="rotate(0, 388.04771115792147, 242.9319778324704)translate(362.1260245017557, 217.01029117630466)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-68"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="51.843373312331515"
+      height="51.843373312331515"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-68);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-68"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P7`.shade2</title>
+  </g>
+  <g
+    transform="rotate(0, 652.4807354292047, 242.9319778324704)translate(605.0768150597204, 195.52805746298608)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-69"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="94.80784073896865"
+      height="94.80784073896865"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-69);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-69"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P7`.shade3</title>
+  </g>
+  <g>
+    <line
+      x1="652.4807354292047"
+      y1="242.9319778324704"
+      x2="661.6543962000845"
+      y2="304.1173237649891"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P7P9`.line</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="266.548717090841"
+    cy="358.37767318517126"
+    stroke="none"
+    r="3"
+  >
+    <title>`P5`.dot1</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="487.13966743930825"
+    cy="358.37767318517126"
+    stroke="none"
+    r="3"
+  >
+    <title>`P5`.dot2</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="751.5726480984918"
+    cy="358.37767318517126"
+    stroke="none"
+    r="3"
+  >
+    <title>`P5`.dot3</title>
+  </circle>
+  <g>
+    <line
+      x1="661.6543962000845"
+      y1="304.1173237649891"
+      x2="636.3341480807491"
+      y2="365.04386240798044"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P9P10`.line</title>
+  </g>
+  <g>
+    <line
+      x1="652.4807354292047"
+      y1="242.9319778324704"
+      x2="713.6101088868529"
+      y2="233.55112931242536"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P7P8`.line</title>
+  </g>
+  <g>
+    <line
+      x1="432.5097053930351"
+      y1="452.84711944841166"
+      x2="390.9420415632515"
+      y2="436.1436660406913"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C2P3P1`.line</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="267.4231570099731"
+    cy="395.9332937615731"
+    stroke="none"
+    r="3"
+  >
+    <title>`P4`.dot1</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="488.01405424474655"
+    cy="395.9332937615731"
+    stroke="none"
+    r="3"
+  >
+    <title>`P4`.dot2</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="752.446982332873"
+    cy="395.9332937615731"
+    stroke="none"
+    r="3"
+  >
+    <title>`P4`.dot3</title>
+  </circle>
+  <g
+    transform="rotate(0, 188.83514353486322, 465.4436594857759)translate(180.8340082667819, 457.4425242176946)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-70"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="16.00227053616265"
+      height="16.00227053616265"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-70);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-70"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P2`.shade1</title>
+  </g>
+  <g
+    transform="rotate(0, 409.4260668890815, 465.4436594857759)translate(383.50439539743564, 439.5219879941301)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-71"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="51.8433429832917"
+      height="51.8433429832917"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-71);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-71"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P2`.shade2</title>
+  </g>
+  <g
+    transform="rotate(0, 673.8590560880427, 465.4436594857759)translate(626.4551610673761, 418.03976446510933)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-72"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="94.8077900413332"
+      height="94.8077900413332"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-72);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-72"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P2`.shade3</title>
+  </g>
+  <g>
+    <line
+      x1="390.9420415632515"
+      y1="436.1436660406913"
+      x2="409.4260668890815"
+      y2="465.4436594857759"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C2P1P2`.line</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="151.3102394240656"
+    cy="365.04386240798044"
+    stroke="none"
+    r="3"
+  >
+    <title>`P10`.dot1</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="371.9011535676933"
+    cy="365.04386240798044"
+    stroke="none"
+    r="3"
+  >
+    <title>`P10`.dot2</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="636.3341480807491"
+    cy="365.04386240798044"
+    stroke="none"
+    r="3"
+  >
+    <title>`P10`.dot3</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="228.5862106411682"
+    cy="233.55112931242536"
+    stroke="none"
+    r="3"
+  >
+    <title>`P8`.dot1</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="449.1771258363452"
+    cy="233.55112931242536"
+    stroke="none"
+    r="3"
+  >
+    <title>`P8`.dot2</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="713.6101088868529"
+    cy="233.55112931242536"
+    stroke="none"
+    r="3"
+  >
+    <title>`P8`.dot3</title>
+  </circle>
+  <g
+    transform="rotate(0, 266.548717090841, 358.37767318517126)translate(258.54757017044693, 350.37652626477717)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-73"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="16.002293840788226"
+      height="16.002293840788226"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-73);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-73"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P5`.shade1</title>
+  </g>
+  <g
+    transform="rotate(0, 487.13966743930825, 358.37767318517126)translate(461.21798898930365, 332.45599473516666)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-74"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="51.84335690000917"
+      height="51.84335690000917"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-74);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-74"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P5`.shade2</title>
+  </g>
+  <g
+    transform="rotate(0, 751.5726480984918, 358.37767318517126)translate(704.1687457872443, 310.9737708739238)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-75"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="94.80780462249491"
+      height="94.80780462249491"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-75);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-75"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P5`.shade3</title>
+  </g>
+  <g
+    transform="rotate(0, 237.78174524864917, 294.7423503599903)translate(229.78059768648586, 286.741202797827)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-76"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="16.002295124326636"
+      height="16.002295124326636"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-76);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-76"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P6`.shade1</title>
+  </g>
+  <g
+    transform="rotate(0, 458.37266100653505, 294.7423503599903)translate(432.4510005721009, 268.82068992555617)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-77"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="51.843320868868325"
+      height="51.843320868868325"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-77);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-77"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P6`.shade2</title>
+  </g>
+  <g
+    transform="rotate(0, 722.8056234047931, 294.7423503599903)translate(675.4016787365185, 247.33840569171582)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-78"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="94.80788933654901"
+      height="94.80788933654901"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-78);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-78"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P6`.shade3</title>
+  </g>
+  <g>
+    <line
+      x1="751.5726480984918"
+      y1="358.37767318517126"
+      x2="722.8056234047931"
+      y2="294.7423503599903"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P5P6`.line</title>
+  </g>
+  <g>
+    <line
+      x1="722.8056234047931"
+      y1="294.7423503599903"
+      x2="661.6543962000845"
+      y2="304.1173237649891"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P6P9`.line</title>
+  </g>
+  <g
+    transform="rotate(0, 267.4231570099731, 395.9332937615731)translate(259.42200930094907, 387.93214605254906)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-79"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="16.002295418048124"
+      height="16.002295418048124"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-79);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-79"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P4`.shade1</title>
+  </g>
+  <g
+    transform="rotate(0, 488.01405424474655, 395.9332937615731)translate(462.09237400439446, 370.011613521221)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-80"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="51.84336048070414"
+      height="51.84336048070414"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-80);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-80"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P4`.shade2</title>
+  </g>
+  <g
+    transform="rotate(0, 752.446982332873, 395.9332937615731)translate(705.0431159341778, 348.529427362878)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="persistent-homology__Layer_1--inject-81"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 92.9 92.9"
+      style="enable-background: new 0 0 92.9 92.9"
+      xml:space="preserve"
+      width="94.80773279739027"
+      height="94.80773279739027"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .persistent-homology__st0 {
+          opacity: 0.3;
+          fill: url(#persistent-homology__SVGID_1_--inject-81);
+        }
+      </style>
+      <radialGradient
+        id="persistent-homology__SVGID_1_--inject-81"
+        cx="46.4444"
+        cy="46.4444"
+        r="46.4444"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="9.860697e-02" style="stop-color: #ffffff" />
+        <stop offset="0.4259" style="stop-color: #fdfdfd" />
+        <stop offset="0.5475" style="stop-color: #f6f6f6" />
+        <stop offset="0.6348" style="stop-color: #eaeaea" />
+        <stop offset="0.7058" style="stop-color: #d9d9d9" />
+        <stop offset="0.7668" style="stop-color: #c3c3c3" />
+        <stop offset="0.8209" style="stop-color: #a8a8a8" />
+        <stop offset="0.87" style="stop-color: #878787" />
+        <stop offset="0.9152" style="stop-color: #616161" />
+        <stop offset="0.9572" style="stop-color: #353535" />
+        <stop offset="0.9947" style="stop-color: #070707" />
+        <stop offset="1" style="stop-color: #000000" />
+      </radialGradient>
+      <circle class="persistent-homology__st0" cx="46.4" cy="46.4" r="46.4" />
+    </svg>
+    <title>`P4`.shade3</title>
+  </g>
+  <g>
+    <line
+      x1="488.01405424474655"
+      y1="395.9332937615731"
+      x2="487.13966743930825"
+      y2="358.37767318517126"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C2P4P5`.line</title>
+  </g>
+  <g>
+    <line
+      x1="673.8590560880427"
+      y1="465.4436594857759"
+      x2="696.942701943496"
+      y2="452.84711944841166"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P2P3`.line</title>
+  </g>
+  <g>
+    <line
+      x1="655.3750576614232"
+      y1="436.1436660406913"
+      x2="673.8590560880427"
+      y2="465.4436594857759"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P1P2`.line</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="167.45679607377636"
+    cy="242.9319778324704"
+    stroke="none"
+    r="3"
+  >
+    <title>`P7`.dot1</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="388.04771115792147"
+    cy="242.9319778324704"
+    stroke="none"
+    r="3"
+  >
+    <title>`P7`.dot2</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="652.4807354292047"
+    cy="242.9319778324704"
+    stroke="none"
+    r="3"
+  >
+    <title>`P7`.dot3</title>
+  </circle>
+  <g>
+    <line
+      x1="409.4260668890815"
+      y1="465.4436594857759"
+      x2="432.5097053930351"
+      y2="452.84711944841166"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C2P2P3`.line</title>
+  </g>
+  <g>
+    <line
+      x1="696.942701943496"
+      y1="452.84711944841166"
+      x2="752.446982332873"
+      y2="395.9332937615731"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P3P4`.line</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="188.83514353486322"
+    cy="465.4436594857759"
+    stroke="none"
+    r="3"
+  >
+    <title>`P2`.dot1</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="409.4260668890815"
+    cy="465.4436594857759"
+    stroke="none"
+    r="3"
+  >
+    <title>`P2`.dot2</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="673.8590560880427"
+    cy="465.4436594857759"
+    stroke="none"
+    r="3"
+  >
+    <title>`P2`.dot3</title>
+  </circle>
+  <g>
+    <line
+      x1="722.8056234047931"
+      y1="294.7423503599903"
+      x2="652.4807354292047"
+      y2="242.9319778324704"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P6P7`.line</title>
+  </g>
+  <g>
+    <line
+      x1="752.446982332873"
+      y1="395.9332937615731"
+      x2="751.5726480984918"
+      y2="358.37767318517126"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P4P5`.line</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="170.35112309730587"
+    cy="436.1436660406913"
+    stroke="none"
+    r="3"
+  >
+    <title>`P1`.dot1</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="390.9420415632515"
+    cy="436.1436660406913"
+    stroke="none"
+    r="3"
+  >
+    <title>`P1`.dot2</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="655.3750576614232"
+    cy="436.1436660406913"
+    stroke="none"
+    r="3"
+  >
+    <title>`P1`.dot3</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="176.63047814880215"
+    cy="304.1173237649891"
+    stroke="none"
+    r="3"
+  >
+    <title>`P9`.dot1</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="397.22139325211833"
+    cy="304.1173237649891"
+    stroke="none"
+    r="3"
+  >
+    <title>`P9`.dot2</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="661.6543962000845"
+    cy="304.1173237649891"
+    stroke="none"
+    r="3"
+  >
+    <title>`P9`.dot3</title>
+  </circle>
+  <g>
+    <line
+      x1="722.8056234047931"
+      y1="294.7423503599903"
+      x2="713.6101088868529"
+      y2="233.55112931242536"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="3"
+    />
+    <title>`C3P6P8`.line</title>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="237.78174524864917"
+    cy="294.7423503599903"
+    stroke="none"
+    r="3"
+  >
+    <title>`P6`.dot1</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="458.37266100653505"
+    cy="294.7423503599903"
+    stroke="none"
+    r="3"
+  >
+    <title>`P6`.dot2</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="722.8056234047931"
+    cy="294.7423503599903"
+    stroke="none"
+    r="3"
+  >
+    <title>`P6`.dot3</title>
+  </circle>
+  <g>
+    <marker
+      id="persistent-homology__registry-RainmakerMarten88256-`F`.axis-endArrowId"
+      markerUnits="strokeWidth"
+      markerWidth="6.97"
+      markerHeight="5.68"
+      viewBox="0 0 9.95 8.12"
+      refX="2.36"
+      refY="4.06"
+      orient="auto-start-reverse"
+    >
+      <path
+        d="M9.95 4.06 0 8.12 2.36 4.06 0 0 9.95 4.06z"
+        fill="#000000"
+        fill-opacity="0.5"
+      />
+    </marker>
+    <line
+      x1="75.82602923091372"
+      y1="545.136164916016"
+      x2="713.5479707690863"
+      y2="545.136164916016"
+      stroke="#000000"
+      stroke-opacity="0.5"
+      stroke-width="2"
+      marker-end="url(#persistent-homology__registry-RainmakerMarten88256-`F`.axis-endArrowId)"
+    />
+    <title>`F`.axis</title>
+  </g>
+  <g
+    transform="rotate(0, 174.3152715099144, 153.4507252742485)translate(120.99627150991441, 139.3642252742485)"
+  >
+    <title>`F`.lab1</title>
+    <svg
+      style="font-size: 30px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="106.63799999999999"
+      height="28.173000000000002"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 3554.6 939.1"
+    >
+      <g
+        stroke="none"
+        fill="#1a4d1a"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="0.8"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D44B"
+              d="M42 0H40Q26 0 26 11Q26 15 29 27Q33 41 36 43T55 46Q141 49 190 98Q200 108 306 224T411 342Q302 620 297 625Q288 636 234 637H206Q200 643 200 645T202 664Q206 677 212 683H226Q260 681 347 681Q380 681 408 681T453 682T473 682Q490 682 490 671Q490 670 488 658Q484 643 481 640T465 637Q434 634 411 620L488 426L541 485Q646 598 646 610Q646 628 622 635Q617 635 609 637Q594 637 594 648Q594 650 596 664Q600 677 606 683H618Q619 683 643 683T697 681T738 680Q828 680 837 683H845Q852 676 852 672Q850 647 840 637H824Q790 636 763 628T722 611T698 593L687 584Q687 585 592 480L505 384Q505 383 536 304T601 142T638 56Q648 47 699 46Q734 46 734 37Q734 35 732 23Q728 7 725 4T711 1Q708 1 678 1T589 2Q528 2 496 2T461 1Q444 1 444 10Q444 11 446 25Q448 35 450 39T455 44T464 46T480 47T506 54Q523 62 523 64Q522 64 476 181L429 299Q241 95 236 84Q232 76 232 72Q232 53 261 47Q262 47 267 47T273 46Q276 46 277 46T280 45T283 42T284 35Q284 26 282 19Q279 6 276 4T261 1Q258 1 243 1T201 2T142 2Q64 2 42 0Z"
+            />
+          </g>
+          <g data-mml-node="mo" transform="translate(1074.2,0)">
+            <path
+              data-c="2295"
+              d="M56 250Q56 394 156 488T384 583Q530 583 626 485T722 250Q722 110 625 14T390 -83Q249 -83 153 14T56 250ZM364 542Q308 539 251 509T148 418T96 278V270H369V542H364ZM681 278Q675 338 650 386T592 462T522 509T458 535T412 542H409V270H681V278ZM96 222Q104 150 139 95T219 12T302 -29T366 -42H369V230H96V222ZM681 222V230H409V-42H412Q429 -42 456 -36T521 -10T590 37T649 113T681 222Z"
+            />
+          </g>
+          <g data-mml-node="msub" transform="translate(2074.4,0)">
+            <g data-mml-node="mi">
+              <path
+                data-c="1D435"
+                d="M231 637Q204 637 199 638T194 649Q194 676 205 682Q206 683 335 683Q594 683 608 681Q671 671 713 636T756 544Q756 480 698 429T565 360L555 357Q619 348 660 311T702 219Q702 146 630 78T453 1Q446 0 242 0Q42 0 39 2Q35 5 35 10Q35 17 37 24Q42 43 47 45Q51 46 62 46H68Q95 46 128 49Q142 52 147 61Q150 65 219 339T288 628Q288 635 231 637ZM649 544Q649 574 634 600T585 634Q578 636 493 637Q473 637 451 637T416 636H403Q388 635 384 626Q382 622 352 506Q352 503 351 500L320 374H401Q482 374 494 376Q554 386 601 434T649 544ZM595 229Q595 273 572 302T512 336Q506 337 429 337Q311 337 310 336Q310 334 293 263T258 122L240 52Q240 48 252 48T333 46Q422 46 429 47Q491 54 543 105T595 229Z"
+              />
+            </g>
+            <g
+              data-mml-node="TeXAtom"
+              transform="translate(792,-150) scale(0.707)"
+              data-mjx-texclass="ORD"
+            >
+              <g data-mml-node="msub">
+                <g data-mml-node="mi">
+                  <path
+                    data-c="1D700"
+                    d="M190 -22Q124 -22 76 11T27 107Q27 174 97 232L107 239L99 248Q76 273 76 304Q76 364 144 408T290 452H302Q360 452 405 421Q428 405 428 392Q428 381 417 369T391 356Q382 356 371 365T338 383T283 392Q217 392 167 368T116 308Q116 289 133 272Q142 263 145 262T157 264Q188 278 238 278H243Q308 278 308 247Q308 206 223 206Q177 206 142 219L132 212Q68 169 68 112Q68 39 201 39Q253 39 286 49T328 72T345 94T362 105Q376 103 376 88Q376 79 365 62T334 26T275 -8T190 -22Z"
+                  />
+                </g>
+                <g
+                  data-mml-node="TeXAtom"
+                  transform="translate(499,-150) scale(0.707)"
+                  data-mjx-texclass="ORD"
+                >
+                  <g data-mml-node="mn">
+                    <path
+                      data-c="31"
+                      d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"
+                    />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 394.9061882255011, 153.4507252742485)translate(341.5871882255011, 139.3642252742485)"
+  >
+    <title>`F`.lab2</title>
+    <svg
+      style="font-size: 30px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="106.63799999999999"
+      height="28.173000000000002"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 3554.6 939.1"
+    >
+      <g
+        stroke="none"
+        fill="#801a1a"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="0.8"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D44B"
+              d="M42 0H40Q26 0 26 11Q26 15 29 27Q33 41 36 43T55 46Q141 49 190 98Q200 108 306 224T411 342Q302 620 297 625Q288 636 234 637H206Q200 643 200 645T202 664Q206 677 212 683H226Q260 681 347 681Q380 681 408 681T453 682T473 682Q490 682 490 671Q490 670 488 658Q484 643 481 640T465 637Q434 634 411 620L488 426L541 485Q646 598 646 610Q646 628 622 635Q617 635 609 637Q594 637 594 648Q594 650 596 664Q600 677 606 683H618Q619 683 643 683T697 681T738 680Q828 680 837 683H845Q852 676 852 672Q850 647 840 637H824Q790 636 763 628T722 611T698 593L687 584Q687 585 592 480L505 384Q505 383 536 304T601 142T638 56Q648 47 699 46Q734 46 734 37Q734 35 732 23Q728 7 725 4T711 1Q708 1 678 1T589 2Q528 2 496 2T461 1Q444 1 444 10Q444 11 446 25Q448 35 450 39T455 44T464 46T480 47T506 54Q523 62 523 64Q522 64 476 181L429 299Q241 95 236 84Q232 76 232 72Q232 53 261 47Q262 47 267 47T273 46Q276 46 277 46T280 45T283 42T284 35Q284 26 282 19Q279 6 276 4T261 1Q258 1 243 1T201 2T142 2Q64 2 42 0Z"
+            />
+          </g>
+          <g data-mml-node="mo" transform="translate(1074.2,0)">
+            <path
+              data-c="2295"
+              d="M56 250Q56 394 156 488T384 583Q530 583 626 485T722 250Q722 110 625 14T390 -83Q249 -83 153 14T56 250ZM364 542Q308 539 251 509T148 418T96 278V270H369V542H364ZM681 278Q675 338 650 386T592 462T522 509T458 535T412 542H409V270H681V278ZM96 222Q104 150 139 95T219 12T302 -29T366 -42H369V230H96V222ZM681 222V230H409V-42H412Q429 -42 456 -36T521 -10T590 37T649 113T681 222Z"
+            />
+          </g>
+          <g data-mml-node="msub" transform="translate(2074.4,0)">
+            <g data-mml-node="mi">
+              <path
+                data-c="1D435"
+                d="M231 637Q204 637 199 638T194 649Q194 676 205 682Q206 683 335 683Q594 683 608 681Q671 671 713 636T756 544Q756 480 698 429T565 360L555 357Q619 348 660 311T702 219Q702 146 630 78T453 1Q446 0 242 0Q42 0 39 2Q35 5 35 10Q35 17 37 24Q42 43 47 45Q51 46 62 46H68Q95 46 128 49Q142 52 147 61Q150 65 219 339T288 628Q288 635 231 637ZM649 544Q649 574 634 600T585 634Q578 636 493 637Q473 637 451 637T416 636H403Q388 635 384 626Q382 622 352 506Q352 503 351 500L320 374H401Q482 374 494 376Q554 386 601 434T649 544ZM595 229Q595 273 572 302T512 336Q506 337 429 337Q311 337 310 336Q310 334 293 263T258 122L240 52Q240 48 252 48T333 46Q422 46 429 47Q491 54 543 105T595 229Z"
+              />
+            </g>
+            <g
+              data-mml-node="TeXAtom"
+              transform="translate(792,-150) scale(0.707)"
+              data-mjx-texclass="ORD"
+            >
+              <g data-mml-node="msub">
+                <g data-mml-node="mi">
+                  <path
+                    data-c="1D700"
+                    d="M190 -22Q124 -22 76 11T27 107Q27 174 97 232L107 239L99 248Q76 273 76 304Q76 364 144 408T290 452H302Q360 452 405 421Q428 405 428 392Q428 381 417 369T391 356Q382 356 371 365T338 383T283 392Q217 392 167 368T116 308Q116 289 133 272Q142 263 145 262T157 264Q188 278 238 278H243Q308 278 308 247Q308 206 223 206Q177 206 142 219L132 212Q68 169 68 112Q68 39 201 39Q253 39 286 49T328 72T345 94T362 105Q376 103 376 88Q376 79 365 62T334 26T275 -8T190 -22Z"
+                  />
+                </g>
+                <g
+                  data-mml-node="TeXAtom"
+                  transform="translate(499,-150) scale(0.707)"
+                  data-mjx-texclass="ORD"
+                >
+                  <g data-mml-node="mn">
+                    <path
+                      data-c="32"
+                      d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"
+                    />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 659.339176615269, 153.4507252742485)translate(606.0201766152691, 139.1992252742485)"
+  >
+    <title>`F`.lab3</title>
+    <svg
+      style="font-size: 30px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="106.63799999999999"
+      height="28.503"
+      role="img"
+      focusable="false"
+      viewBox="0 -683 3554.6 950.1"
+    >
+      <g
+        stroke="none"
+        fill="#1a1a80"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="0.8"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D44B"
+              d="M42 0H40Q26 0 26 11Q26 15 29 27Q33 41 36 43T55 46Q141 49 190 98Q200 108 306 224T411 342Q302 620 297 625Q288 636 234 637H206Q200 643 200 645T202 664Q206 677 212 683H226Q260 681 347 681Q380 681 408 681T453 682T473 682Q490 682 490 671Q490 670 488 658Q484 643 481 640T465 637Q434 634 411 620L488 426L541 485Q646 598 646 610Q646 628 622 635Q617 635 609 637Q594 637 594 648Q594 650 596 664Q600 677 606 683H618Q619 683 643 683T697 681T738 680Q828 680 837 683H845Q852 676 852 672Q850 647 840 637H824Q790 636 763 628T722 611T698 593L687 584Q687 585 592 480L505 384Q505 383 536 304T601 142T638 56Q648 47 699 46Q734 46 734 37Q734 35 732 23Q728 7 725 4T711 1Q708 1 678 1T589 2Q528 2 496 2T461 1Q444 1 444 10Q444 11 446 25Q448 35 450 39T455 44T464 46T480 47T506 54Q523 62 523 64Q522 64 476 181L429 299Q241 95 236 84Q232 76 232 72Q232 53 261 47Q262 47 267 47T273 46Q276 46 277 46T280 45T283 42T284 35Q284 26 282 19Q279 6 276 4T261 1Q258 1 243 1T201 2T142 2Q64 2 42 0Z"
+            />
+          </g>
+          <g data-mml-node="mo" transform="translate(1074.2,0)">
+            <path
+              data-c="2295"
+              d="M56 250Q56 394 156 488T384 583Q530 583 626 485T722 250Q722 110 625 14T390 -83Q249 -83 153 14T56 250ZM364 542Q308 539 251 509T148 418T96 278V270H369V542H364ZM681 278Q675 338 650 386T592 462T522 509T458 535T412 542H409V270H681V278ZM96 222Q104 150 139 95T219 12T302 -29T366 -42H369V230H96V222ZM681 222V230H409V-42H412Q429 -42 456 -36T521 -10T590 37T649 113T681 222Z"
+            />
+          </g>
+          <g data-mml-node="msub" transform="translate(2074.4,0)">
+            <g data-mml-node="mi">
+              <path
+                data-c="1D435"
+                d="M231 637Q204 637 199 638T194 649Q194 676 205 682Q206 683 335 683Q594 683 608 681Q671 671 713 636T756 544Q756 480 698 429T565 360L555 357Q619 348 660 311T702 219Q702 146 630 78T453 1Q446 0 242 0Q42 0 39 2Q35 5 35 10Q35 17 37 24Q42 43 47 45Q51 46 62 46H68Q95 46 128 49Q142 52 147 61Q150 65 219 339T288 628Q288 635 231 637ZM649 544Q649 574 634 600T585 634Q578 636 493 637Q473 637 451 637T416 636H403Q388 635 384 626Q382 622 352 506Q352 503 351 500L320 374H401Q482 374 494 376Q554 386 601 434T649 544ZM595 229Q595 273 572 302T512 336Q506 337 429 337Q311 337 310 336Q310 334 293 263T258 122L240 52Q240 48 252 48T333 46Q422 46 429 47Q491 54 543 105T595 229Z"
+              />
+            </g>
+            <g
+              data-mml-node="TeXAtom"
+              transform="translate(792,-150) scale(0.707)"
+              data-mjx-texclass="ORD"
+            >
+              <g data-mml-node="msub">
+                <g data-mml-node="mi">
+                  <path
+                    data-c="1D700"
+                    d="M190 -22Q124 -22 76 11T27 107Q27 174 97 232L107 239L99 248Q76 273 76 304Q76 364 144 408T290 452H302Q360 452 405 421Q428 405 428 392Q428 381 417 369T391 356Q382 356 371 365T338 383T283 392Q217 392 167 368T116 308Q116 289 133 272Q142 263 145 262T157 264Q188 278 238 278H243Q308 278 308 247Q308 206 223 206Q177 206 142 219L132 212Q68 169 68 112Q68 39 201 39Q253 39 286 49T328 72T345 94T362 105Q376 103 376 88Q376 79 365 62T334 26T275 -8T190 -22Z"
+                  />
+                </g>
+                <g
+                  data-mml-node="TeXAtom"
+                  transform="translate(499,-150) scale(0.707)"
+                  data-mjx-texclass="ORD"
+                >
+                  <g data-mml-node="mn">
+                    <path
+                      data-c="33"
+                      d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"
+                    />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="75.82602923091372"
+    cy="545.136164916016"
+    stroke="none"
+    r="4"
+  >
+    <title>`F`.dot0</title>
+  </circle>
+  <g
+    transform="rotate(0, 55.82602923091372, 545.136164916016)translate(48.32602923091372, 534.816164916016)"
+  >
+    <title>`F`.eps0</title>
+    <svg
+      style="font-size: 30px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="15"
+      height="20.639999999999997"
+      role="img"
+      focusable="false"
+      viewBox="0 -666 500 688"
+    >
+      <g
+        stroke="none"
+        fill="#000000"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mn">
+            <path
+              data-c="30"
+              d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="174.3152715099144"
+    cy="545.136164916016"
+    stroke="none"
+    r="4"
+  >
+    <title>`F`.dot1</title>
+  </circle>
+  <g
+    transform="rotate(0, 744.1739707690863, 545.136164916016)translate(737.1839707690863, 538.026164916016)"
+  >
+    <title>`F`.eps</title>
+    <svg
+      style="font-size: 30px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="13.98"
+      height="14.219999999999999"
+      role="img"
+      focusable="false"
+      viewBox="0 -452 466 474"
+    >
+      <g
+        stroke="none"
+        fill="#000000"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D700"
+              d="M190 -22Q124 -22 76 11T27 107Q27 174 97 232L107 239L99 248Q76 273 76 304Q76 364 144 408T290 452H302Q360 452 405 421Q428 405 428 392Q428 381 417 369T391 356Q382 356 371 365T338 383T283 392Q217 392 167 368T116 308Q116 289 133 272Q142 263 145 262T157 264Q188 278 238 278H243Q308 278 308 247Q308 206 223 206Q177 206 142 219L132 212Q68 169 68 112Q68 39 201 39Q253 39 286 49T328 72T345 94T362 105Q376 103 376 88Q376 79 365 62T334 26T275 -8T190 -22Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 194.3152715099144, 565.136164916016)translate(180.7762715099144, 556.106164916016)"
+  >
+    <title>`F`.eps1</title>
+    <svg
+      style="font-size: 30px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="27.078000000000003"
+      height="18.06"
+      role="img"
+      focusable="false"
+      viewBox="0 -452 902.6 602"
+    >
+      <g
+        stroke="none"
+        fill="#1a4d1a"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="0.8"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="msub">
+            <g data-mml-node="mi">
+              <path
+                data-c="1D700"
+                d="M190 -22Q124 -22 76 11T27 107Q27 174 97 232L107 239L99 248Q76 273 76 304Q76 364 144 408T290 452H302Q360 452 405 421Q428 405 428 392Q428 381 417 369T391 356Q382 356 371 365T338 383T283 392Q217 392 167 368T116 308Q116 289 133 272Q142 263 145 262T157 264Q188 278 238 278H243Q308 278 308 247Q308 206 223 206Q177 206 142 219L132 212Q68 169 68 112Q68 39 201 39Q253 39 286 49T328 72T345 94T362 105Q376 103 376 88Q376 79 365 62T334 26T275 -8T190 -22Z"
+              />
+            </g>
+            <g data-mml-node="mn" transform="translate(499,-150) scale(0.707)">
+              <path
+                data-c="31"
+                d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="394.9061882255011"
+    cy="545.136164916016"
+    stroke="none"
+    r="4"
+  >
+    <title>`F`.dot2</title>
+  </circle>
+  <g
+    transform="rotate(0, 414.9061882255011, 565.136164916016)translate(401.36718822550114, 556.106164916016)"
+  >
+    <title>`F`.eps2</title>
+    <svg
+      style="font-size: 30px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="27.078000000000003"
+      height="18.06"
+      role="img"
+      focusable="false"
+      viewBox="0 -452 902.6 602"
+    >
+      <g
+        stroke="none"
+        fill="#801a1a"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="0.8"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="msub">
+            <g data-mml-node="mi">
+              <path
+                data-c="1D700"
+                d="M190 -22Q124 -22 76 11T27 107Q27 174 97 232L107 239L99 248Q76 273 76 304Q76 364 144 408T290 452H302Q360 452 405 421Q428 405 428 392Q428 381 417 369T391 356Q382 356 371 365T338 383T283 392Q217 392 167 368T116 308Q116 289 133 272Q142 263 145 262T157 264Q188 278 238 278H243Q308 278 308 247Q308 206 223 206Q177 206 142 219L132 212Q68 169 68 112Q68 39 201 39Q253 39 286 49T328 72T345 94T362 105Q376 103 376 88Q376 79 365 62T334 26T275 -8T190 -22Z"
+              />
+            </g>
+            <g data-mml-node="mn" transform="translate(499,-150) scale(0.707)">
+              <path
+                data-c="32"
+                d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="659.339176615269"
+    cy="545.136164916016"
+    stroke="none"
+    r="4"
+  >
+    <title>`F`.dot3</title>
+  </circle>
+  <g
+    transform="rotate(0, 679.339176615269, 565.136164916016)translate(665.800176615269, 555.872164916016)"
+  >
+    <title>`F`.eps3</title>
+    <svg
+      style="font-size: 30px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="27.078000000000003"
+      height="18.528000000000002"
+      role="img"
+      focusable="false"
+      viewBox="0 -452 902.6 617.6"
+    >
+      <g
+        stroke="none"
+        fill="#1a1a80"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="0.8"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="msub">
+            <g data-mml-node="mi">
+              <path
+                data-c="1D700"
+                d="M190 -22Q124 -22 76 11T27 107Q27 174 97 232L107 239L99 248Q76 273 76 304Q76 364 144 408T290 452H302Q360 452 405 421Q428 405 428 392Q428 381 417 369T391 356Q382 356 371 365T338 383T283 392Q217 392 167 368T116 308Q116 289 133 272Q142 263 145 262T157 264Q188 278 238 278H243Q308 278 308 247Q308 206 223 206Q177 206 142 219L132 212Q68 169 68 112Q68 39 201 39Q253 39 286 49T328 72T345 94T362 105Q376 103 376 88Q376 79 365 62T334 26T275 -8T190 -22Z"
+              />
+            </g>
+            <g data-mml-node="mn" transform="translate(499,-150) scale(0.707)">
+              <path
+                data-c="33"
+                d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+</svg>

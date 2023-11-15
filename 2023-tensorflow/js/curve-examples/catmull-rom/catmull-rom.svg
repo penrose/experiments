@@ -1,0 +1,312 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 510 382"
+  penrose="0"
+>
+  <penrose><croppedViewBox>0 0 510 382</croppedViewBox></penrose>
+  <rect
+    x="0"
+    y="0"
+    width="510"
+    height="382"
+    fill="#0055cc"
+    fill-opacity="0.13333333333333333"
+    stroke="none"
+    rx="0"
+    transform="rotate(0, 255, 191)"
+  >
+    <title>global.background</title>
+  </rect>
+  <g stroke-linejoin="round">
+    <filter
+      id="catmull-rom__3:0:spline0-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#1b8a1f"
+      stroke-opacity="0.2"
+      stroke-width="1"
+      stroke-linecap="butt"
+      d="M 342.1926369700295 199.537790803879 C 342.1926369700295 199.537790803879 384.80073466473635 40.34845921976495 384.80073466473635 40.34845921976495 C 384.80073466473635 40.34845921976495 114.13686899061668 105.67681914135582 114.13686899061668 105.67681914135582 C 114.13686899061668 105.67681914135582 58.74297251135607 302.7209866678119 58.74297251135607 302.7209866678119 C 58.74297251135607 302.7209866678119 109.38365804866677 315.53444792989933 109.38365804866677 315.53444792989933 C 109.38365804866677 315.53444792989933 81.38949243797799 58.79328294937318 81.38949243797799 58.79328294937318 C 81.38949243797799 58.79328294937318 389.9261007008375 248.2243317285787 389.9261007008375 248.2243317285787 C 389.9261007008375 248.2243317285787 363.57408454865725 306.83056028615005 363.57408454865725 306.83056028615005 C 363.57408454865725 306.83056028615005 342.1926369700295 199.537790803879 342.1926369700295 199.537790803879 Z "
+    />
+    <title>3:0:spline0</title>
+  </g>
+  <g stroke-linejoin="round">
+    <filter
+      id="catmull-rom__3:0:spline1-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#1b8a1f"
+      stroke-opacity="0.6"
+      stroke-width="1.3333333333333333"
+      stroke-linecap="butt"
+      d="M 342.1926369700295 199.537790803879 C 343.9615244797028 177.33094904834692 403.8053819963541 48.170206858308546 384.80073466473635 40.34845921976495 C 365.79608733311863 32.52671158122135 141.30834917006501 83.81244185401857 114.13686899061668 105.67681914135582 C 86.96538881116831 127.54119642869307 59.13907342318524 285.2328509354333 58.74297251135607 302.7209866678119 C 58.34687159952691 320.20912240019055 107.49644805478161 335.8617565731025 109.38365804866677 315.53444792989933 C 111.27086804255194 295.20713928669613 58.0109555502971 64.40245929948323 81.38949243797799 58.79328294937318 C 104.76802932565889 53.18410659926312 366.4107180249475 227.55455861718062 389.9261007008375 248.2243317285787 C 413.44148337672743 268.89410483997676 367.55187319289126 310.887772029875 363.57408454865725 306.83056028615005 C 359.59629590442324 302.7733485424251 340.42374946035625 221.7446325594111 342.1926369700295 199.537790803879 Z "
+    />
+    <title>3:0:spline1</title>
+  </g>
+  <g stroke-linejoin="round">
+    <filter
+      id="catmull-rom__3:0:spline2-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#1b8a1f"
+      stroke-opacity="0.6"
+      stroke-width="1.6666666666666665"
+      stroke-linecap="butt"
+      d="M 342.1926369700295 199.537790803879 C 345.730411989376 155.1241072928148 422.81002932797185 55.991954496852145 384.80073466473635 40.34845921976495 C 346.79144000150086 24.70496394267775 168.47982934951338 61.948064566681325 114.13686899061668 105.67681914135582 C 59.79390863171997 149.40557371603032 59.5351743350144 267.7447152030547 58.74297251135607 302.7209866678119 C 57.95077068769774 337.6972581325692 105.60923806089644 356.1890652163058 109.38365804866677 315.53444792989933 C 113.1580780364371 274.8798306434929 34.6324186626162 70.01163564959329 81.38949243797799 58.79328294937318 C 128.14656621333978 47.574930249153084 342.89533534905763 206.88478550578256 389.9261007008375 248.2243317285787 C 436.95686605261733 289.5638779513748 371.5296618371252 314.94498377360003 363.57408454865725 306.83056028615005 C 355.6185072601893 298.71613679870006 338.654861950683 243.9514743149432 342.1926369700295 199.537790803879 Z "
+    />
+    <title>3:0:spline2</title>
+  </g>
+  <g stroke-linejoin="round">
+    <filter
+      id="catmull-rom__global.spline3-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#1b8a1f"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-linecap="butt"
+      d="M 342.1926369700295 199.537790803879 C 347.4992994990493 132.91726553728273 441.81467665958957 63.813702135395744 384.80073466473635 40.34845921976495 C 327.78679266988314 16.88321630413415 195.65130952896175 40.083687279344076 114.13686899061668 105.67681914135582 C 32.622428452271606 171.26995100336757 59.93127524684354 250.25657947067606 58.74297251135607 302.7209866678119 C 57.554669775868604 355.18539386494786 103.72202806701131 376.51637385950903 109.38365804866677 315.53444792989933 C 115.04528803032224 254.55252200028963 11.253881774935309 75.62081199970334 81.38949243797799 58.79328294937318 C 151.52510310102068 41.96575389904302 319.3799526731677 186.21501239438447 389.9261007008375 248.2243317285787 C 460.4722487285073 310.2336510627729 375.50745048135923 319.00219551732494 363.57408454865725 306.83056028615005 C 351.6407186159553 294.65892505497516 336.88597444100975 266.1583160704753 342.1926369700295 199.537790803879 Z "
+    />
+    <title>global.spline3</title>
+  </g>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="114.13686899061668"
+    cy="105.67681914135582"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="1.5"
+    r="3"
+  >
+    <title>`p3`.icon</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="109.38365804866677"
+    cy="315.53444792989933"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="1.5"
+    r="3"
+  >
+    <title>`p5`.icon</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="58.74297251135607"
+    cy="302.7209866678119"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="1.5"
+    r="3"
+  >
+    <title>`p4`.icon</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="363.57408454865725"
+    cy="306.83056028615005"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="1.5"
+    r="3"
+  >
+    <title>`p8`.icon</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="389.9261007008375"
+    cy="248.2243317285787"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="1.5"
+    r="3"
+  >
+    <title>`p7`.icon</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="384.80073466473635"
+    cy="40.34845921976495"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="1.5"
+    r="3"
+  >
+    <title>`p2`.icon</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="342.1926369700295"
+    cy="199.537790803879"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="1.5"
+    r="3"
+  >
+    <title>`p1`.icon</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="81.38949243797799"
+    cy="58.79328294937318"
+    stroke="#000000"
+    stroke-opacity="1"
+    stroke-width="1.5"
+    r="3"
+  >
+    <title>`p6`.icon</title>
+  </circle>
+  <rect
+    x="124.90150719728933"
+    y="205.9519643251446"
+    width="360.8262054915323"
+    height="52.73427554114108"
+    fill="#112277"
+    fill-opacity="0.8"
+    stroke="none"
+    rx="0"
+    transform="rotate(0, 305.3146099430555, 232.31910209571512)"
+  >
+    <title>global.textBox</title>
+  </rect>
+  <g>
+    <text
+      fill="#ffdd00"
+      fill-opacity="1"
+      stroke="none"
+      transform="rotate(0, 191.8258126974854, 220.57508117119414)"
+      style="font: 9px Menlo"
+      x="191.8258126974854"
+      y="223.32117492119414"
+      width="113.8505859375"
+      height="9.23828125"
+      font-size-adjust=""
+      alignment-baseline="alphabetic"
+      dominant-baseline="alphabetic"
+      ascent="7.365234375"
+      descent="1.873046875"
+      text-anchor="middle"
+      visibility=""
+    >
+      <title>global.line1</title>
+      shape spline = Path {
+    </text>
+    <text
+      fill="#ffdd00"
+      fill-opacity="1"
+      stroke="none"
+      transform="rotate(0, 313.8258126974854, 232.57508117119414)"
+      style="font: 9px Menlo"
+      x="313.8258126974854"
+      y="235.24646788994414"
+      width="323.8056640625"
+      height="9.2119140625"
+      font-size-adjust=""
+      alignment-baseline="alphabetic"
+      dominant-baseline="alphabetic"
+      ascent="7.27734375"
+      descent="1.9345703125"
+      text-anchor="middle"
+      visibility=""
+    >
+      <title>global.line2</title>
+      d: interpolatingSpline( “closed”, [ p1, ..., pN ], tension )
+    </text>
+    <text
+      fill="#ffdd00"
+      fill-opacity="1"
+      stroke="none"
+      transform="rotate(0, 137.8258126974854, 244.57508117119414)"
+      style="font: 9px Menlo"
+      x="137.8258126974854"
+      y="247.82898742119414"
+      width="5.6875"
+      height="8.22265625"
+      font-size-adjust=""
+      alignment-baseline="alphabetic"
+      dominant-baseline="alphabetic"
+      ascent="7.365234375"
+      descent="0.857421875"
+      text-anchor="middle"
+      visibility=""
+    >
+      <title>global.line3</title>
+      }
+    </text>
+    <title>global.code</title>
+  </g>
+</svg>

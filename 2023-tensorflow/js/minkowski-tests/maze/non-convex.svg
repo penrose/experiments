@@ -1,0 +1,46 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 800 700"
+  penrose="0"
+>
+  <penrose>
+    <croppedViewBox>80 146.03865929037897 420 363.961340709621</croppedViewBox>
+  </penrose>
+  <polygon
+    fill="#4951bb"
+    fill-opacity="0.5"
+    stroke="none"
+    transform="scale(1)"
+    points="355.1127557707471,192.62451938755112,366.39108709272364,146.03865929037897,401.270051552697,179.30164011548902"
+  >
+    <title>`T2`.icon</title>
+  </polygon>
+  <polygon
+    fill="#6c3498"
+    fill-opacity="0.5"
+    stroke="none"
+    transform="scale(1)"
+    points="458.59426940749853,326.48517252870704,490.52831464187636,290.5857364138841,443.46803119353945,280.85970194017926"
+  >
+    <title>`T3`.icon</title>
+  </polygon>
+  <polygon
+    fill="#d438e0"
+    fill-opacity="0.5"
+    stroke="none"
+    transform="scale(1)"
+    points="375,280,400,380,350,380,350,345,290,405,260,510,500,430,400,180,80,270"
+  >
+    <title>`M`.icon</title>
+  </polygon>
+  <polygon
+    fill="#7833aa"
+    fill-opacity="0.5"
+    stroke="none"
+    transform="scale(1)"
+    points="433.81372263379876,452.0620852991926,470.6206327203841,482.90173647016513,425.4782390811441,499.4207635193465"
+  >
+    <title>`T1`.icon</title>
+  </polygon>
+</svg>
