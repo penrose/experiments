@@ -35,12 +35,17 @@ def main():
 
     for name, rose_data in rose.items():
         seconds = rose_data.get("seconds")
-        tfjs_data = tfjs.get(name)
-        if seconds and tfjs_data:
-            rose_time = seconds["optimizing"]
-            tfjs_time = tfjs_data["seconds"]["optimizing"]
-            xs.append(tfjs_time)
-            ys.append(rose_time)
+        if seconds:
+            tfjs_data = tfjs.get(name)
+            if tfjs_data:
+                rose_time = seconds["optimizing"]
+                tfjs_time = tfjs_data["seconds"]["optimizing"]
+                xs.append(tfjs_time)
+                ys.append(rose_time)
+            else:
+                print("failure ", name)
+        else:
+            print("non-trio", name)
 
     for font in fm.findSystemFonts(["fonts"]):
         fm.fontManager.addfont(font)
