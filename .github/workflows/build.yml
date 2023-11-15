@@ -7,8 +7,9 @@ on:
 jobs:
   experiment-2023-tensorflow:
     runs-on: ubuntu-22.04
-    env:
-      working-directory: 2023-tensorflow
+    defaults:
+      run:
+        working-directory: 2023-tensorflow
     steps:
       - uses: actions/checkout@v3
       - run: pip install -r requirements.txt
