@@ -5,6 +5,8 @@ import json
 import matplotlib as mpl
 import matplotlib.font_manager as fm
 import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
 
 
 def main():
@@ -32,7 +34,9 @@ def main():
 
     xs = []
     ys = []
+    ratios = []
 
+    print("omitted:")
     for name, rose_data in rose.items():
         seconds = rose_data.get("seconds")
         if seconds:
@@ -40,12 +44,19 @@ def main():
             if tfjs_data:
                 rose_time = seconds["optimizing"]
                 tfjs_time = tfjs_data["seconds"]["optimizing"]
+                ratio = tfjs_time / rose_time
                 xs.append(tfjs_time)
                 ys.append(rose_time)
+                ratios.append(ratio)
             else:
                 print("failure ", name)
         else:
             print("non-trio", name)
+
+    print()
+    print("ratios:")
+    for p in range(25, 100, 25):
+        print(f"{p:2d}% {np.percentile(ratios, p)}")
 
     for font in fm.findSystemFonts(["fonts"]):
         fm.fontManager.addfont(font)
@@ -53,13 +64,19 @@ def main():
     mpl.rcParams["font.size"] = 10
 
     # https://pldi24.sigplan.org/#formatting-requirements
-    plt.figure(figsize=(5.478, 4))
-    plt.xscale("log")
-    plt.yscale("log")
-    plt.scatter(xs, ys, color="black", alpha=0.5)
-    plt.xlabel("TensorFlow.js (seconds)")
-    plt.ylabel("Rose (seconds)")
-    plt.savefig("scatter.pdf")
+    fig, axs = plt.subplots(1, 2, layout="constrained", figsize=(5.478, 4))
+
+    axs[0].set_xscale("log")
+    axs[0].set_yscale("log")
+    axs[0].scatter(xs, ys, color="black", alpha=0.5)
+    axs[0].set_xlabel("TensorFlow.js (seconds)")
+    axs[0].set_ylabel("Rose (seconds)")
+
+    sns.kdeplot(ratios, ax=axs[1], log_scale=True, fill=True, color="black")
+    axs[1].set_xlabel("TensorFlow.js / Rose")
+    axs[1].set_ylabel("probability density")
+
+    fig.savefig("plots.pdf")
 
 
 if __name__ == "__main__":
