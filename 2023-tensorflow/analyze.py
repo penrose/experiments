@@ -64,7 +64,7 @@ def main():
     mpl.rcParams["font.size"] = 10
 
     # https://pldi24.sigplan.org/#formatting-requirements
-    fig, axs = plt.subplots(1, 2, layout="constrained", figsize=(5.478, 4))
+    fig, axs = plt.subplots(1, 2, layout="constrained", figsize=(5.478, 2.5))
 
     axs[0].set_xscale("log")
     axs[0].set_yscale("log")
