@@ -1,0 +1,19 @@
+name: Build
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  2023-tensorflow:
+    runs-on: ubuntu-22.04
+    working-directory: 2023-tensorflow
+    steps:
+      - uses: actions/checkout@v3
+      - run: pip install -r requirements.txt
+      - run: ./getfonts.sh
+      - run: ./analyze.py
+      - uses: actions/upload-artifact@v3
+        with:
+          name: 2023-tensorflow
+          path: 2023-tensorflow/scatter.pdf

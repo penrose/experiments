@@ -51,7 +51,9 @@ def main():
     plt.figure(figsize=(5.478, 4))
     plt.xscale("log")
     plt.yscale("log")
-    plt.scatter(xs, ys)
+    plt.scatter(xs, ys, color="black", alpha=0.5)
+    plt.xlabel("TensorFlow.js (seconds)")
+    plt.ylabel("Rose (seconds)")
     plt.savefig("scatter.pdf")
 
 
