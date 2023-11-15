@@ -5,7 +5,7 @@ on:
       - main
 
 jobs:
-  2023-tensorflow:
+  experiment-2023-tensorflow:
     runs-on: ubuntu-22.04
     env:
       working-directory: 2023-tensorflow
