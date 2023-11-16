@@ -1,0 +1,739 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 200 200"
+  penrose="0"
+>
+  <penrose>
+    <croppedViewBox>
+      28.406829833984375 11.83648681640625 150.07403564453125 173.5136260986328
+    </croppedViewBox>
+  </penrose>
+  <polygon
+    fill="#e5e5e5"
+    fill-opacity="1"
+    stroke="#b3b3b3"
+    stroke-opacity="1"
+    stroke-width="1.3333333730697632"
+    transform="scale(1)"
+    points="172.51014709472656,170.89620208740234,107.18916320800781,168.63004302978516,32.34813690185547,185.35011291503906,28.406822204589844,30.848968505859375,88.10001850128174,24.909423828125,178.48086547851562,11.83648681640625"
+  >
+    <title>`U`.geometry</title>
+  </polygon>
+  <g
+    transform="rotate(0, 91.98936462402344, 35.356117248535156)translate(82.09349536895752, 25.46024799346924)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="nested-estimator__Layer_1--inject-30"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 221.7 221.7"
+      style="enable-background: new 0 0 221.7 221.7"
+      xml:space="preserve"
+      width="19.791738510131836"
+      height="19.791738510131836"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .nested-estimator__st0 {
+          opacity: 0.6;
+          fill: url(#nested-estimator__SVGID_1_--inject-30);
+          enable-background: new;
+        }
+      </style>
+      <radialGradient
+        id="nested-estimator__SVGID_1_--inject-30"
+        cx="75.4328"
+        cy="151.0149"
+        r="157.9341"
+        gradientTransform="matrix(1 0 0 -1 0 222)"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" style="stop-color: #ffffff" />
+        <stop offset="0.7844" style="stop-color: #5f5f5f" />
+        <stop offset="1" style="stop-color: #7f7f7f" />
+      </radialGradient>
+      <circle class="nested-estimator__st0" cx="110.9" cy="110.9" r="110.9" />
+    </svg>
+    <title>`B3`.shading</title>
+  </g>
+  <g
+    transform="rotate(0, 140.07156372070312, 51.45684814453125)translate(107.3576774597168, 18.742961883544922)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="nested-estimator__Layer_1--inject-31"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 221.7 221.7"
+      style="enable-background: new 0 0 221.7 221.7"
+      xml:space="preserve"
+      width="65.42777252197266"
+      height="65.42777252197266"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .nested-estimator__st0 {
+          opacity: 0.6;
+          fill: url(#nested-estimator__SVGID_1_--inject-31);
+          enable-background: new;
+        }
+      </style>
+      <radialGradient
+        id="nested-estimator__SVGID_1_--inject-31"
+        cx="75.4328"
+        cy="151.0149"
+        r="157.9341"
+        gradientTransform="matrix(1 0 0 -1 0 222)"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" style="stop-color: #ffffff" />
+        <stop offset="0.7844" style="stop-color: #5f5f5f" />
+        <stop offset="1" style="stop-color: #7f7f7f" />
+      </radialGradient>
+      <circle class="nested-estimator__st0" cx="110.9" cy="110.9" r="110.9" />
+    </svg>
+    <title>`B1`.shading</title>
+  </g>
+  <g
+    transform="rotate(0, 114.45607566833496, 105.13834810256958)translate(54.976205825805664, 45.65847826004028)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="nested-estimator__Layer_1--inject-32"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 221.7 221.7"
+      style="enable-background: new 0 0 221.7 221.7"
+      xml:space="preserve"
+      width="118.9597396850586"
+      height="118.9597396850586"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .nested-estimator__st0 {
+          opacity: 0.6;
+          fill: url(#nested-estimator__SVGID_1_--inject-32);
+          enable-background: new;
+        }
+      </style>
+      <radialGradient
+        id="nested-estimator__SVGID_1_--inject-32"
+        cx="75.4328"
+        cy="151.0149"
+        r="157.9341"
+        gradientTransform="matrix(1 0 0 -1 0 222)"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" style="stop-color: #ffffff" />
+        <stop offset="0.7844" style="stop-color: #5f5f5f" />
+        <stop offset="1" style="stop-color: #7f7f7f" />
+      </radialGradient>
+      <circle class="nested-estimator__st0" cx="110.9" cy="110.9" r="110.9" />
+    </svg>
+    <title>`B0`.shading</title>
+  </g>
+  <circle
+    fill="#9acca0"
+    fill-opacity="1"
+    cx="114.45607566833496"
+    cy="105.13834810256958"
+    stroke="#1b8a1f"
+    stroke-opacity="1"
+    stroke-width="0.6666666865348816"
+    r="59.4798698425293"
+    opacity="0.3499999940395355"
+  >
+    <title>`B0`.ball</title>
+  </circle>
+  <g fill="none">
+    <line
+      x1="114.45607566833496"
+      y1="105.13834810256958"
+      x2="140.07156372070312"
+      y2="51.45684814453125"
+      stroke="#006600"
+      stroke-opacity="0.2980392277240753"
+      stroke-width="1.3333333730697632"
+    />
+    <title>`x1`.walkLine</title>
+  </g>
+  <circle
+    fill="#9acca0"
+    fill-opacity="1"
+    cx="140.07156372070312"
+    cy="51.45684814453125"
+    stroke="#1b8a1f"
+    stroke-opacity="1"
+    stroke-width="0.6666666865348816"
+    r="32.71388626098633"
+    opacity="0.3499999940395355"
+  >
+    <title>`B1`.ball</title>
+  </circle>
+  <g fill="none">
+    <line
+      x1="140.07156372070312"
+      y1="51.45684814453125"
+      x2="109.05074119567871"
+      y2="41.06923294067383"
+      stroke="#006600"
+      stroke-opacity="0.2980392277240753"
+      stroke-width="1.3333333730697632"
+    />
+    <title>`x2`.walkLine</title>
+  </g>
+  <g
+    transform="rotate(0, 109.05074119567871, 41.06923294067383)translate(91.05820846557617, 23.07670021057129)"
+  >
+    <!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg
+      version="1.1"
+      id="nested-estimator__Layer_1--inject-33"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      viewBox="0 0 221.7 221.7"
+      style="enable-background: new 0 0 221.7 221.7"
+      xml:space="preserve"
+      width="35.98506546020508"
+      height="35.98506546020508"
+      preserveAspectRatio=""
+    >
+      <style type="text/css">
+        .nested-estimator__st0 {
+          opacity: 0.6;
+          fill: url(#nested-estimator__SVGID_1_--inject-33);
+          enable-background: new;
+        }
+      </style>
+      <radialGradient
+        id="nested-estimator__SVGID_1_--inject-33"
+        cx="75.4328"
+        cy="151.0149"
+        r="157.9341"
+        gradientTransform="matrix(1 0 0 -1 0 222)"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" style="stop-color: #ffffff" />
+        <stop offset="0.7844" style="stop-color: #5f5f5f" />
+        <stop offset="1" style="stop-color: #7f7f7f" />
+      </radialGradient>
+      <circle class="nested-estimator__st0" cx="110.9" cy="110.9" r="110.9" />
+    </svg>
+    <title>`B2`.shading</title>
+  </g>
+  <circle
+    fill="#9acca0"
+    fill-opacity="1"
+    cx="109.05074119567871"
+    cy="41.06923294067383"
+    stroke="#1b8a1f"
+    stroke-opacity="1"
+    stroke-width="0.6666666865348816"
+    r="17.99253273010254"
+    opacity="0.3499999940395355"
+  >
+    <title>`B2`.ball</title>
+  </circle>
+  <g fill="none">
+    <line
+      x1="109.05074119567871"
+      y1="41.06923294067383"
+      x2="91.98936462402344"
+      y2="35.356117248535156"
+      stroke="#006600"
+      stroke-opacity="0.2980392277240753"
+      stroke-width="1.3333333730697632"
+    />
+    <title>`x3`.walkLine</title>
+  </g>
+  <circle
+    fill="#9acca0"
+    fill-opacity="1"
+    cx="91.98936462402344"
+    cy="35.356117248535156"
+    stroke="#1b8a1f"
+    stroke-opacity="1"
+    stroke-width="0.6666666865348816"
+    r="9.895869255065918"
+    opacity="0.3499999940395355"
+  >
+    <title>`B3`.ball</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="0.20000000298023224"
+    cx="159.78405380249023"
+    cy="106.83984661102295"
+    stroke="#ffffff"
+    stroke-opacity="0.5"
+    stroke-width="1"
+    r="15.119966506958008"
+  >
+    <title>`B00`.shading</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="159.78405380249023"
+    cy="106.83984661102295"
+    stroke="none"
+    r="15.119966506958008"
+    opacity="0.3499999940395355"
+  >
+    <title>`B00`.ball</title>
+  </circle>
+  <g fill="none">
+    <line
+      x1="159.78405380249023"
+      y1="106.83984661102295"
+      x2="149.2668800354004"
+      y2="82.35392570495605"
+      stroke="#ffffff"
+      stroke-opacity="1"
+      stroke-width="1.3333333730697632"
+    />
+    <title>`y01`.walkLine</title>
+  </g>
+  <circle
+    fill="#ffffff"
+    fill-opacity="0.20000000298023224"
+    cx="133.34669876098633"
+    cy="23.548263549804688"
+    stroke="#ffffff"
+    stroke-opacity="0.5"
+    stroke-width="1"
+    r="4.130058765411377"
+  >
+    <title>`B12`.shading</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="133.34669876098633"
+    cy="23.548263549804688"
+    stroke="none"
+    r="4.130058765411377"
+    opacity="0.3499999940395355"
+  >
+    <title>`B12`.ball</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="0.20000000298023224"
+    cx="149.2668800354004"
+    cy="82.35392570495605"
+    stroke="#ffffff"
+    stroke-opacity="0.5"
+    stroke-width="1"
+    r="25.548233032226562"
+  >
+    <title>`B01`.shading</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="149.2668800354004"
+    cy="82.35392570495605"
+    stroke="none"
+    r="25.548233032226562"
+    opacity="0.3499999940395355"
+  >
+    <title>`B01`.ball</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="0.20000000298023224"
+    cx="136.4518814086914"
+    cy="26.431854248046875"
+    stroke="#ffffff"
+    stroke-opacity="0.5"
+    stroke-width="1"
+    r="8.428467750549316"
+  >
+    <title>`B10`.shading</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="136.4518814086914"
+    cy="26.431854248046875"
+    stroke="none"
+    r="8.428467750549316"
+    opacity="0.3499999940395355"
+  >
+    <title>`B10`.ball</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="0.20000000298023224"
+    cx="144.09326934814453"
+    cy="46.58942794799805"
+    stroke="#ffffff"
+    stroke-opacity="0.5"
+    stroke-width="1"
+    r="28.47231674194336"
+  >
+    <title>`B02`.shading</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="144.09326934814453"
+    cy="46.58942794799805"
+    stroke="none"
+    r="28.47231674194336"
+    opacity="0.3499999940395355"
+  >
+    <title>`B02`.ball</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="0.20000000298023224"
+    cx="128.02974128723145"
+    cy="26.105735778808594"
+    stroke="#ffffff"
+    stroke-opacity="0.5"
+    stroke-width="1"
+    r="5.900051116943359"
+  >
+    <title>`B11`.shading</title>
+  </circle>
+  <circle
+    fill="none"
+    cx="128.02974128723145"
+    cy="26.105735778808594"
+    stroke="none"
+    r="5.900051116943359"
+    opacity="0.3499999940395355"
+  >
+    <title>`B11`.ball</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="128.02974128723145"
+    cy="26.105735778808594"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`y11`.dot</title>
+  </circle>
+  <g fill="none">
+    <line
+      x1="128.02974128723145"
+      y1="26.105735778808594"
+      x2="133.34669876098633"
+      y2="23.548263549804688"
+      stroke="#ffffff"
+      stroke-opacity="1"
+      stroke-width="1.3333333730697632"
+    />
+    <title>`y12`.walkLine</title>
+  </g>
+  <g
+    transform="rotate(0, 67.43915557861328, 42.65499496459961)translate(62.62594270706177, 37.96177911758423)"
+    font-family="Linux Libertine"
+  >
+    <title>`U`.labelText</title>
+    <svg
+      style="font-size: 13.333px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="9.626425743103027"
+      height="9.386431694030762"
+      role="img"
+      focusable="false"
+      viewBox="0 -704 722 704"
+    >
+      <g
+        stroke="none"
+        fill="#000000"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="3A9"
+              d="M55 454Q55 503 75 546T127 617T197 665T272 695T337 704H352Q396 704 404 703Q527 687 596 615T666 454Q666 392 635 330T559 200T499 83V80H543Q589 81 600 83T617 93Q622 102 629 135T636 172L637 177H677V175L660 89Q645 3 644 2V0H552H488Q461 0 456 3T451 20Q451 89 499 235T548 455Q548 512 530 555T483 622T424 656T361 668Q332 668 303 658T243 626T193 560T174 456Q174 380 222 233T270 20Q270 7 263 0H77V2Q76 3 61 89L44 175V177H84L85 172Q85 171 88 155T96 119T104 93Q109 86 120 84T178 80H222V83Q206 132 162 199T87 329T55 454Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="140.07156372070312"
+    cy="51.45684814453125"
+    stroke="none"
+    r="2"
+  >
+    <title>`x1`.dot</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="109.05074119567871"
+    cy="41.06923294067383"
+    stroke="none"
+    r="2"
+  >
+    <title>`x2`.dot</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="91.98936462402344"
+    cy="35.356117248535156"
+    stroke="none"
+    r="2"
+  >
+    <title>`x3`.dot</title>
+  </circle>
+  <circle
+    fill="#000000"
+    fill-opacity="1"
+    cx="114.45607566833496"
+    cy="105.13834810256958"
+    stroke="none"
+    r="2"
+  >
+    <title>`x0`.dot</title>
+  </circle>
+  <g
+    transform="rotate(0, 113.58841228485107, 114.09642601013184)translate(106.86458015441895, 110.0458607673645)"
+    font-family="Linux Libertine"
+    font-style="italic"
+  >
+    <title>`x0`.labelText</title>
+    <svg
+      style="font-size: 13.333px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="13.447664260864258"
+      height="8.101130485534668"
+      role="img"
+      focusable="false"
+      viewBox="0 -442 1008.6 607.6"
+    >
+      <g
+        stroke="none"
+        fill="#000000"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="msub">
+            <g data-mml-node="mi">
+              <path
+                data-c="1D465"
+                d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"
+              />
+            </g>
+            <g data-mml-node="mn" transform="translate(605,-150) scale(0.707)">
+              <path
+                data-c="30"
+                d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="159.78405380249023"
+    cy="106.83984661102295"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`y00`.dot</title>
+  </circle>
+  <g
+    transform="rotate(0, 84.71274375915527, 30.059814453125)translate(77.89024782180786, 26.06124782562256)"
+    font-family="Linux Libertine"
+    font-style="italic"
+  >
+    <title>`x3`.labelText</title>
+    <svg
+      style="font-size: 13.333px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="13.644991874694824"
+      height="7.997133255004883"
+      role="img"
+      focusable="false"
+      viewBox="0 -442 1023.4 599.8"
+    >
+      <g
+        stroke="none"
+        fill="#000000"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="msub">
+            <g data-mml-node="mi">
+              <path
+                data-c="1D465"
+                d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"
+              />
+            </g>
+            <g data-mml-node="mi" transform="translate(605,-150) scale(0.707)">
+              <path
+                data-c="1D458"
+                d="M121 647Q121 657 125 670T137 683Q138 683 209 688T282 694Q294 694 294 686Q294 679 244 477Q194 279 194 272Q213 282 223 291Q247 309 292 354T362 415Q402 442 438 442Q468 442 485 423T503 369Q503 344 496 327T477 302T456 291T438 288Q418 288 406 299T394 328Q394 353 410 369T442 390L458 393Q446 405 434 405H430Q398 402 367 380T294 316T228 255Q230 254 243 252T267 246T293 238T320 224T342 206T359 180T365 147Q365 130 360 106T354 66Q354 26 381 26Q429 26 459 145Q461 153 479 153H483Q499 153 499 144Q499 139 496 130Q455 -11 378 -11Q333 -11 305 15T277 90Q277 108 280 121T283 145Q283 167 269 183T234 206T200 217T182 220H180Q168 178 159 139T145 81T136 44T129 20T122 7T111 -2Q98 -11 83 -11Q66 -11 57 -1T48 16Q48 26 85 176T158 471L195 616Q196 629 188 632T149 637H144Q134 637 131 637T124 640T121 647Z"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 111.42368698120117, 49.750770568847656)translate(103.6105489730835, 48.95079058408737)"
+    font-family="Linux Libertine"
+    font-style="italic"
+  >
+    <title>`x2`.labelText</title>
+    <svg
+      style="font-size: 13.333px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="15.626276016235352"
+      height="1.5999599695205688"
+      role="img"
+      focusable="false"
+      viewBox="0 -120 1172 120"
+    >
+      <g
+        stroke="none"
+        fill="#000000"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mo">
+            <path
+              data-c="2026"
+              d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60ZM525 60Q525 84 542 102T585 120Q609 120 627 104T646 61Q646 36 629 18T586 0T543 17T525 60ZM972 60Q972 84 989 102T1032 120Q1056 120 1074 104T1093 61Q1093 36 1076 18T1033 0T990 17T972 60Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="133.34669876098633"
+    cy="23.548263549804688"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`y12`.dot</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="144.09326934814453"
+    cy="46.58942794799805"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`y02`.dot</title>
+  </circle>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="149.2668800354004"
+    cy="82.35392570495605"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`y01`.dot</title>
+  </circle>
+  <g
+    transform="rotate(0, 149.06876754760742, 51.23247528076172)translate(142.3449354171753, 47.28590726852417)"
+    font-family="Linux Libertine"
+    font-style="italic"
+  >
+    <title>`x1`.labelText</title>
+    <svg
+      style="font-size: 13.333px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="13.447664260864258"
+      height="7.893136024475098"
+      role="img"
+      focusable="false"
+      viewBox="0 -442 1008.6 592"
+    >
+      <g
+        stroke="none"
+        fill="#000000"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="msub">
+            <g data-mml-node="mi">
+              <path
+                data-c="1D465"
+                d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"
+              />
+            </g>
+            <g data-mml-node="mn" transform="translate(605,-150) scale(0.707)">
+              <path
+                data-c="31"
+                d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <circle
+    fill="#ffffff"
+    fill-opacity="1"
+    cx="136.4518814086914"
+    cy="26.431854248046875"
+    stroke="none"
+    r="2.5"
+  >
+    <title>`y10`.dot</title>
+  </circle>
+  <g fill="none">
+    <line
+      x1="149.2668800354004"
+      y1="82.35392570495605"
+      x2="144.09326934814453"
+      y2="46.58942794799805"
+      stroke="#ffffff"
+      stroke-opacity="1"
+      stroke-width="1.3333333730697632"
+    />
+    <title>`y02`.walkLine</title>
+  </g>
+  <g fill="none">
+    <line
+      x1="136.4518814086914"
+      y1="26.431854248046875"
+      x2="128.02974128723145"
+      y2="26.105735778808594"
+      stroke="#ffffff"
+      stroke-opacity="1"
+      stroke-width="1.3333333730697632"
+    />
+    <title>`y11`.walkLine</title>
+  </g>
+</svg>

@@ -1,0 +1,442 @@
+<svg
+  version="1.2"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 240 180"
+  penrose="0"
+>
+  <penrose><croppedViewBox>-0.5 -0.5 241 181</croppedViewBox></penrose>
+  <rect
+    x="0"
+    y="0"
+    width="240"
+    height="180"
+    fill="none"
+    stroke="#000000"
+    stroke-opacity="0.20000000298023224"
+    stroke-width="1"
+    rx="0"
+    transform="rotate(0, 120, 90)"
+  >
+    <title>Global.box</title>
+  </rect>
+  <g>
+    <marker
+      id="vector-wedge__registry-SnorlaxIbis743-`c`.icon-endArrowId"
+      markerUnits="strokeWidth"
+      markerWidth="4.98"
+      markerHeight="4.06"
+      viewBox="0 0 9.95 8.12"
+      refX="2.36"
+      refY="4.06"
+      orient="auto-start-reverse"
+    >
+      <path
+        d="M9.95 4.06 0 8.12 2.36 4.06 0 0 9.95 4.06z"
+        fill="#000000"
+        fill-opacity="1"
+      />
+    </marker>
+    <line
+      x1="120"
+      y1="90"
+      x2="137.72209194242964"
+      y2="143.85976532123107"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1.5"
+      stroke-linecap="round"
+      marker-end="url(#vector-wedge__registry-SnorlaxIbis743-`c`.icon-endArrowId)"
+    />
+    <title>`c`.icon</title>
+  </g>
+  <g
+    transform="rotate(0, 140.75154304504395, 153.0666618347168)translate(138.80304300785065, 151.0281617641449)"
+    font-family="Linux Libertine"
+  >
+    <title>`c`.labelText</title>
+    <svg
+      style="font-size: 9px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="3.8970000743865967"
+      height="4.077000141143799"
+      role="img"
+      focusable="false"
+      viewBox="0 -442 433 453"
+    >
+      <g
+        stroke="none"
+        fill="#000000"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D450"
+              d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g>
+    <marker
+      id="vector-wedge__registry-SnorlaxIbis743-`b`.icon-endArrowId"
+      markerUnits="strokeWidth"
+      markerWidth="4.98"
+      markerHeight="4.06"
+      viewBox="0 0 9.95 8.12"
+      refX="2.36"
+      refY="4.06"
+      orient="auto-start-reverse"
+    >
+      <path
+        d="M9.95 4.06 0 8.12 2.36 4.06 0 0 9.95 4.06z"
+        fill="#000000"
+        fill-opacity="1"
+      />
+    </marker>
+    <line
+      x1="120"
+      y1="90"
+      x2="198.42707533034417"
+      y2="113.02161079930482"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1.5"
+      stroke-linecap="round"
+      marker-end="url(#vector-wedge__registry-SnorlaxIbis743-`b`.icon-endArrowId)"
+    />
+    <title>`b`.icon</title>
+  </g>
+  <g>
+    <filter
+      id="vector-wedge__`v`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#38cc00"
+      fill-opacity="0.20000000298023224"
+      stroke="none"
+      d="M 120 90 L 203.8891143798828 114.62494659423828 L 223.39043426513672 173.8920135498047 L 139.50131797790527 149.2670669555664 Z "
+    />
+    <title>`v`.icon</title>
+  </g>
+  <g>
+    <marker
+      id="vector-wedge__registry-SnorlaxIbis743-`a`.icon-endArrowId"
+      markerUnits="strokeWidth"
+      markerWidth="4.98"
+      markerHeight="4.06"
+      viewBox="0 0 9.95 8.12"
+      refX="2.36"
+      refY="4.06"
+      orient="auto-start-reverse"
+    >
+      <path
+        d="M9.95 4.06 0 8.12 2.36 4.06 0 0 9.95 4.06z"
+        fill="#000000"
+        fill-opacity="1"
+      />
+    </marker>
+    <line
+      x1="120"
+      y1="90"
+      x2="151.37636391155596"
+      y2="39.35287108385806"
+      stroke="#000000"
+      stroke-opacity="1"
+      stroke-width="1.5"
+      stroke-linecap="round"
+      marker-end="url(#vector-wedge__registry-SnorlaxIbis743-`a`.icon-endArrowId)"
+    />
+    <title>`a`.icon</title>
+  </g>
+  <g>
+    <filter
+      id="vector-wedge__`u`.icon-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="#bd00cc"
+      fill-opacity="0.20000000298023224"
+      stroke="none"
+      d="M 120 90 L 154.37425231933594 34.513736724853516 L 238.26336669921875 59.1386833190918 L 203.8891143798828 114.62494659423828 Z "
+    />
+    <title>`u`.icon</title>
+  </g>
+  <g
+    transform="rotate(0, 207.7271728515625, 115.75157737731934)translate(205.79667282104492, 112.57907748222351)"
+    font-family="Linux Libertine"
+  >
+    <title>`b`.labelText</title>
+    <svg
+      style="font-size: 9px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="3.8610000610351562"
+      height="6.34499979019165"
+      role="img"
+      focusable="false"
+      viewBox="0 -694 429 705"
+    >
+      <g
+        stroke="none"
+        fill="#000000"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D44F"
+              d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g
+    transform="rotate(0, 156.48080444335938, 31.113380432128906)translate(154.10030436515808, 29.08388042449951)"
+    font-family="Linux Libertine"
+  >
+    <title>`a`.labelText</title>
+    <svg
+      style="font-size: 9px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="4.761000156402588"
+      height="4.059000015258789"
+      role="img"
+      focusable="false"
+      viewBox="0 -441 529 451"
+    >
+      <g
+        stroke="none"
+        fill="#000000"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D44E"
+              d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g>
+    <marker
+      id="vector-wedge__`u`.marker-startArrowId"
+      markerUnits="strokeWidth"
+      markerWidth="4.98"
+      markerHeight="4.06"
+      viewBox="0 0 9.95 8.12"
+      refX="2.36"
+      refY="4.06"
+      orient="auto-start-reverse"
+    >
+      <path
+        d="M9.95 4.06 0 8.12 2.36 4.06 0 0 9.95 4.06z"
+        fill="#bd00cc"
+        fill-opacity="1"
+      />
+    </marker>
+    <filter
+      id="vector-wedge__`u`.marker-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#bd00cc"
+      stroke-opacity="1"
+      stroke-width="1.125"
+      stroke-linecap="butt"
+      d="M 166.72611236572266 54.49808883666992 A 23.595624923706055 23.595624923706055 0 0 0 191.5372543334961 94.64059448242188"
+      marker-start="url(#vector-wedge__`u`.marker-startArrowId)"
+    />
+    <title>`u`.marker</title>
+  </g>
+  <g
+    transform="rotate(0, 179.13168334960938, 74.5693416595459)translate(169.81938362121582, 71.34734177589417)"
+    font-family="Linux Libertine"
+  >
+    <title>`u`.labelText</title>
+    <svg
+      style="font-size: 9px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="18.62459945678711"
+      height="6.443999767303467"
+      role="img"
+      focusable="false"
+      viewBox="0 -694 2069.4 716"
+    >
+      <g
+        stroke="none"
+        fill="#bd00cc"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D44E"
+              d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"
+            />
+          </g>
+          <g data-mml-node="mo" transform="translate(751.2,0)">
+            <path
+              data-c="2227"
+              d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"
+            />
+          </g>
+          <g data-mml-node="mi" transform="translate(1640.4,0)">
+            <path
+              data-c="1D44F"
+              d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+  <g>
+    <marker
+      id="vector-wedge__`v`.marker-startArrowId"
+      markerUnits="strokeWidth"
+      markerWidth="4.98"
+      markerHeight="4.06"
+      viewBox="0 0 9.95 8.12"
+      refX="2.36"
+      refY="4.06"
+      orient="auto-start-reverse"
+    >
+      <path
+        d="M9.95 4.06 0 8.12 2.36 4.06 0 0 9.95 4.06z"
+        fill="#38cc00"
+        fill-opacity="1"
+      />
+    </marker>
+    <filter
+      id="vector-wedge__`v`.marker-shadow"
+      x="0"
+      y="0"
+      width="200%"
+      height="200%"
+    >
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path
+      fill="none"
+      stroke="#38cc00"
+      stroke-opacity="1"
+      stroke-width="1.125"
+      stroke-linecap="butt"
+      d="M 188.66112518310547 122.81795501708984 A 19.265602111816406 19.265602111816406 0 0 0 154.72930908203125 141.07405853271484"
+      marker-start="url(#vector-wedge__`v`.marker-startArrowId)"
+    />
+    <title>`v`.marker</title>
+  </g>
+  <g
+    transform="rotate(0, 171.69521713256836, 131.94600677490234)translate(162.8149175643921, 128.7240068912506)"
+    font-family="Linux Libertine"
+  >
+    <title>`v`.labelText</title>
+    <svg
+      style="font-size: 9px"
+      xmlns="http://www.w3.org/2000/svg"
+      width="17.76059913635254"
+      height="6.443999767303467"
+      role="img"
+      focusable="false"
+      viewBox="0 -694 1973.4 716"
+    >
+      <g
+        stroke="none"
+        fill="#38cc00"
+        stroke-width="0"
+        transform="scale(1,-1)"
+        fill-opacity="1"
+      >
+        <g data-mml-node="math">
+          <g data-mml-node="mi">
+            <path
+              data-c="1D44F"
+              d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"
+            />
+          </g>
+          <g data-mml-node="mo" transform="translate(651.2,0)">
+            <path
+              data-c="2227"
+              d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"
+            />
+          </g>
+          <g data-mml-node="mi" transform="translate(1540.4,0)">
+            <path
+              data-c="1D450"
+              d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+</svg>
