@@ -32,6 +32,12 @@ def main():
     with open("e7ecab9/data.json", "r") as file:
         tfjs_compiles = json.load(file)
 
+    with open("0f1efff/data.json", "r") as file:
+        tfjs_node = json.load(file)
+
+    with open("654e94c/data.json", "r") as file:
+        tfjs_node_gpu = json.load(file)
+
     # Read the Rose data
     with open("rose/data.json", "r") as file:
         rose = json.load(file)
@@ -62,6 +68,21 @@ def main():
     print("ratios:")
     for p in range(25, 100, 25):
         print(f"{p:2d}% {np.percentile(ratios, p)}")
+
+    node_ratios = []
+    gpu_ratios = []
+
+    for name, tfjs_data in tfjs.items():
+        node = tfjs_node.get(name)
+        gpu = tfjs_node_gpu.get(name)
+        seconds = tfjs_data.get("seconds")
+        if seconds and node and gpu:
+            node_ratios.append(node["seconds"]["optimizing"] / seconds["optimizing"])
+            gpu_ratios.append(gpu["seconds"]["optimizing"] / seconds["optimizing"])
+
+    print()
+    print(f"node: {np.median(node_ratios)}")
+    print(f"gpu: {np.median(gpu_ratios)}")
 
     for font in fm.findSystemFonts(["fonts"]):
         fm.fontManager.addfont(font)
