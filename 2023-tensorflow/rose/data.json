@@ -1,1395 +1,1568 @@
 {
   "set-theory-domain/tree-venn": {
-    "totalSeconds": 0.139577708,
+    "totalSeconds": 0.16274175,
     "seconds": {
-      "compiling": 0.071159542,
-      "optimizing": 0.038254542,
-      "rendering": 0.013856583
+      "compiling": 0.078184833,
+      "autodiff": 0.024265458,
+      "optimizing": 0.03924175,
+      "rendering": 0.027849292
     }
   },
   "set-theory-domain/tree-tree": {
-    "totalSeconds": 0.134503584,
+    "totalSeconds": 0.175739208,
     "seconds": {
-      "compiling": 0.089829417,
-      "optimizing": 0.029444333,
-      "rendering": 0.010187959
+      "compiling": 0.127796542,
+      "autodiff": 0.012090708,
+      "optimizing": 0.0310155,
+      "rendering": 0.011924291
     }
   },
   "group-theory/quaternion-multiplication-table": {
-    "totalSeconds": 0.337410208,
+    "totalSeconds": 0.3393595,
     "seconds": {
-      "compiling": 0.171641833,
-      "optimizing": 0.005360208,
-      "rendering": 0.152642542
+      "compiling": 0.176191416,
+      "autodiff": 0.080968042,
+      "optimizing": 0.005188292,
+      "rendering": 0.149105583
     }
   },
   "walk-on-spheres/SignedAngleOutside": {
-    "totalSeconds": 0.213316542,
+    "totalSeconds": 0.211358583,
     "seconds": {
-      "compiling": 0.162405792,
-      "optimizing": 0.004235417,
-      "rendering": 0.027781458
+      "compiling": 0.156058625,
+      "autodiff": 0.032853209,
+      "optimizing": 0.004749,
+      "rendering": 0.031126417
     }
   },
   "spectral-graphs/examples/hypercube": {
-    "totalSeconds": 0.138558458,
+    "totalSeconds": 0.150460417,
     "seconds": {
-      "compiling": 0.088075417,
-      "optimizing": 0.03207725,
-      "rendering": 0.012180916
+      "compiling": 0.095639958,
+      "autodiff": 0.016448166,
+      "optimizing": 0.034339459,
+      "rendering": 0.013560791
     }
   },
   "group-theory/quaternion-cayley-graph": {
-    "totalSeconds": 0.091547,
+    "totalSeconds": 0.096597958,
     "seconds": {
-      "compiling": 0.054328791,
-      "optimizing": 0.009170584,
-      "rendering": 0.0236795
+      "compiling": 0.055421625,
+      "autodiff": 0.018291042,
+      "optimizing": 0.009272709,
+      "rendering": 0.0276555
     }
   },
   "set-theory-domain/tree-venn-3d": {
-    "totalSeconds": 0.104445166,
+    "totalSeconds": 0.129546666,
     "seconds": {
-      "compiling": 0.034050583,
-      "optimizing": 0.035633083,
-      "rendering": 0.030962625
+      "compiling": 0.054667125,
+      "autodiff": 0.038164625,
+      "optimizing": 0.034172959,
+      "rendering": 0.036784583
     }
   },
   "atoms-and-bonds/one-water-molecule": {
-    "totalSeconds": 0.028241125,
+    "totalSeconds": 0.030206,
     "seconds": {
-      "compiling": 0.017568666,
-      "optimizing": 0.002341959,
-      "rendering": 0.002751791
+      "compiling": 0.019272833,
+      "autodiff": 0.005718334,
+      "optimizing": 0.002435167,
+      "rendering": 0.003162417
     }
   },
   "structural-formula/molecules/caffeine": {
-    "totalSeconds": 0.403614708,
+    "totalSeconds": 0.431116875,
     "seconds": {
-      "compiling": 0.185713417,
-      "optimizing": 0.123567041,
-      "rendering": 0.086035917
+      "compiling": 0.20557775,
+      "autodiff": 0.063060459,
+      "optimizing": 0.120872167,
+      "rendering": 0.092158375
     }
   },
   "walk-on-spheres/walk-on-stars": {
-    "totalSeconds": 0.519148416,
+    "totalSeconds": 0.574837875,
     "seconds": {
-      "compiling": 0.2614035,
-      "optimizing": 0.11826475,
-      "rendering": 0.119152375
+      "compiling": 0.269299584,
+      "autodiff": 0.185197917,
+      "optimizing": 0.115978541,
+      "rendering": 0.168957584
     }
   },
   "set-theory-domain/continuousmap": {
-    "totalSeconds": 0.071327834,
+    "totalSeconds": 0.082853333,
     "seconds": {
-      "compiling": 0.029004167,
-      "optimizing": 0.031195166,
-      "rendering": 0.004517334
+      "compiling": 0.034606292,
+      "autodiff": 0.013635625,
+      "optimizing": 0.035319458,
+      "rendering": 0.0048935
     }
   },
   "mobius/mobius": {
-    "totalSeconds": 0.056248208,
+    "totalSeconds": 0.060981,
     "seconds": {
-      "compiling": 0.030991958,
-      "optimizing": 0.005325292,
-      "rendering": 0.013769041
+      "compiling": 0.032403667,
+      "autodiff": 0.008585875,
+      "optimizing": 0.005340458,
+      "rendering": 0.016939667
     }
   },
   "linear-algebra-domain/two-vectors-perp": {
-    "totalSeconds": 0.045724959,
+    "totalSeconds": 0.052131916,
     "seconds": {
-      "compiling": 0.029997209,
-      "optimizing": 0.003460333,
-      "rendering": 0.003349458
+      "compiling": 0.032051875,
+      "autodiff": 0.008536083,
+      "optimizing": 0.004773125,
+      "rendering": 0.003761125
     }
   },
   "tutorials/tutorial1": {
-    "totalSeconds": 0.009613583,
+    "totalSeconds": 0.010852041,
     "seconds": {
-      "compiling": 0.003839458,
-      "optimizing": 0.000188125,
-      "rendering": 0.000555
+      "compiling": 0.004202083,
+      "autodiff": 0.000622959,
+      "optimizing": 0.000226125,
+      "rendering": 0.000722042
     }
   },
   "tutorials/tutorial2": {
-    "totalSeconds": 0.009328708,
+    "totalSeconds": 0.011843666,
     "seconds": {
-      "compiling": 0.003566166,
-      "optimizing": 0.000060375,
-      "rendering": 0.000476042
+      "compiling": 0.004096833,
+      "autodiff": 0.00061375,
+      "optimizing": 0.00005925,
+      "rendering": 0.00180075
     }
   },
   "tutorials/tutorial3": {
-    "totalSeconds": 0.019120167,
+    "totalSeconds": 0.021067125,
     "seconds": {
-      "compiling": 0.012040959,
-      "optimizing": 0.000171166,
-      "rendering": 0.001663542
+      "compiling": 0.011257083,
+      "autodiff": 0.002795958,
+      "optimizing": 0.000174583,
+      "rendering": 0.003529459
     }
   },
   "molecules/nitricacid-lewis": {
-    "totalSeconds": 0.196319458,
+    "totalSeconds": 0.233037333,
     "seconds": {
-      "compiling": 0.129890875,
-      "optimizing": 0.046121708,
-      "rendering": 0.004529
+      "compiling": 0.138026541,
+      "autodiff": 0.023822416,
+      "optimizing": 0.058492875,
+      "rendering": 0.020405
     }
   },
   "exterior-algebra/vector-wedge": {
-    "totalSeconds": 0.044128,
+    "totalSeconds": 0.048099958,
     "seconds": {
-      "compiling": 0.028944875,
-      "optimizing": 0.003191583,
-      "rendering": 0.005947417
+      "compiling": 0.03150325,
+      "autodiff": 0.012243833,
+      "optimizing": 0.003351583,
+      "rendering": 0.006448542
     }
   },
   "shape-spec/all-shapes": {
-    "totalSeconds": 0.233651542,
+    "totalSeconds": 0.396868625,
     "seconds": {
-      "compiling": 0.041144334,
-      "optimizing": 0.000779208,
-      "rendering": 0.186047625
+      "compiling": 0.047795083,
+      "autodiff": 0.015555042,
+      "optimizing": 0.000815375,
+      "rendering": 0.342262417
     }
   },
   "shape-spec/arrowheads": {
-    "totalSeconds": 0.037046166,
+    "totalSeconds": 0.042968292,
     "seconds": {
-      "compiling": 0.022820541,
-      "optimizing": 0.001912459,
-      "rendering": 0.006944291
+      "compiling": 0.026305584,
+      "autodiff": 0.010767083,
+      "optimizing": 0.001982875,
+      "rendering": 0.008446875
     }
   },
   "graph-domain/textbook/sec1/fig1": {
-    "totalSeconds": 0.242799834,
+    "totalSeconds": 0.23312625,
     "seconds": {
-      "compiling": 0.115641875,
-      "optimizing": 0.099786959,
-      "rendering": 0.021773666
+      "compiling": 0.104142416,
+      "autodiff": 0.068981375,
+      "optimizing": 0.109701459,
+      "rendering": 0.010969875
     }
   },
   "graph-domain/textbook/sec1/fig2": {
-    "totalSeconds": 0.376387459,
+    "totalSeconds": 0.378555334,
     "seconds": {
-      "compiling": 0.130293833,
-      "optimizing": 0.229594792,
-      "rendering": 0.009400416
+      "compiling": 0.131643459,
+      "autodiff": 0.091667375,
+      "optimizing": 0.230068833,
+      "rendering": 0.009922458
     }
   },
   "graph-domain/textbook/sec1/fig3": {
-    "totalSeconds": 0.374143667,
+    "totalSeconds": 0.394998333,
     "seconds": {
-      "compiling": 0.133263125,
-      "optimizing": 0.2283335,
-      "rendering": 0.009320292
+      "compiling": 0.158593417,
+      "autodiff": 0.11664625,
+      "optimizing": 0.219024833,
+      "rendering": 0.010737542
     }
   },
   "graph-domain/textbook/sec1/fig4": {
-    "totalSeconds": 0.391901541,
+    "totalSeconds": 0.374394959,
     "seconds": {
-      "compiling": 0.16319975,
-      "optimizing": 0.208714917,
-      "rendering": 0.01351125
+      "compiling": 0.148960166,
+      "autodiff": 0.103923666,
+      "optimizing": 0.204629167,
+      "rendering": 0.014754083
     }
   },
   "spectral-graphs/examples/hexagonal-lattice": {
-    "totalSeconds": 1.375091375,
+    "totalSeconds": 1.442415542,
     "seconds": {
-      "compiling": 1.0255595,
-      "optimizing": 0.284867583,
-      "rendering": 0.059706375
+      "compiling": 1.077992916,
+      "autodiff": 0.170680125,
+      "optimizing": 0.296831334,
+      "rendering": 0.062293625
     }
   },
   "dinoshade/dinoshade": {
-    "totalSeconds": 0.656373417,
+    "totalSeconds": 0.637191875,
     "seconds": {
-      "compiling": 0.56091375,
-      "optimizing": 0.0012035,
-      "rendering": 0.068586542
+      "compiling": 0.534982,
+      "autodiff": 0.00373825,
+      "optimizing": 0.000646458,
+      "rendering": 0.073747709
     }
   },
   "spectral-graphs/examples/star-graph": {
-    "totalSeconds": 1.1826330409999999,
+    "totalSeconds": 1.289510666,
     "seconds": {
-      "compiling": 1.079862792,
-      "optimizing": 0.062703292,
-      "rendering": 0.035031125
+      "compiling": 1.178475334,
+      "autodiff": 0.0163445,
+      "optimizing": 0.064492625,
+      "rendering": 0.03840275
     }
   },
   "spectral-graphs/examples/box": {
-    "totalSeconds": 0.867890916,
+    "totalSeconds": 0.936724458,
     "seconds": {
-      "compiling": 0.7690275,
-      "optimizing": 0.061789208,
-      "rendering": 0.03225525
+      "compiling": 0.821082042,
+      "autodiff": 0.02243975,
+      "optimizing": 0.065625333,
+      "rendering": 0.033670542
     }
   },
   "graph-domain/textbook/sec1/fig5": {
-    "totalSeconds": 0.478918459,
+    "totalSeconds": 0.507552917,
     "seconds": {
-      "compiling": 0.171407333,
-      "optimizing": 0.266792333,
-      "rendering": 0.015512542
+      "compiling": 0.186429458,
+      "autodiff": 0.126516916,
+      "optimizing": 0.277118625,
+      "rendering": 0.016033667
     }
   },
   "graph-domain/textbook/sec1/fig6": {
-    "totalSeconds": 2.026402041,
+    "totalSeconds": 2.1573995,
     "seconds": {
-      "compiling": 0.570902084,
-      "optimizing": 1.414740708,
-      "rendering": 0.030936125
+      "compiling": 0.654904959,
+      "autodiff": 0.584173583,
+      "optimizing": 1.468204875,
+      "rendering": 0.029985125
     }
   },
   "graph-domain/textbook/sec1/fig7": {
-    "totalSeconds": 0.189045583,
+    "totalSeconds": 0.186202208,
     "seconds": {
-      "compiling": 0.076380334,
-      "optimizing": 0.078051083,
-      "rendering": 0.023982333
+      "compiling": 0.079838125,
+      "autodiff": 0.050053541,
+      "optimizing": 0.078013166,
+      "rendering": 0.02445425
     }
   },
   "graph-domain/textbook/sec1/fig8a": {
-    "totalSeconds": 0.576119291,
+    "totalSeconds": 0.587306584,
     "seconds": {
-      "compiling": 0.181988,
-      "optimizing": 0.374779958,
-      "rendering": 0.015928917
+      "compiling": 0.189484625,
+      "autodiff": 0.131017584,
+      "optimizing": 0.377080125,
+      "rendering": 0.017083375
     }
   },
   "graph-domain/textbook/sec1/fig8b": {
-    "totalSeconds": 0.389707916,
+    "totalSeconds": 0.393171834,
     "seconds": {
-      "compiling": 0.138136084,
-      "optimizing": 0.2399925,
-      "rendering": 0.008376041
+      "compiling": 0.138756458,
+      "autodiff": 0.100202458,
+      "optimizing": 0.241758125,
+      "rendering": 0.0090515
     }
   },
   "graph-domain/textbook/sec1/fig9": {
-    "totalSeconds": 0.265531916,
+    "totalSeconds": 0.257743083,
     "seconds": {
-      "compiling": 0.106793875,
-      "optimizing": 0.14491725,
-      "rendering": 0.010740667
+      "compiling": 0.109172083,
+      "autodiff": 0.07637375,
+      "optimizing": 0.135594417,
+      "rendering": 0.009544542
     }
   },
   "graph-domain/textbook/sec1/fig10": {
-    "totalSeconds": 0.210566625,
+    "totalSeconds": 0.234947958,
     "seconds": {
-      "compiling": 0.105456291,
-      "optimizing": 0.05300475,
-      "rendering": 0.048241084
+      "compiling": 0.128019333,
+      "autodiff": 0.063188292,
+      "optimizing": 0.060049334,
+      "rendering": 0.040882291
     }
   },
   "graph-domain/textbook/sec1/fig11": {
-    "totalSeconds": 0.346972334,
+    "totalSeconds": 0.353097792,
     "seconds": {
-      "compiling": 0.14117425,
-      "optimizing": 0.112845208,
-      "rendering": 0.089692458
+      "compiling": 0.14580175,
+      "autodiff": 0.113376875,
+      "optimizing": 0.122066083,
+      "rendering": 0.081484125
     }
   },
   "graph-domain/textbook/sec1/fig12": {
-    "totalSeconds": 0.440767042,
+    "totalSeconds": 0.464111875,
     "seconds": {
-      "compiling": 0.184210708,
-      "optimizing": 0.247217792,
-      "rendering": 0.005912875
+      "compiling": 0.193248875,
+      "autodiff": 0.151069917,
+      "optimizing": 0.255028208,
+      "rendering": 0.012336667
     }
   },
   "graph-domain/textbook/sec1/fig13": {
-    "totalSeconds": 0.315874333,
+    "totalSeconds": 0.329782875,
     "seconds": {
-      "compiling": 0.132389875,
-      "optimizing": 0.167196667,
-      "rendering": 0.013202208
+      "compiling": 0.138988375,
+      "autodiff": 0.09591425,
+      "optimizing": 0.172418083,
+      "rendering": 0.014771208
     }
   },
   "graph-domain/textbook/sec2/fig3": {
-    "totalSeconds": 1.334597209,
+    "totalSeconds": 1.399587709,
     "seconds": {
-      "compiling": 0.276636958,
-      "optimizing": 1.042242333,
-      "rendering": 0.011873542
+      "compiling": 0.291714916,
+      "autodiff": 0.228855334,
+      "optimizing": 1.090832542,
+      "rendering": 0.012817208
     }
   },
   "graph-domain/textbook/sec2/fig4": {
-    "totalSeconds": 0.79757325,
+    "totalSeconds": 0.842315875,
     "seconds": {
-      "compiling": 0.2270045,
-      "optimizing": 0.557749,
-      "rendering": 0.009867833
+      "compiling": 0.240951541,
+      "autodiff": 0.196640042,
+      "optimizing": 0.587568834,
+      "rendering": 0.010051791
     }
   },
   "graph-domain/textbook/sec2/fig5": {
-    "totalSeconds": 1.337856541,
+    "totalSeconds": 1.399718875,
     "seconds": {
-      "compiling": 0.301641708,
-      "optimizing": 1.019790375,
-      "rendering": 0.012971
+      "compiling": 0.314270208,
+      "autodiff": 0.25284425,
+      "optimizing": 1.068020583,
+      "rendering": 0.013597292
     }
   },
   "graph-domain/textbook/sec2/fig6": {
-    "totalSeconds": 0.912073709,
+    "totalSeconds": 0.966341875,
     "seconds": {
-      "compiling": 0.311931584,
-      "optimizing": 0.589614625,
-      "rendering": 0.007383166
+      "compiling": 0.319358583,
+      "autodiff": 0.265013667,
+      "optimizing": 0.635262,
+      "rendering": 0.007967875
     }
   },
   "graph-domain/textbook/sec2/fig9": {
-    "totalSeconds": 2.339977125,
+    "totalSeconds": 2.472691625,
     "seconds": {
-      "compiling": 0.436494584,
-      "optimizing": 1.883364416,
-      "rendering": 0.015988584
+      "compiling": 0.462032666,
+      "autodiff": 0.379196625,
+      "optimizing": 1.988951334,
+      "rendering": 0.016567916
     }
   },
   "graph-domain/textbook/sec2/fig10a": {
-    "totalSeconds": 0.244894167,
+    "totalSeconds": 0.25522,
     "seconds": {
-      "compiling": 0.1025655,
-      "optimizing": 0.124467667,
-      "rendering": 0.014679667
+      "compiling": 0.108254125,
+      "autodiff": 0.080086208,
+      "optimizing": 0.123811292,
+      "rendering": 0.019212417
     }
   },
   "graph-domain/textbook/sec2/fig10b": {
-    "totalSeconds": 0.225744958,
+    "totalSeconds": 0.235108792,
     "seconds": {
-      "compiling": 0.095853666,
-      "optimizing": 0.078954334,
-      "rendering": 0.047819458
+      "compiling": 0.101809,
+      "autodiff": 0.076011958,
+      "optimizing": 0.076676083,
+      "rendering": 0.053028334
     }
   },
   "graph-domain/textbook/sec2/fig11a": {
-    "totalSeconds": 0.138804959,
+    "totalSeconds": 0.1521005,
     "seconds": {
-      "compiling": 0.085438708,
-      "optimizing": 0.021134125,
-      "rendering": 0.029449958
+      "compiling": 0.09487225,
+      "autodiff": 0.075040334,
+      "optimizing": 0.023737375,
+      "rendering": 0.030315292
     }
   },
   "graph-domain/textbook/sec2/fig11b": {
-    "totalSeconds": 0.098172542,
+    "totalSeconds": 0.121217791,
     "seconds": {
-      "compiling": 0.057473709,
-      "optimizing": 0.012772958,
-      "rendering": 0.024266625
+      "compiling": 0.076349167,
+      "autodiff": 0.057734416,
+      "optimizing": 0.01309425,
+      "rendering": 0.027926125
     }
   },
   "graph-domain/textbook/sec2/fig11c": {
-    "totalSeconds": 0.160539458,
+    "totalSeconds": 0.168811167,
     "seconds": {
-      "compiling": 0.069031416,
-      "optimizing": 0.039003875,
-      "rendering": 0.049444334
+      "compiling": 0.075928875,
+      "autodiff": 0.05016175,
+      "optimizing": 0.034113584,
+      "rendering": 0.055490458
     }
   },
   "graph-domain/textbook/sec2/fig12": {
-    "totalSeconds": 0.116273959,
+    "totalSeconds": 0.119952791,
     "seconds": {
-      "compiling": 0.057899417,
-      "optimizing": 0.018951417,
-      "rendering": 0.036128916
+      "compiling": 0.059886375,
+      "autodiff": 0.041814375,
+      "optimizing": 0.026726125,
+      "rendering": 0.030251334
     }
   },
   "graph-domain/textbook/sec2/fig13": {
-    "totalSeconds": 2.154598709,
+    "totalSeconds": 2.220169459,
     "seconds": {
-      "compiling": 0.409129666,
-      "optimizing": 1.7332062499999998,
-      "rendering": 0.008775542
+      "compiling": 0.424594333,
+      "autodiff": 0.350147125,
+      "optimizing": 1.780761125,
+      "rendering": 0.009318334
     }
   },
   "graph-domain/textbook/sec2/fig14": {
-    "totalSeconds": 0.275202459,
+    "totalSeconds": 0.283965,
     "seconds": {
-      "compiling": 0.116692958,
-      "optimizing": 0.101218917,
-      "rendering": 0.053658458
+      "compiling": 0.122098917,
+      "autodiff": 0.09418975,
+      "optimizing": 0.108629416,
+      "rendering": 0.049531792
     }
   },
   "graph-domain/textbook/sec2/fig16b": {
-    "totalSeconds": 0.131607916,
+    "totalSeconds": 0.134373459,
     "seconds": {
-      "compiling": 0.073280416,
-      "optimizing": 0.020335334,
-      "rendering": 0.0345365
+      "compiling": 0.07536925,
+      "autodiff": 0.054503,
+      "optimizing": 0.020503875,
+      "rendering": 0.034494834
     }
   },
   "geometry-domain/textbook_problems/c05p13": {
-    "totalSeconds": 0.172543667,
+    "totalSeconds": 0.1792045,
     "seconds": {
-      "compiling": 0.096544917,
-      "optimizing": 0.05097725,
-      "rendering": 0.004905083
+      "compiling": 0.10017525,
+      "autodiff": 0.020270125,
+      "optimizing": 0.051254125,
+      "rendering": 0.005300917
     }
   },
   "geometry-domain/textbook_problems/c01p01": {
-    "totalSeconds": 0.142796708,
+    "totalSeconds": 0.14753725,
     "seconds": {
-      "compiling": 0.094009916,
-      "optimizing": 0.041027834,
-      "rendering": 0.00362875
+      "compiling": 0.096826458,
+      "autodiff": 0.021291083,
+      "optimizing": 0.042345167,
+      "rendering": 0.003944958
     }
   },
   "geometry-domain/textbook_problems/c03p01": {
-    "totalSeconds": 0.134022333,
+    "totalSeconds": 0.138739833,
     "seconds": {
-      "compiling": 0.089541833,
-      "optimizing": 0.037369917,
-      "rendering": 0.004305708
+      "compiling": 0.094215792,
+      "autodiff": 0.018001791,
+      "optimizing": 0.036827833,
+      "rendering": 0.004726542
     }
   },
   "geometry-domain/textbook_problems/c05p01": {
-    "totalSeconds": 0.129768375,
+    "totalSeconds": 0.138072125,
     "seconds": {
-      "compiling": 0.092680625,
-      "optimizing": 0.028213875,
-      "rendering": 0.005938958
+      "compiling": 0.096975916,
+      "autodiff": 0.01892675,
+      "optimizing": 0.031542709,
+      "rendering": 0.006207875
     }
   },
   "geometry-domain/textbook_problems/ex": {
-    "totalSeconds": 0.214589375,
+    "totalSeconds": 0.217734458,
     "seconds": {
-      "compiling": 0.125234666,
-      "optimizing": 0.072693042,
-      "rendering": 0.012627083
+      "compiling": 0.129569584,
+      "autodiff": 0.04270075,
+      "optimizing": 0.071125083,
+      "rendering": 0.013373375
     }
   },
   "triangle-mesh-3d/two-triangles": {
-    "totalSeconds": 0.163652916,
+    "totalSeconds": 0.173978583,
     "seconds": {
-      "compiling": 0.103470042,
-      "optimizing": 0.023550583,
-      "rendering": 0.028001792
+      "compiling": 0.108771042,
+      "autodiff": 0.079011084,
+      "optimizing": 0.025624208,
+      "rendering": 0.029745375
     }
   },
   "random-sampling/test": {
-    "totalSeconds": 0.217604166,
+    "totalSeconds": 0.228720167,
     "seconds": {
-      "compiling": 0.171809,
-      "optimizing": 0.017396708,
-      "rendering": 0.015138417
+      "compiling": 0.185251792,
+      "autodiff": 0.050403084,
+      "optimizing": 0.0186125,
+      "rendering": 0.015600166
     }
   },
   "geometry-domain/textbook_problems/c11p12": {
-    "totalSeconds": 0.181149958,
+    "totalSeconds": 0.188487625,
     "seconds": {
-      "compiling": 0.105182375,
-      "optimizing": 0.0659965,
-      "rendering": 0.005490709
+      "compiling": 0.108977584,
+      "autodiff": 0.026226625,
+      "optimizing": 0.067312125,
+      "rendering": 0.00593
     }
   },
   "curve-examples/catmull-rom/catmull-rom": {
-    "totalSeconds": 0.072404208,
+    "totalSeconds": 0.075507083,
     "seconds": {
-      "compiling": 0.025408,
-      "optimizing": 0.035457917,
-      "rendering": 0.005588583
+      "compiling": 0.026619208,
+      "autodiff": 0.011896083,
+      "optimizing": 0.03625875,
+      "rendering": 0.006060667
     }
   },
   "word-cloud/example": {
-    "totalSeconds": 0.237994041,
+    "totalSeconds": 0.250304917,
     "seconds": {
-      "compiling": 0.082761084,
-      "optimizing": 0.123831041,
-      "rendering": 0.025285
+      "compiling": 0.0899495,
+      "autodiff": 0.069400041,
+      "optimizing": 0.140893708,
+      "rendering": 0.012471875
     }
   },
   "geometry-domain/siggraph-teaser": {
-    "totalSeconds": 0.194877,
+    "totalSeconds": 0.188279875,
     "seconds": {
-      "compiling": 0.113555917,
-      "optimizing": 0.059129792,
-      "rendering": 0.008522458
+      "compiling": 0.114906833,
+      "autodiff": 0.028884542,
+      "optimizing": 0.048692459,
+      "rendering": 0.010413333
     }
   },
   "minkowski-tests/maze/non-convex": {
-    "totalSeconds": 0.092044375,
+    "totalSeconds": 0.10217075,
     "seconds": {
-      "compiling": 0.038862333,
-      "optimizing": 0.045907792,
-      "rendering": 0.001904208
+      "compiling": 0.04728175,
+      "autodiff": 0.034387542,
+      "optimizing": 0.046742125,
+      "rendering": 0.001878166
     }
   },
   "lagrange-bases/lagrange-bases": {
-    "totalSeconds": 0.069054334,
+    "totalSeconds": 0.071582958,
     "seconds": {
-      "compiling": 0.035504334,
-      "optimizing": 0.015341208,
-      "rendering": 0.008015167
+      "compiling": 0.037504292,
+      "autodiff": 0.00877425,
+      "optimizing": 0.015421542,
+      "rendering": 0.008433
     }
   },
   "hypergraph/hypergraph": {
-    "totalSeconds": 1.158472208,
+    "totalSeconds": 1.163626625,
     "seconds": {
-      "compiling": 0.177252458,
-      "optimizing": 0.952139208,
-      "rendering": 0.021978042
+      "compiling": 0.185282542,
+      "autodiff": 0.120596792,
+      "optimizing": 0.946893542,
+      "rendering": 0.0235425
     }
   },
   "persistent-homology/persistent-homology": {
-    "totalSeconds": 0.77166775,
+    "totalSeconds": 0.80557075,
     "seconds": {
-      "compiling": 0.108334916,
-      "optimizing": 0.602772167,
-      "rendering": 0.052254333
+      "compiling": 0.113262,
+      "autodiff": 0.035152959,
+      "optimizing": 0.619318917,
+      "rendering": 0.058116833
     }
   },
   "walk-on-spheres/laplace-estimator": {
-    "totalSeconds": 0.181296667,
+    "totalSeconds": 0.190847417,
     "seconds": {
-      "compiling": 0.102603625,
-      "optimizing": 0.036151875,
-      "rendering": 0.039429167
+      "compiling": 0.108746,
+      "autodiff": 0.036706708,
+      "optimizing": 0.041154833,
+      "rendering": 0.036751292
     }
   },
   "walk-on-spheres/poisson-estimator": {
-    "totalSeconds": 0.178438708,
+    "totalSeconds": 0.18564,
     "seconds": {
-      "compiling": 0.105899166,
-      "optimizing": 0.0424725,
-      "rendering": 0.026896834
+      "compiling": 0.107772208,
+      "autodiff": 0.035241125,
+      "optimizing": 0.037942625,
+      "rendering": 0.036602042
     }
   },
   "walk-on-spheres/nested-estimator": {
-    "totalSeconds": 0.273320959,
+    "totalSeconds": 0.282801667,
     "seconds": {
-      "compiling": 0.138876166,
-      "optimizing": 0.070598042,
-      "rendering": 0.0606885
+      "compiling": 0.142671875,
+      "autodiff": 0.062502417,
+      "optimizing": 0.073242958,
+      "rendering": 0.0635655
     }
   },
   "walk-on-spheres/offcenter-estimator": {
-    "totalSeconds": 0.169170958,
+    "totalSeconds": 0.189801292,
     "seconds": {
-      "compiling": 0.098208875,
-      "optimizing": 0.024808583,
-      "rendering": 0.043186417
+      "compiling": 0.114151875,
+      "autodiff": 0.034712,
+      "optimizing": 0.0277135,
+      "rendering": 0.044775583
     }
   },
   "shape-distance/points-around-star": {
-    "totalSeconds": 0.148921917,
+    "totalSeconds": 0.154015083,
     "seconds": {
-      "compiling": 0.120301583,
-      "optimizing": 0.015957,
-      "rendering": 0.006394
+      "compiling": 0.124454541,
+      "autodiff": 0.072169959,
+      "optimizing": 0.015021292,
+      "rendering": 0.00746325
     }
   },
   "shape-distance/points-around-polyline": {
-    "totalSeconds": 0.131542167,
+    "totalSeconds": 0.137314708,
     "seconds": {
-      "compiling": 0.083745333,
-      "optimizing": 0.014785875,
-      "rendering": 0.02939575
+      "compiling": 0.088257834,
+      "autodiff": 0.04293325,
+      "optimizing": 0.014090583,
+      "rendering": 0.031346083
     }
   },
   "shape-distance/points-around-line": {
-    "totalSeconds": 0.09709825,
+    "totalSeconds": 0.10142025,
     "seconds": {
-      "compiling": 0.075682667,
-      "optimizing": 0.005161042,
-      "rendering": 0.008005416
+      "compiling": 0.083702292,
+      "autodiff": 0.033027208,
+      "optimizing": 0.005173375,
+      "rendering": 0.008649042
     }
   },
   "shape-distance/lines-around-rect": {
-    "totalSeconds": 0.057915542,
+    "totalSeconds": 0.0602255,
     "seconds": {
-      "compiling": 0.031170958,
-      "optimizing": 0.008660458,
-      "rendering": 0.013948834
+      "compiling": 0.032416667,
+      "autodiff": 0.02382625,
+      "optimizing": 0.008958875,
+      "rendering": 0.014320416
     }
   },
   "fake-3d-linear-algebra/projection": {
-    "totalSeconds": 0.036356792,
+    "totalSeconds": 0.03810075,
     "seconds": {
-      "compiling": 0.023578583,
-      "optimizing": 0.004942333,
-      "rendering": 0.001735459
+      "compiling": 0.023265,
+      "autodiff": 0.005555667,
+      "optimizing": 0.005300958,
+      "rendering": 0.002135417
     }
   },
   "animation/center-shrink-circle": {
-    "totalSeconds": 0.014238541,
+    "totalSeconds": 0.016027125,
     "seconds": {
-      "compiling": 0.007541291,
-      "optimizing": 0.000907,
-      "rendering": 0.001258625
+      "compiling": 0.008266875,
+      "autodiff": 0.002300125,
+      "optimizing": 0.000979,
+      "rendering": 0.001254792
     }
   },
   "graph-domain/other-examples/hamiltonian-cycle": {
-    "totalSeconds": 0.341637709,
+    "totalSeconds": 0.35424375,
     "seconds": {
-      "compiling": 0.13812925,
-      "optimizing": 0.188490333,
-      "rendering": 0.011875417
+      "compiling": 0.146414917,
+      "autodiff": 0.101169208,
+      "optimizing": 0.191969375,
+      "rendering": 0.012560166
     }
   },
   "structural-formula/reactions/methane-combustion": {
-    "totalSeconds": 0.7932795,
+    "totalSeconds": 0.873385083,
     "seconds": {
-      "compiling": 0.1570525,
-      "optimizing": 0.604592084,
-      "rendering": 0.022649458
+      "compiling": 0.171023083,
+      "autodiff": 0.072191209,
+      "optimizing": 0.65731125,
+      "rendering": 0.032878625
     }
   },
   "molecules/glutamine": {
-    "totalSeconds": 0.114805833,
+    "totalSeconds": 0.132890958,
     "seconds": {
-      "compiling": 0.069379375,
-      "optimizing": 0.029977458,
-      "rendering": 0.00980375
+      "compiling": 0.081276916,
+      "autodiff": 0.03234575,
+      "optimizing": 0.0329885,
+      "rendering": 0.011354334
     }
   },
   "matrix-ops/tests/matrix-matrix-addition": {
-    "totalSeconds": 0.060471208,
+    "totalSeconds": 0.068119291,
     "seconds": {
-      "compiling": 0.0443965,
-      "optimizing": 0.000726292,
-      "rendering": 0.005234417
+      "compiling": 0.049297,
+      "autodiff": 0.009286791,
+      "optimizing": 0.000829625,
+      "rendering": 0.006228709
     }
   },
   "matrix-ops/tests/matrix-matrix-division-elementwise": {
-    "totalSeconds": 0.054686792,
+    "totalSeconds": 0.066073041,
     "seconds": {
-      "compiling": 0.044088792,
-      "optimizing": 0.0007915,
-      "rendering": 0.00700925
+      "compiling": 0.054993666,
+      "autodiff": 0.011827208,
+      "optimizing": 0.000852459,
+      "rendering": 0.006435333
     }
   },
   "matrix-ops/tests/matrix-matrix-multiplication-elementwise": {
-    "totalSeconds": 0.053480208,
+    "totalSeconds": 0.072897333,
     "seconds": {
-      "compiling": 0.044156042,
-      "optimizing": 0.000726958,
-      "rendering": 0.00551175
+      "compiling": 0.053307167,
+      "autodiff": 0.010981875,
+      "optimizing": 0.000822208,
+      "rendering": 0.010335292
     }
   },
   "matrix-ops/tests/matrix-matrix-multiplication": {
-    "totalSeconds": 0.053109292,
+    "totalSeconds": 0.068863958,
     "seconds": {
-      "compiling": 0.044286584,
-      "optimizing": 0.000742166,
-      "rendering": 0.005245042
+      "compiling": 0.054436541,
+      "autodiff": 0.011324375,
+      "optimizing": 0.000816459,
+      "rendering": 0.006701166
     }
   },
   "matrix-ops/tests/matrix-matrix-subtraction": {
-    "totalSeconds": 0.054821417,
+    "totalSeconds": 0.077512375,
     "seconds": {
-      "compiling": 0.044440333,
-      "optimizing": 0.000748959,
-      "rendering": 0.006536166
+      "compiling": 0.061012708,
+      "autodiff": 0.010677667,
+      "optimizing": 0.000814584,
+      "rendering": 0.008105708
     }
   },
   "matrix-ops/tests/matrix-transpose": {
-    "totalSeconds": 0.050431833,
+    "totalSeconds": 0.072310583,
     "seconds": {
-      "compiling": 0.042820542,
-      "optimizing": 0.000634583,
-      "rendering": 0.00420975
+      "compiling": 0.0545745,
+      "autodiff": 0.009430667,
+      "optimizing": 0.001131875,
+      "rendering": 0.009056
     }
   },
   "matrix-ops/tests/matrix-vector-left-multiplication": {
-    "totalSeconds": 0.049723333,
+    "totalSeconds": 0.071906292,
     "seconds": {
-      "compiling": 0.042243167,
-      "optimizing": 0.000658292,
-      "rendering": 0.004011708
+      "compiling": 0.049824125,
+      "autodiff": 0.008907584,
+      "optimizing": 0.00073175,
+      "rendering": 0.008097875
     }
   },
   "matrix-ops/tests/matrix-vector-right-multiplication": {
-    "totalSeconds": 0.050034083,
+    "totalSeconds": 0.06969425,
     "seconds": {
-      "compiling": 0.042604708,
-      "optimizing": 0.000658084,
-      "rendering": 0.003994958
+      "compiling": 0.053170583,
+      "autodiff": 0.010739166,
+      "optimizing": 0.000746125,
+      "rendering": 0.006525417
     }
   },
   "matrix-ops/tests/scalar-vector-division": {
-    "totalSeconds": 0.048857041,
+    "totalSeconds": 0.071269584,
     "seconds": {
-      "compiling": 0.041413083,
-      "optimizing": 0.00061375,
-      "rendering": 0.003584833
+      "compiling": 0.052799667,
+      "autodiff": 0.009429459,
+      "optimizing": 0.000655958,
+      "rendering": 0.011412333
     }
   },
   "matrix-ops/tests/scalar-vector-left-multiplication": {
-    "totalSeconds": 0.048156834,
+    "totalSeconds": 0.067958416,
     "seconds": {
-      "compiling": 0.04120175,
-      "optimizing": 0.000583667,
-      "rendering": 0.003512125
+      "compiling": 0.0531825,
+      "autodiff": 0.009335292,
+      "optimizing": 0.000655042,
+      "rendering": 0.005654792
     }
   },
   "matrix-ops/tests/scalar-vector-right-multiplication": {
-    "totalSeconds": 0.046883084,
+    "totalSeconds": 0.05194925,
     "seconds": {
-      "compiling": 0.040242208,
-      "optimizing": 0.000626625,
-      "rendering": 0.003140459
+      "compiling": 0.042745958,
+      "autodiff": 0.005625292,
+      "optimizing": 0.000678917,
+      "rendering": 0.004860958
     }
   },
   "matrix-ops/tests/vector-vector-addition": {
-    "totalSeconds": 0.047643542,
+    "totalSeconds": 0.051295583,
     "seconds": {
-      "compiling": 0.040675959,
-      "optimizing": 0.000581416,
-      "rendering": 0.003430709
+      "compiling": 0.043400125,
+      "autodiff": 0.00667175,
+      "optimizing": 0.000793292,
+      "rendering": 0.0041375
     }
   },
   "matrix-ops/tests/vector-vector-division-elementwise": {
-    "totalSeconds": 0.048234542,
+    "totalSeconds": 0.052542542,
     "seconds": {
-      "compiling": 0.041195292,
-      "optimizing": 0.00059425,
-      "rendering": 0.003624208
+      "compiling": 0.042435458,
+      "autodiff": 0.006793,
+      "optimizing": 0.00069025,
+      "rendering": 0.004269209
     }
   },
   "matrix-ops/tests/vector-vector-multiplication-elementwise": {
-    "totalSeconds": 0.047964625,
+    "totalSeconds": 0.052084875,
     "seconds": {
-      "compiling": 0.040900083,
-      "optimizing": 0.000629667,
-      "rendering": 0.003621041
+      "compiling": 0.043571083,
+      "autodiff": 0.007249959,
+      "optimizing": 0.000622833,
+      "rendering": 0.004134
     }
   },
   "matrix-ops/tests/vector-vector-outerproduct": {
-    "totalSeconds": 0.051446542,
+    "totalSeconds": 0.054427083,
     "seconds": {
-      "compiling": 0.043377458,
-      "optimizing": 0.000660709,
-      "rendering": 0.004191125
+      "compiling": 0.045413208,
+      "autodiff": 0.007189625,
+      "optimizing": 0.000683334,
+      "rendering": 0.004768541
     }
   },
   "matrix-ops/tests/vector-vector-subtraction": {
-    "totalSeconds": 0.048200083,
+    "totalSeconds": 0.053657416,
     "seconds": {
-      "compiling": 0.041046542,
-      "optimizing": 0.000582833,
-      "rendering": 0.003683458
+      "compiling": 0.043041083,
+      "autodiff": 0.006717,
+      "optimizing": 0.000633167,
+      "rendering": 0.006048916
     }
   },
   "logic-circuit-domain/half-adder": {
-    "totalSeconds": 0.098405625,
+    "totalSeconds": 0.106897916,
     "seconds": {
-      "compiling": 0.047553875,
-      "optimizing": 0.035818792,
-      "rendering": 0.006934875
+      "compiling": 0.051927416,
+      "autodiff": 0.012589375,
+      "optimizing": 0.039544667,
+      "rendering": 0.006915417
     }
   },
   "curve-examples/cubic-bezier": {
-    "totalSeconds": 0.260747917,
+    "totalSeconds": 0.275050584,
     "seconds": {
-      "compiling": 0.046342375,
-      "optimizing": 0.202432875,
-      "rendering": 0.006558667
+      "compiling": 0.048631416,
+      "autodiff": 0.030842417,
+      "optimizing": 0.213824625,
+      "rendering": 0.006662209
     }
   },
   "triangle-mesh-2d/diagrams/cotan-formula": {
-    "totalSeconds": 0.141724583,
+    "totalSeconds": 0.147810958,
     "seconds": {
-      "compiling": 0.083040458,
-      "optimizing": 0.03878,
-      "rendering": 0.007115042
+      "compiling": 0.087899292,
+      "autodiff": 0.025138834,
+      "optimizing": 0.038158042,
+      "rendering": 0.007533083
     }
   },
   "triangle-mesh-2d/diagrams/concyclic-pair": {
-    "totalSeconds": 0.139468458,
+    "totalSeconds": 0.145351625,
     "seconds": {
-      "compiling": 0.07003575,
-      "optimizing": 0.058969416,
-      "rendering": 0.007350542
+      "compiling": 0.072882125,
+      "autodiff": 0.0172555,
+      "optimizing": 0.061340083,
+      "rendering": 0.007871375
     }
   },
   "triangle-mesh-2d/diagrams/halfedge-mesh": {
-    "totalSeconds": 0.09630025,
+    "totalSeconds": 0.100295292,
     "seconds": {
-      "compiling": 0.071809208,
-      "optimizing": 0.008587583,
-      "rendering": 0.012515792
+      "compiling": 0.072944125,
+      "autodiff": 0.01669125,
+      "optimizing": 0.008653583,
+      "rendering": 0.015144167
     }
   },
   "triangle-mesh-2d/diagrams/relative-orientation": {
-    "totalSeconds": 0.138341625,
+    "totalSeconds": 0.151999125,
     "seconds": {
-      "compiling": 0.1152385,
-      "optimizing": 0.015003542,
-      "rendering": 0.005127
+      "compiling": 0.126583208,
+      "autodiff": 0.043928792,
+      "optimizing": 0.015372959,
+      "rendering": 0.006238
     }
   },
   "triangle-mesh-2d/diagrams/triangle-centers": {
-    "totalSeconds": 0.083657,
+    "totalSeconds": 0.090321625,
     "seconds": {
-      "compiling": 0.065897625,
-      "optimizing": 0.011284708,
-      "rendering": 0.003605375
+      "compiling": 0.066582083,
+      "autodiff": 0.014096375,
+      "optimizing": 0.009933917,
+      "rendering": 0.007284083
     }
   },
   "triangle-mesh-2d/diagrams/angle-equivalence": {
-    "totalSeconds": 0.28264825,
+    "totalSeconds": 0.304347458,
     "seconds": {
-      "compiling": 0.101548666,
-      "optimizing": 0.160407209,
-      "rendering": 0.016622083
+      "compiling": 0.107170166,
+      "autodiff": 0.035114708,
+      "optimizing": 0.174486459,
+      "rendering": 0.01732
     }
   },
   "timeline/penrose": {
-    "totalSeconds": 0.329721375,
+    "totalSeconds": 0.342688791,
     "seconds": {
-      "compiling": 0.153216875,
-      "optimizing": 0.072677625,
-      "rendering": 0.096400083
+      "compiling": 0.160481375,
+      "autodiff": 0.109821667,
+      "optimizing": 0.078436458,
+      "rendering": 0.095217709
     }
   },
   "graph-domain/textbook/sec5/ex32": {
-    "totalSeconds": 2.079697042,
+    "totalSeconds": 2.1907924579999998,
     "seconds": {
-      "compiling": 0.360652375,
-      "optimizing": 1.702936375,
-      "rendering": 0.010580458
+      "compiling": 0.370580958,
+      "autodiff": 0.313244125,
+      "optimizing": 1.802331917,
+      "rendering": 0.011164417
     }
   },
   "curve-examples/open-elastic-curve": {
-    "totalSeconds": 0.260284416,
+    "totalSeconds": 0.264210709,
     "seconds": {
-      "compiling": 0.109562834,
-      "optimizing": 0.143880166,
-      "rendering": 0.002798417
+      "compiling": 0.110707292,
+      "autodiff": 0.081073166,
+      "optimizing": 0.144896667,
+      "rendering": 0.003609625
     }
   },
   "curve-examples/closed-elastic-curve": {
-    "totalSeconds": 0.293148125,
+    "totalSeconds": 0.296489834,
     "seconds": {
-      "compiling": 0.106209375,
-      "optimizing": 0.180573083,
-      "rendering": 0.002770458
+      "compiling": 0.107044791,
+      "autodiff": 0.084093042,
+      "optimizing": 0.182727334,
+      "rendering": 0.002451
     }
   },
   "graph-domain/other-examples/arpanet": {
-    "totalSeconds": 1.669431791,
+    "totalSeconds": 1.706317375,
     "seconds": {
-      "compiling": 0.376083792,
-      "optimizing": 1.255948875,
-      "rendering": 0.0305455
+      "compiling": 0.392927334,
+      "autodiff": 0.305217625,
+      "optimizing": 1.2753036660000001,
+      "rendering": 0.031472042
     }
   },
   "graph-domain/other-examples/nyc-subway": {
-    "totalSeconds": 4.414136625,
+    "totalSeconds": 5.812216042,
     "seconds": {
-      "compiling": 0.484531917,
-      "optimizing": 3.898208791,
-      "rendering": 0.026162375
+      "compiling": 0.50554975,
+      "autodiff": 0.442028958,
+      "optimizing": 5.273185042,
+      "rendering": 0.027620291
     }
   },
   "fancy-text/fancy-text": {
-    "totalSeconds": 0.265180167,
+    "totalSeconds": 0.29812775,
     "seconds": {
-      "compiling": 0.097747083,
-      "optimizing": 0.148809125,
-      "rendering": 0.012670167
+      "compiling": 0.105101125,
+      "autodiff": 0.050102375,
+      "optimizing": 0.172094708,
+      "rendering": 0.013684958
     }
   },
   "curve-examples/blobs": {
-    "totalSeconds": 2.1282735,
+    "totalSeconds": 2.603356,
     "seconds": {
-      "compiling": 0.305215625,
-      "optimizing": 1.799090292,
-      "rendering": 0.012819458
+      "compiling": 0.322469042,
+      "autodiff": 0.241342375,
+      "optimizing": 2.198227542,
+      "rendering": 0.071955708
     }
   },
   "curve-examples/space-curves": {
-    "totalSeconds": 0.767270792,
+    "totalSeconds": 0.884469833,
     "seconds": {
-      "compiling": 0.334693709,
-      "optimizing": 0.394243,
-      "rendering": 0.009650416
+      "compiling": 0.440869916,
+      "autodiff": 0.09304875,
+      "optimizing": 0.398905084,
+      "rendering": 0.014571333
     }
   },
   "geometric-queries/ray-intersect/test-group": {
-    "totalSeconds": 0.658124125,
+    "totalSeconds": 0.7088365,
     "seconds": {
-      "compiling": 0.613756417,
-      "optimizing": 0.009699708,
-      "rendering": 0.029104125
+      "compiling": 0.659491917,
+      "autodiff": 0.025262292,
+      "optimizing": 0.008453458,
+      "rendering": 0.034051917
     }
   },
   "ray-tracing/path-trace": {
-    "totalSeconds": 0.067527125,
+    "totalSeconds": 0.082888209,
     "seconds": {
-      "compiling": 0.042683584,
-      "optimizing": 0.000518625,
-      "rendering": 0.012659375
+      "compiling": 0.046005875,
+      "autodiff": 0.003504625,
+      "optimizing": 0.000605333,
+      "rendering": 0.025447042
     }
   },
   "ray-tracing/bidirectional": {
-    "totalSeconds": 0.062107583,
+    "totalSeconds": 0.072361916,
     "seconds": {
-      "compiling": 0.049751083,
-      "optimizing": 0.000821292,
-      "rendering": 0.008395708
+      "compiling": 0.055184125,
+      "autodiff": 0.004460708,
+      "optimizing": 0.000983625,
+      "rendering": 0.012999042
     }
   },
   "ray-tracing/next-event-estimation": {
-    "totalSeconds": 0.060075375,
+    "totalSeconds": 0.066380625,
     "seconds": {
-      "compiling": 0.04838525,
-      "optimizing": 0.0006215,
-      "rendering": 0.008267792
+      "compiling": 0.051014667,
+      "autodiff": 0.003249917,
+      "optimizing": 0.000702583,
+      "rendering": 0.011411292
     }
   },
   "geometric-queries/test": {
-    "totalSeconds": 0.113405166,
+    "totalSeconds": 0.126035208,
     "seconds": {
-      "compiling": 0.085483292,
-      "optimizing": 0.005986875,
-      "rendering": 0.013500375
+      "compiling": 0.09439525,
+      "autodiff": 0.009673917,
+      "optimizing": 0.007851125,
+      "rendering": 0.013794041
     }
   },
   "geometric-queries/closest-point/test-group": {
-    "totalSeconds": 0.099065333,
+    "totalSeconds": 0.101090667,
     "seconds": {
-      "compiling": 0.064130625,
-      "optimizing": 0.020045458,
-      "rendering": 0.008661917
+      "compiling": 0.06673625,
+      "autodiff": 0.011846417,
+      "optimizing": 0.018426667,
+      "rendering": 0.009279833
     }
   },
   "geometric-queries/closest-point/test": {
-    "totalSeconds": 0.039710584,
+    "totalSeconds": 0.039415625,
     "seconds": {
-      "compiling": 0.0309265,
-      "optimizing": 0.00229225,
-      "rendering": 0.003566583
+      "compiling": 0.03072575,
+      "autodiff": 0.011873208,
+      "optimizing": 0.002327833,
+      "rendering": 0.002994792
     }
   },
   "geometric-queries/closest-silhouette-point/test": {
-    "totalSeconds": 0.042647125,
+    "totalSeconds": 0.043854542,
     "seconds": {
-      "compiling": 0.031029291,
-      "optimizing": 0.00138925,
-      "rendering": 0.004164417
+      "compiling": 0.032039291,
+      "autodiff": 0.011418584,
+      "optimizing": 0.00135625,
+      "rendering": 0.003200625
     }
   },
   "geometric-queries/ray-intersect/test": {
-    "totalSeconds": 0.434524083,
+    "totalSeconds": 0.444674417,
     "seconds": {
-      "compiling": 0.378720834,
-      "optimizing": 0.018149458,
-      "rendering": 0.03208275
+      "compiling": 0.384168875,
+      "autodiff": 0.096745459,
+      "optimizing": 0.019888791,
+      "rendering": 0.033954125
     }
   },
   "box-arrow-diagram/computer-architecture": {
-    "totalSeconds": 2.466054959,
+    "totalSeconds": 2.5601875830000003,
     "seconds": {
-      "compiling": 0.46424475,
-      "optimizing": 1.97680225,
-      "rendering": 0.018851458
+      "compiling": 0.398579375,
+      "autodiff": 0.311305292,
+      "optimizing": 2.125702416,
+      "rendering": 0.028567667
     }
   },
   "stochastic-process/stochastic-process": {
-    "totalSeconds": 1.4660617089999999,
+    "totalSeconds": 1.78459775,
     "seconds": {
-      "compiling": 1.289063333,
-      "optimizing": 0.055067917,
-      "rendering": 0.115337541
+      "compiling": 1.094163625,
+      "autodiff": 1.042133416,
+      "optimizing": 0.117471667,
+      "rendering": 0.564921875
     }
   },
   "stochastic-process/epsilon-shell/AbsorbingBoundary": {
-    "totalSeconds": 1.20986725,
+    "totalSeconds": 1.5045385420000001,
     "seconds": {
-      "compiling": 1.1031819999999999,
-      "optimizing": 0.046323917,
-      "rendering": 0.044864541
+      "compiling": 1.392464833,
+      "autodiff": 1.255429417,
+      "optimizing": 0.059511334,
+      "rendering": 0.041256958
     }
   },
   "solid/eigenspace": {
-    "totalSeconds": 0.094995
+    "totalSeconds": 0.118439375
   },
   "solid/triangles": {
-    "totalSeconds": 0.034744958
+    "totalSeconds": 0.032497459
   },
   "solid/vectors": {
-    "totalSeconds": 0.032555625
+    "totalSeconds": 0.041780084
   },
   "tsne/tsne": {
-    "totalSeconds": 1.611989208,
+    "totalSeconds": 1.6736799580000001,
     "seconds": {
-      "compiling": 0.609036958,
-      "optimizing": 0.96349075,
-      "rendering": 0.028705208
+      "compiling": 0.618227292,
+      "autodiff": 0.583589042,
+      "optimizing": 1.0067635,
+      "rendering": 0.040442291
     }
   },
   "spectral-graphs/examples/4x4-sudoku-graph": {
-    "totalSeconds": 0.181343916,
+    "totalSeconds": 0.247888916,
     "seconds": {
-      "compiling": 0.115898833,
-      "optimizing": 0.043382167,
-      "rendering": 0.017835208
+      "compiling": 0.177010334,
+      "autodiff": 0.035582083,
+      "optimizing": 0.045009791,
+      "rendering": 0.020186084
     }
   },
   "spectral-graphs/examples/dodecahedral-graph": {
-    "totalSeconds": 0.108192,
+    "totalSeconds": 0.160646458,
     "seconds": {
-      "compiling": 0.06395525,
-      "optimizing": 0.031053125,
-      "rendering": 0.009790542
+      "compiling": 0.11101075,
+      "autodiff": 0.022230916,
+      "optimizing": 0.031327458,
+      "rendering": 0.013793375
     }
   },
   "matrix-library/crossProductMatrix": {
-    "totalSeconds": 0.0353225,
+    "totalSeconds": 0.040078542,
     "seconds": {
-      "compiling": 0.023543458,
+      "compiling": 0.02674025,
+      "autodiff": 0.00325925,
       "optimizing": 0.000163792,
-      "rendering": 0.001980417
+      "rendering": 0.002251708
     }
   },
   "matrix-library/diagonal2d": {
-    "totalSeconds": 0.022059416,
+    "totalSeconds": 0.025159042,
     "seconds": {
-      "compiling": 0.013029792,
-      "optimizing": 0.000098541,
-      "rendering": 0.00093325
+      "compiling": 0.015045125,
+      "autodiff": 0.001353292,
+      "optimizing": 0.00011475,
+      "rendering": 0.00102675
     }
   },
   "matrix-library/diagonal3d": {
-    "totalSeconds": 0.028845458,
+    "totalSeconds": 0.039749375,
     "seconds": {
-      "compiling": 0.024231291,
-      "optimizing": 0.000141084,
-      "rendering": 0.001720458
+      "compiling": 0.032691334,
+      "autodiff": 0.00428725,
+      "optimizing": 0.000198083,
+      "rendering": 0.003877458
     }
   },
   "matrix-library/identity2d": {
-    "totalSeconds": 0.018216583,
+    "totalSeconds": 0.02132275,
     "seconds": {
-      "compiling": 0.01328825,
-      "optimizing": 0.000104459,
-      "rendering": 0.001910791
+      "compiling": 0.01466675,
+      "autodiff": 0.001061042,
+      "optimizing": 0.000121417,
+      "rendering": 0.001297416
     }
   },
   "matrix-library/identity3d": {
-    "totalSeconds": 0.028485708,
+    "totalSeconds": 0.03402175,
     "seconds": {
-      "compiling": 0.023676708,
-      "optimizing": 0.000142792,
-      "rendering": 0.001742125
+      "compiling": 0.027082292,
+      "autodiff": 0.004348292,
+      "optimizing": 0.000261333,
+      "rendering": 0.002507834
     }
   },
   "matrix-library/inverse2d": {
-    "totalSeconds": 0.017755125,
+    "totalSeconds": 0.02615725,
     "seconds": {
-      "compiling": 0.013553667,
-      "optimizing": 0.000101291,
-      "rendering": 0.000935334
+      "compiling": 0.0182135,
+      "autodiff": 0.001414875,
+      "optimizing": 0.000135375,
+      "rendering": 0.001557625
     }
   },
   "matrix-library/inverse3d": {
-    "totalSeconds": 0.029609542,
+    "totalSeconds": 0.034826834,
     "seconds": {
-      "compiling": 0.024787416,
-      "optimizing": 0.000167167,
-      "rendering": 0.001920042
+      "compiling": 0.026713292,
+      "autodiff": 0.004507417,
+      "optimizing": 0.000199791,
+      "rendering": 0.003651417
     }
   },
   "matrix-library/matrix2d": {
-    "totalSeconds": 0.016933583,
+    "totalSeconds": 0.01941375,
     "seconds": {
-      "compiling": 0.013083167,
-      "optimizing": 0.000102666,
-      "rendering": 0.000948584
+      "compiling": 0.014566541,
+      "autodiff": 0.001290334,
+      "optimizing": 0.000126709,
+      "rendering": 0.001213416
     }
   },
   "matrix-library/matrix3d": {
-    "totalSeconds": 0.030202833,
+    "totalSeconds": 0.03353875,
     "seconds": {
-      "compiling": 0.024182708,
-      "optimizing": 0.000145167,
-      "rendering": 0.001758291
+      "compiling": 0.027461125,
+      "autodiff": 0.003689458,
+      "optimizing": 0.000159041,
+      "rendering": 0.0023685
     }
   },
   "matrix-library/outerProduct2d": {
-    "totalSeconds": 0.016969959,
+    "totalSeconds": 0.043073917,
     "seconds": {
-      "compiling": 0.013168375,
-      "optimizing": 0.000099625,
-      "rendering": 0.000953083
+      "compiling": 0.029920208,
+      "autodiff": 0.00404925,
+      "optimizing": 0.000165458,
+      "rendering": 0.002530584
     }
   },
   "matrix-library/outerProduct3d": {
-    "totalSeconds": 0.030178958,
+    "totalSeconds": 0.04441475,
     "seconds": {
-      "compiling": 0.024721625,
-      "optimizing": 0.000151833,
-      "rendering": 0.001771417
+      "compiling": 0.0338575,
+      "autodiff": 0.005121583,
+      "optimizing": 0.000194708,
+      "rendering": 0.003277292
     }
   },
   "matrix-library/rotate": {
-    "totalSeconds": 0.017848458,
+    "totalSeconds": 0.025928417,
     "seconds": {
-      "compiling": 0.013698875,
-      "optimizing": 0.000105458,
-      "rendering": 0.001010167
+      "compiling": 0.020839375,
+      "autodiff": 0.001336,
+      "optimizing": 0.000127875,
+      "rendering": 0.001371042
     }
   },
   "matrix-library/rotate2d": {
-    "totalSeconds": 0.017450709,
+    "totalSeconds": 0.025668583,
     "seconds": {
-      "compiling": 0.013072416,
-      "optimizing": 0.000116292,
-      "rendering": 0.001038458
+      "compiling": 0.019289,
+      "autodiff": 0.001607708,
+      "optimizing": 0.000123084,
+      "rendering": 0.001488625
     }
   },
   "matrix-library/rotate3d": {
-    "totalSeconds": 0.02977675,
+    "totalSeconds": 0.041828125,
     "seconds": {
-      "compiling": 0.024689334,
-      "optimizing": 0.000158333,
-      "rendering": 0.001811833
+      "compiling": 0.03138325,
+      "autodiff": 0.00822075,
+      "optimizing": 0.000269958,
+      "rendering": 0.003988875
     }
   },
   "matrix-library/rotate3dh": {
-    "totalSeconds": 0.031777584,
+    "totalSeconds": 0.037708959,
     "seconds": {
-      "compiling": 0.025984667,
-      "optimizing": 0.000168625,
-      "rendering": 0.001803542
+      "compiling": 0.030798834,
+      "autodiff": 0.004639709,
+      "optimizing": 0.000245875,
+      "rendering": 0.003231083
     }
   },
   "matrix-library/scale2d": {
-    "totalSeconds": 0.017322459,
+    "totalSeconds": 0.022495375,
     "seconds": {
-      "compiling": 0.013054584,
-      "optimizing": 0.000108041,
-      "rendering": 0.001059417
+      "compiling": 0.016926958,
+      "autodiff": 0.001387791,
+      "optimizing": 0.000127375,
+      "rendering": 0.001278667
     }
   },
   "matrix-library/scale3d": {
-    "totalSeconds": 0.029244667,
+    "totalSeconds": 0.034408083,
     "seconds": {
-      "compiling": 0.024550625,
-      "optimizing": 0.000144708,
-      "rendering": 0.001720709
+      "compiling": 0.028838417,
+      "autodiff": 0.004966333,
+      "optimizing": 0.000169333,
+      "rendering": 0.002061208
     }
   },
   "matrix-library/shear2d": {
-    "totalSeconds": 0.018733333,
+    "totalSeconds": 0.020757917,
     "seconds": {
-      "compiling": 0.014028959,
-      "optimizing": 0.000158916,
-      "rendering": 0.001118959
+      "compiling": 0.015335375,
+      "autodiff": 0.001101833,
+      "optimizing": 0.000142542,
+      "rendering": 0.001099375
     }
   },
   "matrix-library/shear3d": {
-    "totalSeconds": 0.029647875,
+    "totalSeconds": 0.033476083,
     "seconds": {
-      "compiling": 0.024225209,
-      "optimizing": 0.000151833,
-      "rendering": 0.002551542
+      "compiling": 0.026041625,
+      "autodiff": 0.003608959,
+      "optimizing": 0.000161833,
+      "rendering": 0.003064167
     }
   },
   "matrix-library/skew2d": {
-    "totalSeconds": 0.017612125,
+    "totalSeconds": 0.019517666,
     "seconds": {
-      "compiling": 0.013509083,
-      "optimizing": 0.000105583,
-      "rendering": 0.000973792
+      "compiling": 0.014153708,
+      "autodiff": 0.001171459,
+      "optimizing": 0.000118042,
+      "rendering": 0.001128875
     }
   },
   "matrix-library/translate2d": {
-    "totalSeconds": 0.017891208,
+    "totalSeconds": 0.02058325,
     "seconds": {
-      "compiling": 0.014158208,
-      "optimizing": 0.000105375,
-      "rendering": 0.0009265
+      "compiling": 0.015174334,
+      "autodiff": 0.001277625,
+      "optimizing": 0.0001205,
+      "rendering": 0.001330583
     }
   },
   "matrix-library/translate3dh": {
-    "totalSeconds": 0.029325583,
+    "totalSeconds": 0.035933,
     "seconds": {
-      "compiling": 0.023753916,
-      "optimizing": 0.000155792,
-      "rendering": 0.002542292
+      "compiling": 0.028059042,
+      "autodiff": 0.005262542,
+      "optimizing": 0.000215917,
+      "rendering": 0.003321208
     }
   },
   "atoms-and-bonds/wet-floor": {
-    "totalSeconds": 0.157639167,
+    "totalSeconds": 0.172626209,
     "seconds": {
-      "compiling": 0.038216375,
-      "optimizing": 0.106945959,
-      "rendering": 0.007414291
+      "compiling": 0.043757625,
+      "autodiff": 0.021914,
+      "optimizing": 0.114434666,
+      "rendering": 0.008004209
     }
   },
   "curve-examples/offset": {
-    "totalSeconds": 0.141086334,
+    "totalSeconds": 0.153186667,
     "seconds": {
-      "compiling": 0.035791709,
-      "optimizing": 0.0891045,
-      "rendering": 0.011523125
+      "compiling": 0.039376208,
+      "autodiff": 0.0226255,
+      "optimizing": 0.094752167,
+      "rendering": 0.014199167
     }
   },
   "curve-examples/frenet-frame": {
-    "totalSeconds": 0.084765458,
+    "totalSeconds": 0.09525025,
     "seconds": {
-      "compiling": 0.031335542,
-      "optimizing": 0.040460917,
-      "rendering": 0.007120666
+      "compiling": 0.03476675,
+      "autodiff": 0.017005667,
+      "optimizing": 0.045847541,
+      "rendering": 0.008153042
     }
   },
   "curve-examples/osculating-circle": {
-    "totalSeconds": 0.045444833,
+    "totalSeconds": 0.05039825,
     "seconds": {
-      "compiling": 0.019403708,
-      "optimizing": 0.018837625,
-      "rendering": 0.002610958
+      "compiling": 0.021732625,
+      "autodiff": 0.008134917,
+      "optimizing": 0.020227625,
+      "rendering": 0.002841375
     }
   },
   "curve-examples/evolute-of-cardioid": {
-    "totalSeconds": 0.275687459,
+    "totalSeconds": 0.29524525,
     "seconds": {
-      "compiling": 0.259108,
-      "optimizing": 0.001415958,
-      "rendering": 0.011155958
+      "compiling": 0.275558125,
+      "autodiff": 0.249035375,
+      "optimizing": 0.00148175,
+      "rendering": 0.012320333
     }
   },
   "spectral-graphs/examples/truncated-cube-graph": {
-    "totalSeconds": 0.112156666,
+    "totalSeconds": 0.137410542,
     "seconds": {
-      "compiling": 0.07723825,
-      "optimizing": 0.022772791,
-      "rendering": 0.007708834
+      "compiling": 0.099079583,
+      "autodiff": 0.004544541,
+      "optimizing": 0.024072959,
+      "rendering": 0.008882791
     }
   },
   "spectral-graphs/examples/torus": {
-    "totalSeconds": 1.861193084,
+    "totalSeconds": 2.061080375,
     "seconds": {
-      "compiling": 1.625984042,
-      "optimizing": 0.181152083,
-      "rendering": 0.046536292
+      "compiling": 1.820948792,
+      "autodiff": 0.024217375,
+      "optimizing": 0.186647958,
+      "rendering": 0.049967625
     }
   },
   "spectral-graphs/examples/mobius": {
-    "totalSeconds": 1.7369575830000001,
+    "totalSeconds": 1.9437490830000002,
     "seconds": {
-      "compiling": 1.448405542,
-      "optimizing": 0.239896166,
-      "rendering": 0.045370542
+      "compiling": 1.64657425,
+      "autodiff": 0.040226334,
+      "optimizing": 0.245835916,
+      "rendering": 0.04756575
     }
   },
   "impossible-ngon/ngon": {
-    "totalSeconds": 1.190910875,
+    "totalSeconds": 1.00851075,
     "seconds": {
-      "compiling": 1.086423958,
-      "optimizing": 0.001987709,
-      "rendering": 0.09518025
+      "compiling": 0.89821375,
+      "autodiff": 0.859209667,
+      "optimizing": 0.0020635,
+      "rendering": 0.099978333
     }
   },
   "impossible-ngon/parameters": {
-    "totalSeconds": 0.037699667,
+    "totalSeconds": 0.038885334,
     "seconds": {
-      "compiling": 0.026305042,
-      "optimizing": 0.000501125,
-      "rendering": 0.004777666
+      "compiling": 0.025928625,
+      "autodiff": 0.009758166,
+      "optimizing": 0.0005325,
+      "rendering": 0.004979375
     }
   },
   "impossible-ngon/nsides-chirality": {
-    "totalSeconds": 0.156577333,
+    "totalSeconds": 0.15408425,
     "seconds": {
-      "compiling": 0.087113583,
-      "optimizing": 0.002117458,
-      "rendering": 0.060873625
+      "compiling": 0.09241125,
+      "autodiff": 0.067866292,
+      "optimizing": 0.002197458,
+      "rendering": 0.051295667
     }
   },
   "spectral-graphs/examples/periodic-hexagonal-lattice": {
-    "totalSeconds": 0.52731725,
+    "totalSeconds": 0.561776916,
     "seconds": {
-      "compiling": 0.368214709,
-      "optimizing": 0.129592875,
-      "rendering": 0.020363583
+      "compiling": 0.402078875,
+      "autodiff": 0.01138325,
+      "optimizing": 0.132802833,
+      "rendering": 0.021855292
     }
   },
   "alloy-models/dining-philosophers": {
-    "totalSeconds": 0.052782042,
+    "totalSeconds": 0.057825167,
     "seconds": {
-      "compiling": 0.038171292,
-      "optimizing": 0.000895416,
-      "rendering": 0.006439875
+      "compiling": 0.042123084,
+      "autodiff": 0.017746833,
+      "optimizing": 0.000888375,
+      "rendering": 0.006735875
     }
   },
   "alloy-models/message-passing": {
-    "totalSeconds": 0.438181083,
+    "totalSeconds": 0.447102083,
     "seconds": {
-      "compiling": 0.09417275,
-      "optimizing": 0.326706375,
-      "rendering": 0.011573625
+      "compiling": 0.09958975,
+      "autodiff": 0.067827666,
+      "optimizing": 0.327798708,
+      "rendering": 0.013288
     }
   },
   "alloy-models/ring-leader-election": {
-    "totalSeconds": 0.074280083,
+    "totalSeconds": 0.075187459,
     "seconds": {
-      "compiling": 0.031335208,
-      "optimizing": 0.030695417,
-      "rendering": 0.005553541
+      "compiling": 0.031268959,
+      "autodiff": 0.010784541,
+      "optimizing": 0.031060416,
+      "rendering": 0.006310542
     }
   },
   "alloy-models/river-crossing": {
-    "totalSeconds": 0.233564708,
+    "totalSeconds": 0.21402975,
     "seconds": {
-      "compiling": 0.017819917,
-      "optimizing": 0.00163175,
-      "rendering": 0.207870292
+      "compiling": 0.017142166,
+      "autodiff": 0.003788208,
+      "optimizing": 0.001662209,
+      "rendering": 0.189284875
     }
   },
   "alloy-models/workstations": {
-    "totalSeconds": 0.257018125,
+    "totalSeconds": 0.263163292,
     "seconds": {
-      "compiling": 0.051738667,
-      "optimizing": 0.186879458,
-      "rendering": 0.011581292
+      "compiling": 0.055324875,
+      "autodiff": 0.028892833,
+      "optimizing": 0.187386792,
+      "rendering": 0.012078833
     }
   },
   "alloy-models/generic": {
-    "totalSeconds": 1.091481625,
+    "totalSeconds": 1.106341333,
     "seconds": {
-      "compiling": 0.246907541,
-      "optimizing": 0.820067709,
-      "rendering": 0.015643791
+      "compiling": 0.252246167,
+      "autodiff": 0.196096208,
+      "optimizing": 0.83040775,
+      "rendering": 0.016262333
     }
   },
   "Dynamics/Lyapunov": {
-    "totalSeconds": 0.040127833,
+    "totalSeconds": 0.041491042,
     "seconds": {
-      "compiling": 0.0266135,
-      "optimizing": 0.001552208,
-      "rendering": 0.004542583
+      "compiling": 0.026781375,
+      "autodiff": 0.007406875,
+      "optimizing": 0.001565459,
+      "rendering": 0.005882041
     }
   },
   "fractals/chaos-game/sierpinski-triangle": {
-    "totalSeconds": 1.132477,
+    "totalSeconds": 1.135015125,
     "seconds": {
-      "compiling": 0.682368041,
-      "optimizing": 0.092711917,
-      "rendering": 0.351492208
+      "compiling": 0.683339042,
+      "autodiff": 0.005639875,
+      "optimizing": 0.093361208,
+      "rendering": 0.3528395
     }
   },
   "fractals/chaos-game/vicsek-fractal": {
-    "totalSeconds": 1.24156525,
+    "totalSeconds": 1.30092625,
     "seconds": {
-      "compiling": 0.698405792,
-      "optimizing": 0.193658917,
-      "rendering": 0.34362625
+      "compiling": 0.747885625,
+      "autodiff": 0.00504775,
+      "optimizing": 0.199171875,
+      "rendering": 0.348908417
     }
   },
   "fractals/l-systems/tree": {
-    "totalSeconds": 0.219455917,
+    "totalSeconds": 0.225339875,
     "seconds": {
-      "compiling": 0.15217125,
-      "optimizing": 0.001375959,
-      "rendering": 0.059763875
+      "compiling": 0.15662875,
+      "autodiff": 0.00140925,
+      "optimizing": 0.001409792,
+      "rendering": 0.061794416
     }
   },
   "fractals/ifs/ifs": {
-    "totalSeconds": 1.098077792,
+    "totalSeconds": 1.093372083,
     "seconds": {
-      "compiling": 0.73712525,
-      "optimizing": 0.014321375,
-      "rendering": 0.341384417
+      "compiling": 0.71808725,
+      "autodiff": 0.00199125,
+      "optimizing": 0.016019875,
+      "rendering": 0.345437167
     }
   }
 }

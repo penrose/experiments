@@ -28,6 +28,10 @@ def main():
                         raise Exception(f"duplicate diagram: {name}")
                     tfjs[name] = data
 
+    # Read the TFJS compile time data
+    with open("e7ecab9/data.json", "r") as file:
+        tfjs_compiles = json.load(file)
+
     # Read the Rose data
     with open("rose/data.json", "r") as file:
         rose = json.load(file)
@@ -42,8 +46,9 @@ def main():
         if seconds:
             tfjs_data = tfjs.get(name)
             if tfjs_data:
-                rose_time = seconds["optimizing"]
-                tfjs_time = tfjs_data["seconds"]["optimizing"]
+                tfjs_delta = tfjs_compiles[name]["seconds"]
+                rose_time = seconds["autodiff"] + seconds["optimizing"]
+                tfjs_time = tfjs_delta["autodiff"] + tfjs_data["seconds"]["optimizing"]
                 ratio = tfjs_time / rose_time
                 xs.append(tfjs_time)
                 ys.append(rose_time)

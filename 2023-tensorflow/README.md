@@ -12,7 +12,7 @@ named according to the commit from the main [Penrose][] repo on which the code
 was run.
 
 For contrast, results from an experimental [Rose][] backend can be found in the
-`rose` folder; hese were gathered on commit `4f177d5`. Also, results from a
+`rose` folder; these were gathered on commit `d75fbdd`. Also, results from a
 JavaScript-emitting backend can be found in the `js` folder; these were gathered
 on commit `23b4aaf`.
 
