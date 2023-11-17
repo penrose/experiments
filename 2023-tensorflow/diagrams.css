@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  page-break-after: always;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 95vh; /* Adjust as needed for landscape */
+  width: 100%;
+  margin: 10px; /* Adjust this to increase/decrease margin */
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.svg-wrapper {
+  width: 45%; /* Adjust for margins */
+  margin: 0 2%; /* Space between the two images */
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.caption {
+  margin-top: 10px;
+  font: 20px sans-serif;
+}
+
+.footer {
+  margin-top: auto;
+  padding: 20px;
+  width: 100%;
+  font: 20px monospace;
+}
