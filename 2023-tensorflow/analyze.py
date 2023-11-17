@@ -42,6 +42,10 @@ def main():
     with open("rose/data.json", "r") as file:
         rose = json.load(file)
 
+    # Read the JS data
+    with open("js/data.json", "r") as file:
+        js = json.load(file)
+
     xs = []
     ys = []
     ratios = []
@@ -65,7 +69,7 @@ def main():
             print("non-trio", name)
 
     print()
-    print("ratios:")
+    print("TFJS ratios:")
     for p in range(25, 100, 25):
         print(f"{p:2d}% {np.percentile(ratios, p)}")
 
@@ -83,6 +87,20 @@ def main():
     print()
     print(f"node: {np.median(node_ratios)}")
     print(f"gpu: {np.median(gpu_ratios)}")
+
+    js_ratios = []
+
+    for name, rose_data in rose.items():
+        seconds = rose_data.get("seconds")
+        if seconds:
+            js_time = js[name]["seconds"]["optimizing"]
+            rose_time = seconds["optimizing"]
+            js_ratios.append(js_time / rose_time)
+
+    print()
+    print("JS ratios:")
+    for p in range(25, 100, 25):
+        print(f"{p:2d}% {np.percentile(js_ratios, p)}")
 
     for font in fm.findSystemFonts(["fonts"]):
         fm.fontManager.addfont(font)
