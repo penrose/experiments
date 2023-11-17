@@ -14,7 +14,7 @@ was run.
 For contrast, results from an experimental [Rose][] backend can be found in the
 `rose` folder; these were gathered on commit `d75fbdd`. Also, results from a
 JavaScript-emitting backend can be found in the `js` folder; these were gathered
-on commit `23b4aaf`.
+on commit `349f248`.
 
 If you have Python installed, run `./analyze.py` to generate `data.csv`
 comparing TensorFlow.js and Rose.
